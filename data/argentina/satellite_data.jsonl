@@ -1,0 +1,648 @@
+{"province": "Buenos Aires", "year": 2018, "month": 1, "ndvi_mean": 0.38476999071078627, "ndvi_std": 0.10927975767245621}
+{"province": "Buenos Aires", "year": 2018, "month": 2, "ndvi_mean": 0.34032149891801705, "ndvi_std": 0.10394633936788147}
+{"province": "Buenos Aires", "year": 2018, "month": 3, "ndvi_mean": 0.33360926376936645, "ndvi_std": 0.08232334448672798}
+{"province": "Buenos Aires", "year": 2018, "month": 4, "ndvi_mean": 0.23361041301355737, "ndvi_std": 0.11464704583099741}
+{"province": "Buenos Aires", "year": 2018, "month": 5, "ndvi_mean": 0.3605448970855174, "ndvi_std": 0.0808233797718321}
+{"province": "Buenos Aires", "year": 2018, "month": 6, "ndvi_mean": 0.3037204310407036, "ndvi_std": 0.11879639408647977}
+{"province": "Buenos Aires", "year": 2018, "month": 7, "ndvi_mean": 0.21713679298455335, "ndvi_std": 0.08727299868828403}
+{"province": "Buenos Aires", "year": 2018, "month": 8, "ndvi_mean": 0.28797920305101754, "ndvi_std": 0.08733618039413735}
+{"province": "Buenos Aires", "year": 2018, "month": 9, "ndvi_mean": 0.2669373590096224, "ndvi_std": 0.09727780074568464}
+{"province": "Buenos Aires", "year": 2018, "month": 10, "ndvi_mean": 0.2160703828739541, "ndvi_std": 0.09164916560792168}
+{"province": "Buenos Aires", "year": 2018, "month": 11, "ndvi_mean": 0.2791018215765903, "ndvi_std": 0.09168578594140872}
+{"province": "Buenos Aires", "year": 2018, "month": 12, "ndvi_mean": 0.37199731328166913, "ndvi_std": 0.09465447373174767}
+{"province": "Buenos Aires", "year": 2019, "month": 1, "ndvi_mean": 0.6525954138245088, "ndvi_std": 0.0879869512863344}
+{"province": "Buenos Aires", "year": 2019, "month": 2, "ndvi_mean": 0.5341956589659426, "ndvi_std": 0.10056937753654446}
+{"province": "Buenos Aires", "year": 2019, "month": 3, "ndvi_mean": 0.5118932092832372, "ndvi_std": 0.10430179407605754}
+{"province": "Buenos Aires", "year": 2019, "month": 4, "ndvi_mean": 0.4077645812796907, "ndvi_std": 0.08682096494749167}
+{"province": "Buenos Aires", "year": 2019, "month": 5, "ndvi_mean": 0.3579552917056837, "ndvi_std": 0.10736932106048627}
+{"province": "Buenos Aires", "year": 2019, "month": 6, "ndvi_mean": 0.22958143751447063, "ndvi_std": 0.09760609974958405}
+{"province": "Buenos Aires", "year": 2019, "month": 7, "ndvi_mean": 0.24905519426834463, "ndvi_std": 0.08137554084460874}
+{"province": "Buenos Aires", "year": 2019, "month": 8, "ndvi_mean": 0.175960234973087, "ndvi_std": 0.11637281608315128}
+{"province": "Buenos Aires", "year": 2019, "month": 9, "ndvi_mean": 0.30757814384722326, "ndvi_std": 0.09246844304357645}
+{"province": "Buenos Aires", "year": 2019, "month": 10, "ndvi_mean": 0.4645409445020285, "ndvi_std": 0.10080272084711243}
+{"province": "Buenos Aires", "year": 2019, "month": 11, "ndvi_mean": 0.4570269765771099, "ndvi_std": 0.11878338511058234}
+{"province": "Buenos Aires", "year": 2019, "month": 12, "ndvi_mean": 0.5637802865108387, "ndvi_std": 0.11100531293444459}
+{"province": "Buenos Aires", "year": 2020, "month": 1, "ndvi_mean": 0.6016926605996787, "ndvi_std": 0.08353970008207678}
+{"province": "Buenos Aires", "year": 2020, "month": 2, "ndvi_mean": 0.561995779683298, "ndvi_std": 0.08783931449676581}
+{"province": "Buenos Aires", "year": 2020, "month": 3, "ndvi_mean": 0.5419046202328232, "ndvi_std": 0.09554709158757928}
+{"province": "Buenos Aires", "year": 2020, "month": 4, "ndvi_mean": 0.3789227413087498, "ndvi_std": 0.09085396127095584}
+{"province": "Buenos Aires", "year": 2020, "month": 5, "ndvi_mean": 0.3677552860328149, "ndvi_std": 0.09123738038749524}
+{"province": "Buenos Aires", "year": 2020, "month": 6, "ndvi_mean": 0.3239985558353241, "ndvi_std": 0.10170784332632994}
+{"province": "Buenos Aires", "year": 2020, "month": 7, "ndvi_mean": 0.27268587785763565, "ndvi_std": 0.08298202574719084}
+{"province": "Buenos Aires", "year": 2020, "month": 8, "ndvi_mean": 0.22304424037085785, "ndvi_std": 0.1194754774640207}
+{"province": "Buenos Aires", "year": 2020, "month": 9, "ndvi_mean": 0.20261545997858288, "ndvi_std": 0.0802208846849441}
+{"province": "Buenos Aires", "year": 2020, "month": 10, "ndvi_mean": 0.5928173402188608, "ndvi_std": 0.11261845713819338}
+{"province": "Buenos Aires", "year": 2020, "month": 11, "ndvi_mean": 0.6221699665747166, "ndvi_std": 0.11085081386743784}
+{"province": "Buenos Aires", "year": 2020, "month": 12, "ndvi_mean": 0.615189608338134, "ndvi_std": 0.08296178606936362}
+{"province": "Buenos Aires", "year": 2021, "month": 1, "ndvi_mean": 0.2912547733744153, "ndvi_std": 0.11452413703502375}
+{"province": "Buenos Aires", "year": 2021, "month": 2, "ndvi_mean": 0.32835513369041497, "ndvi_std": 0.10493192507310231}
+{"province": "Buenos Aires", "year": 2021, "month": 3, "ndvi_mean": 0.3164578033508297, "ndvi_std": 0.09243929286862648}
+{"province": "Buenos Aires", "year": 2021, "month": 4, "ndvi_mean": 0.23700387163353281, "ndvi_std": 0.09300733288106988}
+{"province": "Buenos Aires", "year": 2021, "month": 5, "ndvi_mean": 0.3068768075675939, "ndvi_std": 0.11548850970305306}
+{"province": "Buenos Aires", "year": 2021, "month": 6, "ndvi_mean": 0.34493680199995763, "ndvi_std": 0.09888859700647798}
+{"province": "Buenos Aires", "year": 2021, "month": 7, "ndvi_mean": 0.2753145217533344, "ndvi_std": 0.1104314019446759}
+{"province": "Buenos Aires", "year": 2021, "month": 8, "ndvi_mean": 0.2048416171776413, "ndvi_std": 0.10245108790277985}
+{"province": "Buenos Aires", "year": 2021, "month": 9, "ndvi_mean": 0.24749217726230338, "ndvi_std": 0.10090931317527976}
+{"province": "Buenos Aires", "year": 2021, "month": 10, "ndvi_mean": 0.4595250559069804, "ndvi_std": 0.09710164073434199}
+{"province": "Buenos Aires", "year": 2021, "month": 11, "ndvi_mean": 0.35609329477667195, "ndvi_std": 0.09257423924305307}
+{"province": "Buenos Aires", "year": 2021, "month": 12, "ndvi_mean": 0.32906948546738923, "ndvi_std": 0.10034282764658811}
+{"province": "Buenos Aires", "year": 2022, "month": 1, "ndvi_mean": 0.5346229678513742, "ndvi_std": 0.09641531692142519}
+{"province": "Buenos Aires", "year": 2022, "month": 2, "ndvi_mean": 0.5749978800058223, "ndvi_std": 0.11022204554172195}
+{"province": "Buenos Aires", "year": 2022, "month": 3, "ndvi_mean": 0.4934054477974769, "ndvi_std": 0.11718790609370291}
+{"province": "Buenos Aires", "year": 2022, "month": 4, "ndvi_mean": 0.3648770069490825, "ndvi_std": 0.11232481518257667}
+{"province": "Buenos Aires", "year": 2022, "month": 5, "ndvi_mean": 0.4640781482391452, "ndvi_std": 0.11214688307596457}
+{"province": "Buenos Aires", "year": 2022, "month": 6, "ndvi_mean": 0.2730125776761779, "ndvi_std": 0.08746280235544143}
+{"province": "Buenos Aires", "year": 2022, "month": 7, "ndvi_mean": 0.2567954284543628, "ndvi_std": 0.11229760620656251}
+{"province": "Buenos Aires", "year": 2022, "month": 8, "ndvi_mean": 0.31780514933730225, "ndvi_std": 0.11584365199693973}
+{"province": "Buenos Aires", "year": 2022, "month": 9, "ndvi_mean": 0.20085628342858533, "ndvi_std": 0.08911740650167767}
+{"province": "Buenos Aires", "year": 2022, "month": 10, "ndvi_mean": 0.5270636497381562, "ndvi_std": 0.09708431154505026}
+{"province": "Buenos Aires", "year": 2022, "month": 11, "ndvi_mean": 0.5707284193945203, "ndvi_std": 0.08027808522124763}
+{"province": "Buenos Aires", "year": 2022, "month": 12, "ndvi_mean": 0.5682738690525923, "ndvi_std": 0.10042989210310263}
+{"province": "Buenos Aires", "year": 2023, "month": 1, "ndvi_mean": 0.25092404805647095, "ndvi_std": 0.08479461469334731}
+{"province": "Buenos Aires", "year": 2023, "month": 2, "ndvi_mean": 0.3205548274064248, "ndvi_std": 0.09350460685614512}
+{"province": "Buenos Aires", "year": 2023, "month": 3, "ndvi_mean": 0.3387100001833793, "ndvi_std": 0.10075162486973464}
+{"province": "Buenos Aires", "year": 2023, "month": 4, "ndvi_mean": 0.2782835599770177, "ndvi_std": 0.10812075835580712}
+{"province": "Buenos Aires", "year": 2023, "month": 5, "ndvi_mean": 0.26802852735059346, "ndvi_std": 0.11849789179768445}
+{"province": "Buenos Aires", "year": 2023, "month": 6, "ndvi_mean": 0.2447887858963683, "ndvi_std": 0.09007129183301457}
+{"province": "Buenos Aires", "year": 2023, "month": 7, "ndvi_mean": 0.11568601492906708, "ndvi_std": 0.0913936197750987}
+{"province": "Buenos Aires", "year": 2023, "month": 8, "ndvi_mean": 0.24814402871855482, "ndvi_std": 0.08147547789418132}
+{"province": "Buenos Aires", "year": 2023, "month": 9, "ndvi_mean": 0.25421611469587185, "ndvi_std": 0.08205915004999957}
+{"province": "Buenos Aires", "year": 2023, "month": 10, "ndvi_mean": 0.52242694787397, "ndvi_std": 0.09114585856946446}
+{"province": "Buenos Aires", "year": 2023, "month": 11, "ndvi_mean": 0.3365347324653214, "ndvi_std": 0.08579579488364893}
+{"province": "Buenos Aires", "year": 2023, "month": 12, "ndvi_mean": 0.37110831396335286, "ndvi_std": 0.09957811041110252}
+{"province": "C\u00f3rdoba", "year": 2018, "month": 1, "ndvi_mean": 0.42999759701605145, "ndvi_std": 0.08950550175969599}
+{"province": "C\u00f3rdoba", "year": 2018, "month": 2, "ndvi_mean": 0.40263531228807414, "ndvi_std": 0.10912865394447438}
+{"province": "C\u00f3rdoba", "year": 2018, "month": 3, "ndvi_mean": 0.4481956017655269, "ndvi_std": 0.10534118843043579}
+{"province": "C\u00f3rdoba", "year": 2018, "month": 4, "ndvi_mean": 0.15187042560454034, "ndvi_std": 0.10143098736299035}
+{"province": "C\u00f3rdoba", "year": 2018, "month": 5, "ndvi_mean": 0.1806624572408518, "ndvi_std": 0.08163100566219056}
+{"province": "C\u00f3rdoba", "year": 2018, "month": 6, "ndvi_mean": 0.21035915892780596, "ndvi_std": 0.10363571772752968}
+{"province": "C\u00f3rdoba", "year": 2018, "month": 7, "ndvi_mean": 0.1414535598253707, "ndvi_std": 0.105806911616378}
+{"province": "C\u00f3rdoba", "year": 2018, "month": 8, "ndvi_mean": 0.2547994082364219, "ndvi_std": 0.08697465716019966}
+{"province": "C\u00f3rdoba", "year": 2018, "month": 9, "ndvi_mean": 0.18564030360363376, "ndvi_std": 0.11746919954946938}
+{"province": "C\u00f3rdoba", "year": 2018, "month": 10, "ndvi_mean": 0.45849540835122776, "ndvi_std": 0.08550083776583974}
+{"province": "C\u00f3rdoba", "year": 2018, "month": 11, "ndvi_mean": 0.29517226953646336, "ndvi_std": 0.11698774473114251}
+{"province": "C\u00f3rdoba", "year": 2018, "month": 12, "ndvi_mean": 0.3274556938656027, "ndvi_std": 0.11509357413523924}
+{"province": "C\u00f3rdoba", "year": 2019, "month": 1, "ndvi_mean": 0.6069462052158769, "ndvi_std": 0.11268888800804863}
+{"province": "C\u00f3rdoba", "year": 2019, "month": 2, "ndvi_mean": 0.4638394978496232, "ndvi_std": 0.1022080324639785}
+{"province": "C\u00f3rdoba", "year": 2019, "month": 3, "ndvi_mean": 0.4374761735807141, "ndvi_std": 0.08372411071223597}
+{"province": "C\u00f3rdoba", "year": 2019, "month": 4, "ndvi_mean": 0.4129243700972613, "ndvi_std": 0.11588863031813307}
+{"province": "C\u00f3rdoba", "year": 2019, "month": 5, "ndvi_mean": 0.41819179559738967, "ndvi_std": 0.09356119164194802}
+{"province": "C\u00f3rdoba", "year": 2019, "month": 6, "ndvi_mean": 0.3047276010244117, "ndvi_std": 0.09396838298450644}
+{"province": "C\u00f3rdoba", "year": 2019, "month": 7, "ndvi_mean": 0.28653590959318287, "ndvi_std": 0.11548345697060469}
+{"province": "C\u00f3rdoba", "year": 2019, "month": 8, "ndvi_mean": 0.270788927126323, "ndvi_std": 0.11119502183430496}
+{"province": "C\u00f3rdoba", "year": 2019, "month": 9, "ndvi_mean": 0.20239826948950562, "ndvi_std": 0.08646514856378455}
+{"province": "C\u00f3rdoba", "year": 2019, "month": 10, "ndvi_mean": 0.5662577588012703, "ndvi_std": 0.11594216754108316}
+{"province": "C\u00f3rdoba", "year": 2019, "month": 11, "ndvi_mean": 0.5705150731309078, "ndvi_std": 0.08020246335384874}
+{"province": "C\u00f3rdoba", "year": 2019, "month": 12, "ndvi_mean": 0.4999954007381543, "ndvi_std": 0.08643232205669994}
+{"province": "C\u00f3rdoba", "year": 2020, "month": 1, "ndvi_mean": 0.6806042157801331, "ndvi_std": 0.10607845038010402}
+{"province": "C\u00f3rdoba", "year": 2020, "month": 2, "ndvi_mean": 0.5831683044638252, "ndvi_std": 0.0889707723784224}
+{"province": "C\u00f3rdoba", "year": 2020, "month": 3, "ndvi_mean": 0.48177228308408754, "ndvi_std": 0.09301598792637071}
+{"province": "C\u00f3rdoba", "year": 2020, "month": 4, "ndvi_mean": 0.45509592226197165, "ndvi_std": 0.10985965620472096}
+{"province": "C\u00f3rdoba", "year": 2020, "month": 5, "ndvi_mean": 0.46743632904710253, "ndvi_std": 0.10630451569201374}
+{"province": "C\u00f3rdoba", "year": 2020, "month": 6, "ndvi_mean": 0.27889466488555487, "ndvi_std": 0.10273234413341886}
+{"province": "C\u00f3rdoba", "year": 2020, "month": 7, "ndvi_mean": 0.23282283187979907, "ndvi_std": 0.09060809470726902}
+{"province": "C\u00f3rdoba", "year": 2020, "month": 8, "ndvi_mean": 0.19723846849497573, "ndvi_std": 0.08975958573516335}
+{"province": "C\u00f3rdoba", "year": 2020, "month": 9, "ndvi_mean": 0.2446028803410127, "ndvi_std": 0.11568186220708454}
+{"province": "C\u00f3rdoba", "year": 2020, "month": 10, "ndvi_mean": 0.5738806382371651, "ndvi_std": 0.10524554503989052}
+{"province": "C\u00f3rdoba", "year": 2020, "month": 11, "ndvi_mean": 0.5509101324314535, "ndvi_std": 0.10307615538505437}
+{"province": "C\u00f3rdoba", "year": 2020, "month": 12, "ndvi_mean": 0.6517473854010123, "ndvi_std": 0.09970070775275455}
+{"province": "C\u00f3rdoba", "year": 2021, "month": 1, "ndvi_mean": 0.3937967143435504, "ndvi_std": 0.09123089449763423}
+{"province": "C\u00f3rdoba", "year": 2021, "month": 2, "ndvi_mean": 0.2899989710508602, "ndvi_std": 0.08097263865725815}
+{"province": "C\u00f3rdoba", "year": 2021, "month": 3, "ndvi_mean": 0.2750375251357221, "ndvi_std": 0.11761834337411657}
+{"province": "C\u00f3rdoba", "year": 2021, "month": 4, "ndvi_mean": 0.283773069067023, "ndvi_std": 0.1181571430801035}
+{"province": "C\u00f3rdoba", "year": 2021, "month": 5, "ndvi_mean": 0.23435760502719044, "ndvi_std": 0.0806182646611547}
+{"province": "C\u00f3rdoba", "year": 2021, "month": 6, "ndvi_mean": 0.29998003458644645, "ndvi_std": 0.11713274250350902}
+{"province": "C\u00f3rdoba", "year": 2021, "month": 7, "ndvi_mean": 0.2831266337201481, "ndvi_std": 0.11854479908357012}
+{"province": "C\u00f3rdoba", "year": 2021, "month": 8, "ndvi_mean": 0.2449019761140189, "ndvi_std": 0.1141203782186944}
+{"province": "C\u00f3rdoba", "year": 2021, "month": 9, "ndvi_mean": 0.19072443973521164, "ndvi_std": 0.11404546686067428}
+{"province": "C\u00f3rdoba", "year": 2021, "month": 10, "ndvi_mean": 0.24396069427198944, "ndvi_std": 0.0926768802062511}
+{"province": "C\u00f3rdoba", "year": 2021, "month": 11, "ndvi_mean": 0.36498656208911423, "ndvi_std": 0.11744619096643125}
+{"province": "C\u00f3rdoba", "year": 2021, "month": 12, "ndvi_mean": 0.2627982854901608, "ndvi_std": 0.10784119186699892}
+{"province": "C\u00f3rdoba", "year": 2022, "month": 1, "ndvi_mean": 0.48812997946592074, "ndvi_std": 0.10460028906796678}
+{"province": "C\u00f3rdoba", "year": 2022, "month": 2, "ndvi_mean": 0.560760757416187, "ndvi_std": 0.11960215400417054}
+{"province": "C\u00f3rdoba", "year": 2022, "month": 3, "ndvi_mean": 0.5540746102912201, "ndvi_std": 0.11509492287711823}
+{"province": "C\u00f3rdoba", "year": 2022, "month": 4, "ndvi_mean": 0.3199920791518564, "ndvi_std": 0.10963074471016818}
+{"province": "C\u00f3rdoba", "year": 2022, "month": 5, "ndvi_mean": 0.4758135870222694, "ndvi_std": 0.0943796460487902}
+{"province": "C\u00f3rdoba", "year": 2022, "month": 6, "ndvi_mean": 0.3237661436424432, "ndvi_std": 0.09174367377057974}
+{"province": "C\u00f3rdoba", "year": 2022, "month": 7, "ndvi_mean": 0.2860524687046062, "ndvi_std": 0.11468289274320415}
+{"province": "C\u00f3rdoba", "year": 2022, "month": 8, "ndvi_mean": 0.28596501656385465, "ndvi_std": 0.11652962210225885}
+{"province": "C\u00f3rdoba", "year": 2022, "month": 9, "ndvi_mean": 0.28605333804142336, "ndvi_std": 0.11193180715867102}
+{"province": "C\u00f3rdoba", "year": 2022, "month": 10, "ndvi_mean": 0.8196912043458305, "ndvi_std": 0.10599855723111061}
+{"province": "C\u00f3rdoba", "year": 2022, "month": 11, "ndvi_mean": 0.6167801234445243, "ndvi_std": 0.11560021367270265}
+{"province": "C\u00f3rdoba", "year": 2022, "month": 12, "ndvi_mean": 0.5955973875914059, "ndvi_std": 0.09351980627406144}
+{"province": "C\u00f3rdoba", "year": 2023, "month": 1, "ndvi_mean": 0.29590223498236995, "ndvi_std": 0.10313120563984696}
+{"province": "C\u00f3rdoba", "year": 2023, "month": 2, "ndvi_mean": 0.33342269752819936, "ndvi_std": 0.08143769095186969}
+{"province": "C\u00f3rdoba", "year": 2023, "month": 3, "ndvi_mean": 0.5120260996671456, "ndvi_std": 0.09146165008513138}
+{"province": "C\u00f3rdoba", "year": 2023, "month": 4, "ndvi_mean": 0.1192914365185776, "ndvi_std": 0.10363333042276043}
+{"province": "C\u00f3rdoba", "year": 2023, "month": 5, "ndvi_mean": 0.21696476939473966, "ndvi_std": 0.0850824205060754}
+{"province": "C\u00f3rdoba", "year": 2023, "month": 6, "ndvi_mean": 0.32622654178771565, "ndvi_std": 0.10088973040219218}
+{"province": "C\u00f3rdoba", "year": 2023, "month": 7, "ndvi_mean": 0.19992874035180222, "ndvi_std": 0.10491561903276}
+{"province": "C\u00f3rdoba", "year": 2023, "month": 8, "ndvi_mean": 0.29757184242542734, "ndvi_std": 0.08341389859975072}
+{"province": "C\u00f3rdoba", "year": 2023, "month": 9, "ndvi_mean": 0.25319002879326696, "ndvi_std": 0.10162540486440426}
+{"province": "C\u00f3rdoba", "year": 2023, "month": 10, "ndvi_mean": 0.3043879756675928, "ndvi_std": 0.10549719605992827}
+{"province": "C\u00f3rdoba", "year": 2023, "month": 11, "ndvi_mean": 0.20824001893396746, "ndvi_std": 0.11180744779074815}
+{"province": "C\u00f3rdoba", "year": 2023, "month": 12, "ndvi_mean": 0.3630518020338599, "ndvi_std": 0.09083329005048298}
+{"province": "Santa Fe", "year": 2018, "month": 1, "ndvi_mean": 0.29452354830971095, "ndvi_std": 0.0810140297366183}
+{"province": "Santa Fe", "year": 2018, "month": 2, "ndvi_mean": 0.34196844909731705, "ndvi_std": 0.118505936587117}
+{"province": "Santa Fe", "year": 2018, "month": 3, "ndvi_mean": 0.385349109528632, "ndvi_std": 0.0963581177765708}
+{"province": "Santa Fe", "year": 2018, "month": 4, "ndvi_mean": 0.31060286359190853, "ndvi_std": 0.08693177280283383}
+{"province": "Santa Fe", "year": 2018, "month": 5, "ndvi_mean": 0.21675382821873307, "ndvi_std": 0.10196906658824482}
+{"province": "Santa Fe", "year": 2018, "month": 6, "ndvi_mean": 0.20426695371984016, "ndvi_std": 0.1085838369080025}
+{"province": "Santa Fe", "year": 2018, "month": 7, "ndvi_mean": 0.16173812319654685, "ndvi_std": 0.11819461122652777}
+{"province": "Santa Fe", "year": 2018, "month": 8, "ndvi_mean": 0.31425033629383436, "ndvi_std": 0.10951587666783075}
+{"province": "Santa Fe", "year": 2018, "month": 9, "ndvi_mean": 0.39855093379088435, "ndvi_std": 0.0967840024971116}
+{"province": "Santa Fe", "year": 2018, "month": 10, "ndvi_mean": 0.4222725682385803, "ndvi_std": 0.0899092395800463}
+{"province": "Santa Fe", "year": 2018, "month": 11, "ndvi_mean": 0.43868378044306355, "ndvi_std": 0.08057573954519023}
+{"province": "Santa Fe", "year": 2018, "month": 12, "ndvi_mean": 0.30046313740668534, "ndvi_std": 0.08464290562027665}
+{"province": "Santa Fe", "year": 2019, "month": 1, "ndvi_mean": 0.5810673599702361, "ndvi_std": 0.09896695316349301}
+{"province": "Santa Fe", "year": 2019, "month": 2, "ndvi_mean": 0.6042243837400536, "ndvi_std": 0.08391336642604005}
+{"province": "Santa Fe", "year": 2019, "month": 3, "ndvi_mean": 0.32311128619516494, "ndvi_std": 0.0869280747964006}
+{"province": "Santa Fe", "year": 2019, "month": 4, "ndvi_mean": 0.3282928651065997, "ndvi_std": 0.09735406596951893}
+{"province": "Santa Fe", "year": 2019, "month": 5, "ndvi_mean": 0.5142687912752145, "ndvi_std": 0.10540374603470576}
+{"province": "Santa Fe", "year": 2019, "month": 6, "ndvi_mean": 0.1498901035427557, "ndvi_std": 0.08181216039088178}
+{"province": "Santa Fe", "year": 2019, "month": 7, "ndvi_mean": 0.3508891302346281, "ndvi_std": 0.10012545034320351}
+{"province": "Santa Fe", "year": 2019, "month": 8, "ndvi_mean": 0.14948964941743925, "ndvi_std": 0.1142595936475329}
+{"province": "Santa Fe", "year": 2019, "month": 9, "ndvi_mean": 0.1812943944266434, "ndvi_std": 0.08282274989601719}
+{"province": "Santa Fe", "year": 2019, "month": 10, "ndvi_mean": 0.582347243198429, "ndvi_std": 0.10569677112825263}
+{"province": "Santa Fe", "year": 2019, "month": 11, "ndvi_mean": 0.5548861459493014, "ndvi_std": 0.11760920965699831}
+{"province": "Santa Fe", "year": 2019, "month": 12, "ndvi_mean": 0.5230280482196769, "ndvi_std": 0.10301896711503516}
+{"province": "Santa Fe", "year": 2020, "month": 1, "ndvi_mean": 0.6610211771301747, "ndvi_std": 0.09833011561966067}
+{"province": "Santa Fe", "year": 2020, "month": 2, "ndvi_mean": 0.4633529150821206, "ndvi_std": 0.1018246715726374}
+{"province": "Santa Fe", "year": 2020, "month": 3, "ndvi_mean": 0.5393750433475092, "ndvi_std": 0.11844762255295657}
+{"province": "Santa Fe", "year": 2020, "month": 4, "ndvi_mean": 0.44118220445392037, "ndvi_std": 0.11621402567824254}
+{"province": "Santa Fe", "year": 2020, "month": 5, "ndvi_mean": 0.4196694307414523, "ndvi_std": 0.08284754593840916}
+{"province": "Santa Fe", "year": 2020, "month": 6, "ndvi_mean": 0.20641103361255841, "ndvi_std": 0.09275902521175046}
+{"province": "Santa Fe", "year": 2020, "month": 7, "ndvi_mean": 0.20874446701390517, "ndvi_std": 0.08472659310486626}
+{"province": "Santa Fe", "year": 2020, "month": 8, "ndvi_mean": 0.3094721467914717, "ndvi_std": 0.10786948661456602}
+{"province": "Santa Fe", "year": 2020, "month": 9, "ndvi_mean": 0.31297199128032754, "ndvi_std": 0.10940284175215544}
+{"province": "Santa Fe", "year": 2020, "month": 10, "ndvi_mean": 0.5715109664613627, "ndvi_std": 0.11213923721539396}
+{"province": "Santa Fe", "year": 2020, "month": 11, "ndvi_mean": 0.49197034923545496, "ndvi_std": 0.11002459006563434}
+{"province": "Santa Fe", "year": 2020, "month": 12, "ndvi_mean": 0.5107873271862121, "ndvi_std": 0.11227338957069057}
+{"province": "Santa Fe", "year": 2021, "month": 1, "ndvi_mean": 0.3485368884225096, "ndvi_std": 0.09488072343171133}
+{"province": "Santa Fe", "year": 2021, "month": 2, "ndvi_mean": 0.3582129168316147, "ndvi_std": 0.11105651842967987}
+{"province": "Santa Fe", "year": 2021, "month": 3, "ndvi_mean": 0.38829681668190263, "ndvi_std": 0.11433651007372048}
+{"province": "Santa Fe", "year": 2021, "month": 4, "ndvi_mean": 0.23584651432962742, "ndvi_std": 0.09715976109500074}
+{"province": "Santa Fe", "year": 2021, "month": 5, "ndvi_mean": 0.3077791444291621, "ndvi_std": 0.0841249547534373}
+{"province": "Santa Fe", "year": 2021, "month": 6, "ndvi_mean": 0.30694567452004473, "ndvi_std": 0.11610211626718267}
+{"province": "Santa Fe", "year": 2021, "month": 7, "ndvi_mean": 0.34138351650080306, "ndvi_std": 0.09280198404122447}
+{"province": "Santa Fe", "year": 2021, "month": 8, "ndvi_mean": 0.25147026891429314, "ndvi_std": 0.11582092913984801}
+{"province": "Santa Fe", "year": 2021, "month": 9, "ndvi_mean": 0.27269164467419094, "ndvi_std": 0.11802428587750224}
+{"province": "Santa Fe", "year": 2021, "month": 10, "ndvi_mean": 0.34088998619426203, "ndvi_std": 0.10293751552493144}
+{"province": "Santa Fe", "year": 2021, "month": 11, "ndvi_mean": 0.2927245521736569, "ndvi_std": 0.09172843086792258}
+{"province": "Santa Fe", "year": 2021, "month": 12, "ndvi_mean": 0.4964671092979822, "ndvi_std": 0.09314658181479664}
+{"province": "Santa Fe", "year": 2022, "month": 1, "ndvi_mean": 0.6310677611450048, "ndvi_std": 0.11166316174903394}
+{"province": "Santa Fe", "year": 2022, "month": 2, "ndvi_mean": 0.6054163885774055, "ndvi_std": 0.11158472571178216}
+{"province": "Santa Fe", "year": 2022, "month": 3, "ndvi_mean": 0.549142725900716, "ndvi_std": 0.08230235040066577}
+{"province": "Santa Fe", "year": 2022, "month": 4, "ndvi_mean": 0.3371921939959918, "ndvi_std": 0.10198115529294942}
+{"province": "Santa Fe", "year": 2022, "month": 5, "ndvi_mean": 0.4682583813392426, "ndvi_std": 0.09403660050208315}
+{"province": "Santa Fe", "year": 2022, "month": 6, "ndvi_mean": 0.2397059832948503, "ndvi_std": 0.08468268065710424}
+{"province": "Santa Fe", "year": 2022, "month": 7, "ndvi_mean": 0.27890520179929373, "ndvi_std": 0.10472872253265045}
+{"province": "Santa Fe", "year": 2022, "month": 8, "ndvi_mean": 0.21053928130372174, "ndvi_std": 0.0840449070449116}
+{"province": "Santa Fe", "year": 2022, "month": 9, "ndvi_mean": 0.2671476599776106, "ndvi_std": 0.08291052025456774}
+{"province": "Santa Fe", "year": 2022, "month": 10, "ndvi_mean": 0.514513977724021, "ndvi_std": 0.11287440237161425}
+{"province": "Santa Fe", "year": 2022, "month": 11, "ndvi_mean": 0.5170273186067175, "ndvi_std": 0.08339350856340767}
+{"province": "Santa Fe", "year": 2022, "month": 12, "ndvi_mean": 0.5662434956150346, "ndvi_std": 0.11946558314004702}
+{"province": "Santa Fe", "year": 2023, "month": 1, "ndvi_mean": 0.24863409609518727, "ndvi_std": 0.1125119826903001}
+{"province": "Santa Fe", "year": 2023, "month": 2, "ndvi_mean": 0.25147753579364107, "ndvi_std": 0.11788994309535436}
+{"province": "Santa Fe", "year": 2023, "month": 3, "ndvi_mean": 0.29970890451232945, "ndvi_std": 0.11108587663709747}
+{"province": "Santa Fe", "year": 2023, "month": 4, "ndvi_mean": 0.23505869938017068, "ndvi_std": 0.10233616998943221}
+{"province": "Santa Fe", "year": 2023, "month": 5, "ndvi_mean": 0.3100361736241414, "ndvi_std": 0.08444789929224605}
+{"province": "Santa Fe", "year": 2023, "month": 6, "ndvi_mean": 0.2388043029025601, "ndvi_std": 0.09970500417163437}
+{"province": "Santa Fe", "year": 2023, "month": 7, "ndvi_mean": 0.24870408048053272, "ndvi_std": 0.0822521310272735}
+{"province": "Santa Fe", "year": 2023, "month": 8, "ndvi_mean": 0.22979389527559035, "ndvi_std": 0.08475271665072288}
+{"province": "Santa Fe", "year": 2023, "month": 9, "ndvi_mean": 0.2725902992236663, "ndvi_std": 0.10984179517061693}
+{"province": "Santa Fe", "year": 2023, "month": 10, "ndvi_mean": 0.29209383395133737, "ndvi_std": 0.10333475060388639}
+{"province": "Santa Fe", "year": 2023, "month": 11, "ndvi_mean": 0.34238678960801994, "ndvi_std": 0.09142848345127443}
+{"province": "Santa Fe", "year": 2023, "month": 12, "ndvi_mean": 0.3781198205469259, "ndvi_std": 0.11474396512757842}
+{"province": "Entre R\u00edos", "year": 2018, "month": 1, "ndvi_mean": 0.36568647372672913, "ndvi_std": 0.08295186258941596}
+{"province": "Entre R\u00edos", "year": 2018, "month": 2, "ndvi_mean": 0.35088146805472564, "ndvi_std": 0.10215417137605283}
+{"province": "Entre R\u00edos", "year": 2018, "month": 3, "ndvi_mean": 0.351715712198126, "ndvi_std": 0.1051759455254105}
+{"province": "Entre R\u00edos", "year": 2018, "month": 4, "ndvi_mean": 0.28485988038718146, "ndvi_std": 0.10782994755938469}
+{"province": "Entre R\u00edos", "year": 2018, "month": 5, "ndvi_mean": 0.40072277202580897, "ndvi_std": 0.10337257247692401}
+{"province": "Entre R\u00edos", "year": 2018, "month": 6, "ndvi_mean": 0.19628567059783653, "ndvi_std": 0.11604632041963955}
+{"province": "Entre R\u00edos", "year": 2018, "month": 7, "ndvi_mean": 0.40328620532523707, "ndvi_std": 0.09109524731924531}
+{"province": "Entre R\u00edos", "year": 2018, "month": 8, "ndvi_mean": 0.1934191200251394, "ndvi_std": 0.08752484638895046}
+{"province": "Entre R\u00edos", "year": 2018, "month": 9, "ndvi_mean": 0.1013272992983135, "ndvi_std": 0.10334624447403488}
+{"province": "Entre R\u00edos", "year": 2018, "month": 10, "ndvi_mean": 0.3131971484823467, "ndvi_std": 0.08310938547859939}
+{"province": "Entre R\u00edos", "year": 2018, "month": 11, "ndvi_mean": 0.37392291830440116, "ndvi_std": 0.0923811046514531}
+{"province": "Entre R\u00edos", "year": 2018, "month": 12, "ndvi_mean": 0.48133195874511203, "ndvi_std": 0.11255180078827795}
+{"province": "Entre R\u00edos", "year": 2019, "month": 1, "ndvi_mean": 0.487110973005615, "ndvi_std": 0.1164370873797537}
+{"province": "Entre R\u00edos", "year": 2019, "month": 2, "ndvi_mean": 0.5844343420054554, "ndvi_std": 0.11290148971692676}
+{"province": "Entre R\u00edos", "year": 2019, "month": 3, "ndvi_mean": 0.45758367550855505, "ndvi_std": 0.11730913933416054}
+{"province": "Entre R\u00edos", "year": 2019, "month": 4, "ndvi_mean": 0.5282021136098047, "ndvi_std": 0.11464255558001633}
+{"province": "Entre R\u00edos", "year": 2019, "month": 5, "ndvi_mean": 0.4825608084504901, "ndvi_std": 0.11949104517259779}
+{"province": "Entre R\u00edos", "year": 2019, "month": 6, "ndvi_mean": 0.21715770435267068, "ndvi_std": 0.08601667564414113}
+{"province": "Entre R\u00edos", "year": 2019, "month": 7, "ndvi_mean": 0.13008058296363853, "ndvi_std": 0.11879657591258413}
+{"province": "Entre R\u00edos", "year": 2019, "month": 8, "ndvi_mean": 0.34477106619157893, "ndvi_std": 0.11368475692542834}
+{"province": "Entre R\u00edos", "year": 2019, "month": 9, "ndvi_mean": 0.24198221083231675, "ndvi_std": 0.09659278009350661}
+{"province": "Entre R\u00edos", "year": 2019, "month": 10, "ndvi_mean": 0.6366471418381424, "ndvi_std": 0.09093628287722826}
+{"province": "Entre R\u00edos", "year": 2019, "month": 11, "ndvi_mean": 0.5503670589802728, "ndvi_std": 0.11075949660722043}
+{"province": "Entre R\u00edos", "year": 2019, "month": 12, "ndvi_mean": 0.553288641563532, "ndvi_std": 0.11779062919529712}
+{"province": "Entre R\u00edos", "year": 2020, "month": 1, "ndvi_mean": 0.518495416996453, "ndvi_std": 0.09802176541240375}
+{"province": "Entre R\u00edos", "year": 2020, "month": 2, "ndvi_mean": 0.593599495264325, "ndvi_std": 0.0851663766060598}
+{"province": "Entre R\u00edos", "year": 2020, "month": 3, "ndvi_mean": 0.558420694219833, "ndvi_std": 0.0891457122201385}
+{"province": "Entre R\u00edos", "year": 2020, "month": 4, "ndvi_mean": 0.43601071838411243, "ndvi_std": 0.10686802737623427}
+{"province": "Entre R\u00edos", "year": 2020, "month": 5, "ndvi_mean": 0.29261200804850646, "ndvi_std": 0.08454230368798517}
+{"province": "Entre R\u00edos", "year": 2020, "month": 6, "ndvi_mean": 0.33943737753289566, "ndvi_std": 0.10686292782371198}
+{"province": "Entre R\u00edos", "year": 2020, "month": 7, "ndvi_mean": 0.3585806382865766, "ndvi_std": 0.10080654004447974}
+{"province": "Entre R\u00edos", "year": 2020, "month": 8, "ndvi_mean": 0.2580972244005001, "ndvi_std": 0.11408726001274161}
+{"province": "Entre R\u00edos", "year": 2020, "month": 9, "ndvi_mean": 0.39425235474173914, "ndvi_std": 0.11506614410633381}
+{"province": "Entre R\u00edos", "year": 2020, "month": 10, "ndvi_mean": 0.6728738589710244, "ndvi_std": 0.09613931464849589}
+{"province": "Entre R\u00edos", "year": 2020, "month": 11, "ndvi_mean": 0.5951763164709604, "ndvi_std": 0.10816319072396895}
+{"province": "Entre R\u00edos", "year": 2020, "month": 12, "ndvi_mean": 0.6458042090272644, "ndvi_std": 0.08851856646035643}
+{"province": "Entre R\u00edos", "year": 2021, "month": 1, "ndvi_mean": 0.42408971407947116, "ndvi_std": 0.09568976180398929}
+{"province": "Entre R\u00edos", "year": 2021, "month": 2, "ndvi_mean": 0.22688823595038196, "ndvi_std": 0.09749899688094917}
+{"province": "Entre R\u00edos", "year": 2021, "month": 3, "ndvi_mean": 0.33114152158888094, "ndvi_std": 0.10055957956639243}
+{"province": "Entre R\u00edos", "year": 2021, "month": 4, "ndvi_mean": 0.3002279579057173, "ndvi_std": 0.11134612050964574}
+{"province": "Entre R\u00edos", "year": 2021, "month": 5, "ndvi_mean": 0.36400308818999044, "ndvi_std": 0.1144945483498698}
+{"province": "Entre R\u00edos", "year": 2021, "month": 6, "ndvi_mean": 0.15339289792495758, "ndvi_std": 0.11798082494630568}
+{"province": "Entre R\u00edos", "year": 2021, "month": 7, "ndvi_mean": 0.13076322924513917, "ndvi_std": 0.09836543024953046}
+{"province": "Entre R\u00edos", "year": 2021, "month": 8, "ndvi_mean": 0.2461116610772367, "ndvi_std": 0.11920130301141908}
+{"province": "Entre R\u00edos", "year": 2021, "month": 9, "ndvi_mean": 0.10527905299720863, "ndvi_std": 0.10533603417266904}
+{"province": "Entre R\u00edos", "year": 2021, "month": 10, "ndvi_mean": 0.34376159723410477, "ndvi_std": 0.08960582475112773}
+{"province": "Entre R\u00edos", "year": 2021, "month": 11, "ndvi_mean": 0.37566187722677935, "ndvi_std": 0.0872752033759658}
+{"province": "Entre R\u00edos", "year": 2021, "month": 12, "ndvi_mean": 0.2842084149570851, "ndvi_std": 0.09382669133295453}
+{"province": "Entre R\u00edos", "year": 2022, "month": 1, "ndvi_mean": 0.545612463190878, "ndvi_std": 0.10670230954084109}
+{"province": "Entre R\u00edos", "year": 2022, "month": 2, "ndvi_mean": 0.6168599624350868, "ndvi_std": 0.0868927948480652}
+{"province": "Entre R\u00edos", "year": 2022, "month": 3, "ndvi_mean": 0.5128819667139292, "ndvi_std": 0.08708041937106988}
+{"province": "Entre R\u00edos", "year": 2022, "month": 4, "ndvi_mean": 0.34449890174163594, "ndvi_std": 0.08354810135028223}
+{"province": "Entre R\u00edos", "year": 2022, "month": 5, "ndvi_mean": 0.392507874803181, "ndvi_std": 0.0882533487362317}
+{"province": "Entre R\u00edos", "year": 2022, "month": 6, "ndvi_mean": 0.1775330374306438, "ndvi_std": 0.09457079444192303}
+{"province": "Entre R\u00edos", "year": 2022, "month": 7, "ndvi_mean": 0.38753075930414727, "ndvi_std": 0.08157248559364395}
+{"province": "Entre R\u00edos", "year": 2022, "month": 8, "ndvi_mean": 0.252468448638021, "ndvi_std": 0.11197641595636171}
+{"province": "Entre R\u00edos", "year": 2022, "month": 9, "ndvi_mean": 0.201019214440519, "ndvi_std": 0.11494314496427109}
+{"province": "Entre R\u00edos", "year": 2022, "month": 10, "ndvi_mean": 0.5649785937513956, "ndvi_std": 0.11683489602127253}
+{"province": "Entre R\u00edos", "year": 2022, "month": 11, "ndvi_mean": 0.542137036521642, "ndvi_std": 0.11224805119172246}
+{"province": "Entre R\u00edos", "year": 2022, "month": 12, "ndvi_mean": 0.5345321280326745, "ndvi_std": 0.10993038761534633}
+{"province": "Entre R\u00edos", "year": 2023, "month": 1, "ndvi_mean": 0.31286491966726304, "ndvi_std": 0.09481888411165529}
+{"province": "Entre R\u00edos", "year": 2023, "month": 2, "ndvi_mean": 0.3096927231548724, "ndvi_std": 0.09938091940764085}
+{"province": "Entre R\u00edos", "year": 2023, "month": 3, "ndvi_mean": 0.24393662564610133, "ndvi_std": 0.09850138864532591}
+{"province": "Entre R\u00edos", "year": 2023, "month": 4, "ndvi_mean": 0.3456811987211167, "ndvi_std": 0.10989883752535026}
+{"province": "Entre R\u00edos", "year": 2023, "month": 5, "ndvi_mean": 0.29035898741390365, "ndvi_std": 0.10046709768462665}
+{"province": "Entre R\u00edos", "year": 2023, "month": 6, "ndvi_mean": 0.27178751081804753, "ndvi_std": 0.10128453941061263}
+{"province": "Entre R\u00edos", "year": 2023, "month": 7, "ndvi_mean": 0.24104576859634635, "ndvi_std": 0.10130469065820093}
+{"province": "Entre R\u00edos", "year": 2023, "month": 8, "ndvi_mean": 0.18311216915797018, "ndvi_std": 0.08969882014538919}
+{"province": "Entre R\u00edos", "year": 2023, "month": 9, "ndvi_mean": 0.19705544783009876, "ndvi_std": 0.08080284791110906}
+{"province": "Entre R\u00edos", "year": 2023, "month": 10, "ndvi_mean": 0.25044224032816276, "ndvi_std": 0.09288316662332713}
+{"province": "Entre R\u00edos", "year": 2023, "month": 11, "ndvi_mean": 0.3047398981030231, "ndvi_std": 0.08479048527277006}
+{"province": "Entre R\u00edos", "year": 2023, "month": 12, "ndvi_mean": 0.27429163974699233, "ndvi_std": 0.1156210912295958}
+{"province": "La Pampa", "year": 2018, "month": 1, "ndvi_mean": 0.46809991445507954, "ndvi_std": 0.11156684954429354}
+{"province": "La Pampa", "year": 2018, "month": 2, "ndvi_mean": 0.4117147829864615, "ndvi_std": 0.09993768795716229}
+{"province": "La Pampa", "year": 2018, "month": 3, "ndvi_mean": 0.35541578153533326, "ndvi_std": 0.10347364472083517}
+{"province": "La Pampa", "year": 2018, "month": 4, "ndvi_mean": 0.18971010590702153, "ndvi_std": 0.10981757896737321}
+{"province": "La Pampa", "year": 2018, "month": 5, "ndvi_mean": 0.17739276919714803, "ndvi_std": 0.09135103623194898}
+{"province": "La Pampa", "year": 2018, "month": 6, "ndvi_mean": 0.23667629253414743, "ndvi_std": 0.09452329185594541}
+{"province": "La Pampa", "year": 2018, "month": 7, "ndvi_mean": 0.3148324283272149, "ndvi_std": 0.09424386903591385}
+{"province": "La Pampa", "year": 2018, "month": 8, "ndvi_mean": 0.3836591648329092, "ndvi_std": 0.1194606099517192}
+{"province": "La Pampa", "year": 2018, "month": 9, "ndvi_mean": 0.15210026983266012, "ndvi_std": 0.08407129890481616}
+{"province": "La Pampa", "year": 2018, "month": 10, "ndvi_mean": 0.38940784656833993, "ndvi_std": 0.08611436556737329}
+{"province": "La Pampa", "year": 2018, "month": 11, "ndvi_mean": 0.3044550201614721, "ndvi_std": 0.08746268096205223}
+{"province": "La Pampa", "year": 2018, "month": 12, "ndvi_mean": 0.31590122313647123, "ndvi_std": 0.09140380674775389}
+{"province": "La Pampa", "year": 2019, "month": 1, "ndvi_mean": 0.553396513956138, "ndvi_std": 0.09641587307958646}
+{"province": "La Pampa", "year": 2019, "month": 2, "ndvi_mean": 0.4918334918512274, "ndvi_std": 0.11929514467634425}
+{"province": "La Pampa", "year": 2019, "month": 3, "ndvi_mean": 0.5332736367193514, "ndvi_std": 0.11877881733101475}
+{"province": "La Pampa", "year": 2019, "month": 4, "ndvi_mean": 0.3364705436570882, "ndvi_std": 0.11462028503575922}
+{"province": "La Pampa", "year": 2019, "month": 5, "ndvi_mean": 0.35962600686021673, "ndvi_std": 0.08683550349560264}
+{"province": "La Pampa", "year": 2019, "month": 6, "ndvi_mean": 0.30287738580780293, "ndvi_std": 0.10674572879697725}
+{"province": "La Pampa", "year": 2019, "month": 7, "ndvi_mean": 0.2569532613800458, "ndvi_std": 0.10286450757879599}
+{"province": "La Pampa", "year": 2019, "month": 8, "ndvi_mean": 0.30259709863602524, "ndvi_std": 0.09119916374641136}
+{"province": "La Pampa", "year": 2019, "month": 9, "ndvi_mean": 0.20361633687379072, "ndvi_std": 0.09294716945616975}
+{"province": "La Pampa", "year": 2019, "month": 10, "ndvi_mean": 0.5899419068015213, "ndvi_std": 0.09701745754465667}
+{"province": "La Pampa", "year": 2019, "month": 11, "ndvi_mean": 0.4360720293481787, "ndvi_std": 0.08459347298956814}
+{"province": "La Pampa", "year": 2019, "month": 12, "ndvi_mean": 0.5533659462662968, "ndvi_std": 0.1044248016976653}
+{"province": "La Pampa", "year": 2020, "month": 1, "ndvi_mean": 0.5947014721144163, "ndvi_std": 0.08617450861096809}
+{"province": "La Pampa", "year": 2020, "month": 2, "ndvi_mean": 0.4336935956411728, "ndvi_std": 0.0992456040741927}
+{"province": "La Pampa", "year": 2020, "month": 3, "ndvi_mean": 0.504371472453849, "ndvi_std": 0.09346417112775682}
+{"province": "La Pampa", "year": 2020, "month": 4, "ndvi_mean": 0.403317906992149, "ndvi_std": 0.08537658707755898}
+{"province": "La Pampa", "year": 2020, "month": 5, "ndvi_mean": 0.47044049664501086, "ndvi_std": 0.09018562619055055}
+{"province": "La Pampa", "year": 2020, "month": 6, "ndvi_mean": 0.2096175691333796, "ndvi_std": 0.10726010888895718}
+{"province": "La Pampa", "year": 2020, "month": 7, "ndvi_mean": 0.2870862924540698, "ndvi_std": 0.09886304754200634}
+{"province": "La Pampa", "year": 2020, "month": 8, "ndvi_mean": 0.35090980344605305, "ndvi_std": 0.09647363656589074}
+{"province": "La Pampa", "year": 2020, "month": 9, "ndvi_mean": 0.2903950489026378, "ndvi_std": 0.11322477631150916}
+{"province": "La Pampa", "year": 2020, "month": 10, "ndvi_mean": 0.5357868229769905, "ndvi_std": 0.11860107642666051}
+{"province": "La Pampa", "year": 2020, "month": 11, "ndvi_mean": 0.5759802111359916, "ndvi_std": 0.1175336182728415}
+{"province": "La Pampa", "year": 2020, "month": 12, "ndvi_mean": 0.5077210369298926, "ndvi_std": 0.08724932264662641}
+{"province": "La Pampa", "year": 2021, "month": 1, "ndvi_mean": 0.356061285123103, "ndvi_std": 0.10297892452719648}
+{"province": "La Pampa", "year": 2021, "month": 2, "ndvi_mean": 0.3391025935225544, "ndvi_std": 0.11367315107033088}
+{"province": "La Pampa", "year": 2021, "month": 3, "ndvi_mean": 0.37363218634526413, "ndvi_std": 0.08806509280190979}
+{"province": "La Pampa", "year": 2021, "month": 4, "ndvi_mean": 0.2211686123714273, "ndvi_std": 0.08654623771462819}
+{"province": "La Pampa", "year": 2021, "month": 5, "ndvi_mean": 0.2776116499664808, "ndvi_std": 0.10660788882784801}
+{"province": "La Pampa", "year": 2021, "month": 6, "ndvi_mean": 0.2205310863425816, "ndvi_std": 0.10092261699076477}
+{"province": "La Pampa", "year": 2021, "month": 7, "ndvi_mean": 0.31097872924021847, "ndvi_std": 0.09569780429690541}
+{"province": "La Pampa", "year": 2021, "month": 8, "ndvi_mean": 0.22717835274825113, "ndvi_std": 0.1126639775788631}
+{"province": "La Pampa", "year": 2021, "month": 9, "ndvi_mean": 0.10733128253755023, "ndvi_std": 0.09850719142678425}
+{"province": "La Pampa", "year": 2021, "month": 10, "ndvi_mean": 0.27943395823578165, "ndvi_std": 0.09205511496656568}
+{"province": "La Pampa", "year": 2021, "month": 11, "ndvi_mean": 0.3512892865432686, "ndvi_std": 0.08928850780587269}
+{"province": "La Pampa", "year": 2021, "month": 12, "ndvi_mean": 0.4673506118592698, "ndvi_std": 0.11598298293098275}
+{"province": "La Pampa", "year": 2022, "month": 1, "ndvi_mean": 0.6080583906828443, "ndvi_std": 0.11625888443858187}
+{"province": "La Pampa", "year": 2022, "month": 2, "ndvi_mean": 0.3952205283694481, "ndvi_std": 0.1049695198365597}
+{"province": "La Pampa", "year": 2022, "month": 3, "ndvi_mean": 0.4464989627954111, "ndvi_std": 0.08557088290653549}
+{"province": "La Pampa", "year": 2022, "month": 4, "ndvi_mean": 0.4800627830244851, "ndvi_std": 0.11176100757081184}
+{"province": "La Pampa", "year": 2022, "month": 5, "ndvi_mean": 0.44429473062743996, "ndvi_std": 0.1157557033220383}
+{"province": "La Pampa", "year": 2022, "month": 6, "ndvi_mean": 0.40894850004630773, "ndvi_std": 0.11154388844898123}
+{"province": "La Pampa", "year": 2022, "month": 7, "ndvi_mean": 0.2178447370321829, "ndvi_std": 0.08993956559257862}
+{"province": "La Pampa", "year": 2022, "month": 8, "ndvi_mean": 0.19051089413746458, "ndvi_std": 0.10975785170290708}
+{"province": "La Pampa", "year": 2022, "month": 9, "ndvi_mean": 0.25500963660535747, "ndvi_std": 0.11049834742962762}
+{"province": "La Pampa", "year": 2022, "month": 10, "ndvi_mean": 0.5165639787264419, "ndvi_std": 0.11507062547046998}
+{"province": "La Pampa", "year": 2022, "month": 11, "ndvi_mean": 0.622627796098053, "ndvi_std": 0.08442526947820829}
+{"province": "La Pampa", "year": 2022, "month": 12, "ndvi_mean": 0.5142988520801678, "ndvi_std": 0.11385809166938074}
+{"province": "La Pampa", "year": 2023, "month": 1, "ndvi_mean": 0.331108754529464, "ndvi_std": 0.11189181463118214}
+{"province": "La Pampa", "year": 2023, "month": 2, "ndvi_mean": 0.2814865398952385, "ndvi_std": 0.08599669709395096}
+{"province": "La Pampa", "year": 2023, "month": 3, "ndvi_mean": 0.4029892031651746, "ndvi_std": 0.10880146146184297}
+{"province": "La Pampa", "year": 2023, "month": 4, "ndvi_mean": 0.18544842730756622, "ndvi_std": 0.10564590531541189}
+{"province": "La Pampa", "year": 2023, "month": 5, "ndvi_mean": 0.2789404432256591, "ndvi_std": 0.09007196235627811}
+{"province": "La Pampa", "year": 2023, "month": 6, "ndvi_mean": 0.38137570687906464, "ndvi_std": 0.09382783974015678}
+{"province": "La Pampa", "year": 2023, "month": 7, "ndvi_mean": 0.12548958257670048, "ndvi_std": 0.09848023214576532}
+{"province": "La Pampa", "year": 2023, "month": 8, "ndvi_mean": 0.3547231018042428, "ndvi_std": 0.11789133358447262}
+{"province": "La Pampa", "year": 2023, "month": 9, "ndvi_mean": 0.2695978038423874, "ndvi_std": 0.10023554715537863}
+{"province": "La Pampa", "year": 2023, "month": 10, "ndvi_mean": 0.2712157666891136, "ndvi_std": 0.10445816941738592}
+{"province": "La Pampa", "year": 2023, "month": 11, "ndvi_mean": 0.3576576356223425, "ndvi_std": 0.10786603295507569}
+{"province": "La Pampa", "year": 2023, "month": 12, "ndvi_mean": 0.40080366367290843, "ndvi_std": 0.11689997524709184}
+{"province": "Santiago del Estero", "year": 2018, "month": 1, "ndvi_mean": 0.2709525544554688, "ndvi_std": 0.10305153440667253}
+{"province": "Santiago del Estero", "year": 2018, "month": 2, "ndvi_mean": 0.39714683571359954, "ndvi_std": 0.10426860185531424}
+{"province": "Santiago del Estero", "year": 2018, "month": 3, "ndvi_mean": 0.5093186626639397, "ndvi_std": 0.11737468059076059}
+{"province": "Santiago del Estero", "year": 2018, "month": 4, "ndvi_mean": 0.19887843235688146, "ndvi_std": 0.11702274051627105}
+{"province": "Santiago del Estero", "year": 2018, "month": 5, "ndvi_mean": 0.1510395179741419, "ndvi_std": 0.11939364795849339}
+{"province": "Santiago del Estero", "year": 2018, "month": 6, "ndvi_mean": 0.2374213079900352, "ndvi_std": 0.11355592345783737}
+{"province": "Santiago del Estero", "year": 2018, "month": 7, "ndvi_mean": 0.25557249122886944, "ndvi_std": 0.10365101742979717}
+{"province": "Santiago del Estero", "year": 2018, "month": 8, "ndvi_mean": 0.35941915184709483, "ndvi_std": 0.09596010815480521}
+{"province": "Santiago del Estero", "year": 2018, "month": 9, "ndvi_mean": 0.23419921014210104, "ndvi_std": 0.11211413794392046}
+{"province": "Santiago del Estero", "year": 2018, "month": 10, "ndvi_mean": 0.30731189300525796, "ndvi_std": 0.08018528092018412}
+{"province": "Santiago del Estero", "year": 2018, "month": 11, "ndvi_mean": 0.2487895624739832, "ndvi_std": 0.10149582411751693}
+{"province": "Santiago del Estero", "year": 2018, "month": 12, "ndvi_mean": 0.184514332813423, "ndvi_std": 0.11679422465651043}
+{"province": "Santiago del Estero", "year": 2019, "month": 1, "ndvi_mean": 0.42100391002589466, "ndvi_std": 0.10950004992438994}
+{"province": "Santiago del Estero", "year": 2019, "month": 2, "ndvi_mean": 0.42049212279363846, "ndvi_std": 0.09808871763559229}
+{"province": "Santiago del Estero", "year": 2019, "month": 3, "ndvi_mean": 0.5240408648636395, "ndvi_std": 0.08563428081519199}
+{"province": "Santiago del Estero", "year": 2019, "month": 4, "ndvi_mean": 0.2496857046881894, "ndvi_std": 0.08705547946024894}
+{"province": "Santiago del Estero", "year": 2019, "month": 5, "ndvi_mean": 0.13031133570584286, "ndvi_std": 0.116593836042724}
+{"province": "Santiago del Estero", "year": 2019, "month": 6, "ndvi_mean": 0.24457051334821878, "ndvi_std": 0.09449575596466532}
+{"province": "Santiago del Estero", "year": 2019, "month": 7, "ndvi_mean": 0.43489560949453454, "ndvi_std": 0.08052377826353335}
+{"province": "Santiago del Estero", "year": 2019, "month": 8, "ndvi_mean": 0.36265650295477575, "ndvi_std": 0.10654149488066843}
+{"province": "Santiago del Estero", "year": 2019, "month": 9, "ndvi_mean": 0.22311113094451696, "ndvi_std": 0.08341398672314576}
+{"province": "Santiago del Estero", "year": 2019, "month": 10, "ndvi_mean": 0.43934740912583303, "ndvi_std": 0.1198749700738379}
+{"province": "Santiago del Estero", "year": 2019, "month": 11, "ndvi_mean": 0.8073359803249861, "ndvi_std": 0.0826830590955371}
+{"province": "Santiago del Estero", "year": 2019, "month": 12, "ndvi_mean": 0.5559218434014489, "ndvi_std": 0.10999841881596711}
+{"province": "Santiago del Estero", "year": 2020, "month": 1, "ndvi_mean": 0.5698084760767855, "ndvi_std": 0.08820558561928028}
+{"province": "Santiago del Estero", "year": 2020, "month": 2, "ndvi_mean": 0.5355639588076058, "ndvi_std": 0.08762750882654667}
+{"province": "Santiago del Estero", "year": 2020, "month": 3, "ndvi_mean": 0.5467246729784002, "ndvi_std": 0.10259364533050466}
+{"province": "Santiago del Estero", "year": 2020, "month": 4, "ndvi_mean": 0.34565752288662355, "ndvi_std": 0.0826283455771341}
+{"province": "Santiago del Estero", "year": 2020, "month": 5, "ndvi_mean": 0.3745022782579145, "ndvi_std": 0.1009756107731032}
+{"province": "Santiago del Estero", "year": 2020, "month": 6, "ndvi_mean": 0.40039929885826886, "ndvi_std": 0.09763050987752912}
+{"province": "Santiago del Estero", "year": 2020, "month": 7, "ndvi_mean": 0.3746085192497629, "ndvi_std": 0.0862096098372285}
+{"province": "Santiago del Estero", "year": 2020, "month": 8, "ndvi_mean": 0.1, "ndvi_std": 0.08727712521981085}
+{"province": "Santiago del Estero", "year": 2020, "month": 9, "ndvi_mean": 0.10924883052821788, "ndvi_std": 0.10575998172956064}
+{"province": "Santiago del Estero", "year": 2020, "month": 10, "ndvi_mean": 0.4722183312409125, "ndvi_std": 0.09634936684392385}
+{"province": "Santiago del Estero", "year": 2020, "month": 11, "ndvi_mean": 0.6435678393147461, "ndvi_std": 0.08108383970013934}
+{"province": "Santiago del Estero", "year": 2020, "month": 12, "ndvi_mean": 0.6771555094994159, "ndvi_std": 0.08887888647731798}
+{"province": "Santiago del Estero", "year": 2021, "month": 1, "ndvi_mean": 0.4221672064043235, "ndvi_std": 0.08078842151017457}
+{"province": "Santiago del Estero", "year": 2021, "month": 2, "ndvi_mean": 0.23709482287827707, "ndvi_std": 0.08416434327938295}
+{"province": "Santiago del Estero", "year": 2021, "month": 3, "ndvi_mean": 0.2975479733720226, "ndvi_std": 0.106109844314075}
+{"province": "Santiago del Estero", "year": 2021, "month": 4, "ndvi_mean": 0.2989374561227918, "ndvi_std": 0.08952731124186906}
+{"province": "Santiago del Estero", "year": 2021, "month": 5, "ndvi_mean": 0.2259674601841865, "ndvi_std": 0.10889067727422637}
+{"province": "Santiago del Estero", "year": 2021, "month": 6, "ndvi_mean": 0.21251791924504027, "ndvi_std": 0.11422785872425142}
+{"province": "Santiago del Estero", "year": 2021, "month": 7, "ndvi_mean": 0.213903383418092, "ndvi_std": 0.10672340546282585}
+{"province": "Santiago del Estero", "year": 2021, "month": 8, "ndvi_mean": 0.3659329803364248, "ndvi_std": 0.08819937181663284}
+{"province": "Santiago del Estero", "year": 2021, "month": 9, "ndvi_mean": 0.30931012579683836, "ndvi_std": 0.08052007694042944}
+{"province": "Santiago del Estero", "year": 2021, "month": 10, "ndvi_mean": 0.31904535606860096, "ndvi_std": 0.08342034123417873}
+{"province": "Santiago del Estero", "year": 2021, "month": 11, "ndvi_mean": 0.38261330222421175, "ndvi_std": 0.09685698202369993}
+{"province": "Santiago del Estero", "year": 2021, "month": 12, "ndvi_mean": 0.22488864236146966, "ndvi_std": 0.115706868443079}
+{"province": "Santiago del Estero", "year": 2022, "month": 1, "ndvi_mean": 0.49772769794809607, "ndvi_std": 0.0903769373372517}
+{"province": "Santiago del Estero", "year": 2022, "month": 2, "ndvi_mean": 0.654900922583689, "ndvi_std": 0.09518769632669068}
+{"province": "Santiago del Estero", "year": 2022, "month": 3, "ndvi_mean": 0.3943370826476097, "ndvi_std": 0.10496595631396537}
+{"province": "Santiago del Estero", "year": 2022, "month": 4, "ndvi_mean": 0.460600995134564, "ndvi_std": 0.09637646608764962}
+{"province": "Santiago del Estero", "year": 2022, "month": 5, "ndvi_mean": 0.1918070592116278, "ndvi_std": 0.0917786303816767}
+{"province": "Santiago del Estero", "year": 2022, "month": 6, "ndvi_mean": 0.4196456368290038, "ndvi_std": 0.11793813227848626}
+{"province": "Santiago del Estero", "year": 2022, "month": 7, "ndvi_mean": 0.19550809131910504, "ndvi_std": 0.11473871903591651}
+{"province": "Santiago del Estero", "year": 2022, "month": 8, "ndvi_mean": 0.2899136114352071, "ndvi_std": 0.09949724792998055}
+{"province": "Santiago del Estero", "year": 2022, "month": 9, "ndvi_mean": 0.26142276486620397, "ndvi_std": 0.09700854017876934}
+{"province": "Santiago del Estero", "year": 2022, "month": 10, "ndvi_mean": 0.5650301761461878, "ndvi_std": 0.0808987723328047}
+{"province": "Santiago del Estero", "year": 2022, "month": 11, "ndvi_mean": 0.5807801768892059, "ndvi_std": 0.1053391287930459}
+{"province": "Santiago del Estero", "year": 2022, "month": 12, "ndvi_mean": 0.37898316073433747, "ndvi_std": 0.09031550741732809}
+{"province": "Santiago del Estero", "year": 2023, "month": 1, "ndvi_mean": 0.36708654381279415, "ndvi_std": 0.11937608722814208}
+{"province": "Santiago del Estero", "year": 2023, "month": 2, "ndvi_mean": 0.33160166636473204, "ndvi_std": 0.10102760729210744}
+{"province": "Santiago del Estero", "year": 2023, "month": 3, "ndvi_mean": 0.2960240319690638, "ndvi_std": 0.08073562706189867}
+{"province": "Santiago del Estero", "year": 2023, "month": 4, "ndvi_mean": 0.1721695274597687, "ndvi_std": 0.11657195226241995}
+{"province": "Santiago del Estero", "year": 2023, "month": 5, "ndvi_mean": 0.26958452550976814, "ndvi_std": 0.09096220882748825}
+{"province": "Santiago del Estero", "year": 2023, "month": 6, "ndvi_mean": 0.1521627222384968, "ndvi_std": 0.10216712010063174}
+{"province": "Santiago del Estero", "year": 2023, "month": 7, "ndvi_mean": 0.3529155637325644, "ndvi_std": 0.08825685087042413}
+{"province": "Santiago del Estero", "year": 2023, "month": 8, "ndvi_mean": 0.2972597482413043, "ndvi_std": 0.08043983314633922}
+{"province": "Santiago del Estero", "year": 2023, "month": 9, "ndvi_mean": 0.27560297343138757, "ndvi_std": 0.10402067441734614}
+{"province": "Santiago del Estero", "year": 2023, "month": 10, "ndvi_mean": 0.44826909839455137, "ndvi_std": 0.10660146698185022}
+{"province": "Santiago del Estero", "year": 2023, "month": 11, "ndvi_mean": 0.16591257686683544, "ndvi_std": 0.10075670821131351}
+{"province": "Santiago del Estero", "year": 2023, "month": 12, "ndvi_mean": 0.22204230332642982, "ndvi_std": 0.0818786386710022}
+{"province": "Chaco", "year": 2018, "month": 1, "ndvi_mean": 0.4017659020469123, "ndvi_std": 0.08331194671700506}
+{"province": "Chaco", "year": 2018, "month": 2, "ndvi_mean": 0.27742561868465343, "ndvi_std": 0.10412608437865553}
+{"province": "Chaco", "year": 2018, "month": 3, "ndvi_mean": 0.28884821970080515, "ndvi_std": 0.091547749470828}
+{"province": "Chaco", "year": 2018, "month": 4, "ndvi_mean": 0.10933389031517776, "ndvi_std": 0.09422690865859797}
+{"province": "Chaco", "year": 2018, "month": 5, "ndvi_mean": 0.15241267470226671, "ndvi_std": 0.1026561856118759}
+{"province": "Chaco", "year": 2018, "month": 6, "ndvi_mean": 0.35536417966078393, "ndvi_std": 0.099042016087964}
+{"province": "Chaco", "year": 2018, "month": 7, "ndvi_mean": 0.2993317900880889, "ndvi_std": 0.10930288388841002}
+{"province": "Chaco", "year": 2018, "month": 8, "ndvi_mean": 0.26848361236948737, "ndvi_std": 0.08859761514363027}
+{"province": "Chaco", "year": 2018, "month": 9, "ndvi_mean": 0.1924362173762226, "ndvi_std": 0.09985464988804946}
+{"province": "Chaco", "year": 2018, "month": 10, "ndvi_mean": 0.3622009814645361, "ndvi_std": 0.10387371395667558}
+{"province": "Chaco", "year": 2018, "month": 11, "ndvi_mean": 0.46492733262856756, "ndvi_std": 0.08426393012535087}
+{"province": "Chaco", "year": 2018, "month": 12, "ndvi_mean": 0.2796823574874112, "ndvi_std": 0.08300551126943236}
+{"province": "Chaco", "year": 2019, "month": 1, "ndvi_mean": 0.5465011509503038, "ndvi_std": 0.10753609585710944}
+{"province": "Chaco", "year": 2019, "month": 2, "ndvi_mean": 0.727080063563551, "ndvi_std": 0.09739309354414985}
+{"province": "Chaco", "year": 2019, "month": 3, "ndvi_mean": 0.6207751935455476, "ndvi_std": 0.11197663515875916}
+{"province": "Chaco", "year": 2019, "month": 4, "ndvi_mean": 0.34375332241057327, "ndvi_std": 0.10778785883417707}
+{"province": "Chaco", "year": 2019, "month": 5, "ndvi_mean": 0.46218099622171965, "ndvi_std": 0.09443895587760107}
+{"province": "Chaco", "year": 2019, "month": 6, "ndvi_mean": 0.1, "ndvi_std": 0.08366328293306537}
+{"province": "Chaco", "year": 2019, "month": 7, "ndvi_mean": 0.24255665708999538, "ndvi_std": 0.08740531715354478}
+{"province": "Chaco", "year": 2019, "month": 8, "ndvi_mean": 0.3120672097550678, "ndvi_std": 0.10167603789513432}
+{"province": "Chaco", "year": 2019, "month": 9, "ndvi_mean": 0.28801978510059634, "ndvi_std": 0.112262445914458}
+{"province": "Chaco", "year": 2019, "month": 10, "ndvi_mean": 0.6110585745283823, "ndvi_std": 0.1063513346684287}
+{"province": "Chaco", "year": 2019, "month": 11, "ndvi_mean": 0.6333922154548904, "ndvi_std": 0.08998672035436744}
+{"province": "Chaco", "year": 2019, "month": 12, "ndvi_mean": 0.5959180079228437, "ndvi_std": 0.09957699854572562}
+{"province": "Chaco", "year": 2020, "month": 1, "ndvi_mean": 0.5929618219132586, "ndvi_std": 0.08722301380509334}
+{"province": "Chaco", "year": 2020, "month": 2, "ndvi_mean": 0.5707687687163112, "ndvi_std": 0.10271780922210519}
+{"province": "Chaco", "year": 2020, "month": 3, "ndvi_mean": 0.4418943459591738, "ndvi_std": 0.11697584781506122}
+{"province": "Chaco", "year": 2020, "month": 4, "ndvi_mean": 0.5053152853332904, "ndvi_std": 0.11884232980661472}
+{"province": "Chaco", "year": 2020, "month": 5, "ndvi_mean": 0.3960444846143345, "ndvi_std": 0.11448170603957254}
+{"province": "Chaco", "year": 2020, "month": 6, "ndvi_mean": 0.31815006973726245, "ndvi_std": 0.11378197594140282}
+{"province": "Chaco", "year": 2020, "month": 7, "ndvi_mean": 0.3438283805975998, "ndvi_std": 0.08148030538861971}
+{"province": "Chaco", "year": 2020, "month": 8, "ndvi_mean": 0.19839552717826262, "ndvi_std": 0.10385079513928212}
+{"province": "Chaco", "year": 2020, "month": 9, "ndvi_mean": 0.20655037725676845, "ndvi_std": 0.08307812806516837}
+{"province": "Chaco", "year": 2020, "month": 10, "ndvi_mean": 0.5190827876531361, "ndvi_std": 0.10785155103512559}
+{"province": "Chaco", "year": 2020, "month": 11, "ndvi_mean": 0.6755756125573521, "ndvi_std": 0.0826142536319577}
+{"province": "Chaco", "year": 2020, "month": 12, "ndvi_mean": 0.46053926977804965, "ndvi_std": 0.09261161351322442}
+{"province": "Chaco", "year": 2021, "month": 1, "ndvi_mean": 0.49469778843537326, "ndvi_std": 0.0927501001172828}
+{"province": "Chaco", "year": 2021, "month": 2, "ndvi_mean": 0.36965547765115747, "ndvi_std": 0.10503565505748036}
+{"province": "Chaco", "year": 2021, "month": 3, "ndvi_mean": 0.37670502658692584, "ndvi_std": 0.08931837899014536}
+{"province": "Chaco", "year": 2021, "month": 4, "ndvi_mean": 0.3389630795623437, "ndvi_std": 0.08097603126226152}
+{"province": "Chaco", "year": 2021, "month": 5, "ndvi_mean": 0.2582283989275424, "ndvi_std": 0.11756270794051585}
+{"province": "Chaco", "year": 2021, "month": 6, "ndvi_mean": 0.35654803750653513, "ndvi_std": 0.11195132943094663}
+{"province": "Chaco", "year": 2021, "month": 7, "ndvi_mean": 0.19827115498996278, "ndvi_std": 0.09919502481215636}
+{"province": "Chaco", "year": 2021, "month": 8, "ndvi_mean": 0.390934744018558, "ndvi_std": 0.1051002185287348}
+{"province": "Chaco", "year": 2021, "month": 9, "ndvi_mean": 0.20544974785992282, "ndvi_std": 0.09685428009108281}
+{"province": "Chaco", "year": 2021, "month": 10, "ndvi_mean": 0.49533844771177005, "ndvi_std": 0.10950329206355566}
+{"province": "Chaco", "year": 2021, "month": 11, "ndvi_mean": 0.3079813182904142, "ndvi_std": 0.09418488630563106}
+{"province": "Chaco", "year": 2021, "month": 12, "ndvi_mean": 0.32182153911394923, "ndvi_std": 0.09148955966616328}
+{"province": "Chaco", "year": 2022, "month": 1, "ndvi_mean": 0.44958592332479325, "ndvi_std": 0.08168372758545447}
+{"province": "Chaco", "year": 2022, "month": 2, "ndvi_mean": 0.4732202434895872, "ndvi_std": 0.08071495738933655}
+{"province": "Chaco", "year": 2022, "month": 3, "ndvi_mean": 0.5465315112613219, "ndvi_std": 0.09537306588638728}
+{"province": "Chaco", "year": 2022, "month": 4, "ndvi_mean": 0.42342147325365204, "ndvi_std": 0.1071858913077228}
+{"province": "Chaco", "year": 2022, "month": 5, "ndvi_mean": 0.4984322398476584, "ndvi_std": 0.11778928089165641}
+{"province": "Chaco", "year": 2022, "month": 6, "ndvi_mean": 0.2286011155774491, "ndvi_std": 0.0986960604499948}
+{"province": "Chaco", "year": 2022, "month": 7, "ndvi_mean": 0.13772779784377015, "ndvi_std": 0.11964674504547906}
+{"province": "Chaco", "year": 2022, "month": 8, "ndvi_mean": 0.28824097461840503, "ndvi_std": 0.08926686805533773}
+{"province": "Chaco", "year": 2022, "month": 9, "ndvi_mean": 0.2666452208213056, "ndvi_std": 0.10430947179515437}
+{"province": "Chaco", "year": 2022, "month": 10, "ndvi_mean": 0.599245126400815, "ndvi_std": 0.10050754044066035}
+{"province": "Chaco", "year": 2022, "month": 11, "ndvi_mean": 0.48622600157486845, "ndvi_std": 0.08881944836280702}
+{"province": "Chaco", "year": 2022, "month": 12, "ndvi_mean": 0.49690030449981826, "ndvi_std": 0.08745753048577018}
+{"province": "Chaco", "year": 2023, "month": 1, "ndvi_mean": 0.2862612872693482, "ndvi_std": 0.08231370706253585}
+{"province": "Chaco", "year": 2023, "month": 2, "ndvi_mean": 0.46890165311075516, "ndvi_std": 0.11876410520563246}
+{"province": "Chaco", "year": 2023, "month": 3, "ndvi_mean": 0.4920504247989855, "ndvi_std": 0.10784082472215169}
+{"province": "Chaco", "year": 2023, "month": 4, "ndvi_mean": 0.19292537062505238, "ndvi_std": 0.0861558362535942}
+{"province": "Chaco", "year": 2023, "month": 5, "ndvi_mean": 0.19477769557190283, "ndvi_std": 0.08895270459290493}
+{"province": "Chaco", "year": 2023, "month": 6, "ndvi_mean": 0.3132931817755511, "ndvi_std": 0.10147897691573654}
+{"province": "Chaco", "year": 2023, "month": 7, "ndvi_mean": 0.40475052013300616, "ndvi_std": 0.0836594734959102}
+{"province": "Chaco", "year": 2023, "month": 8, "ndvi_mean": 0.42958776730955217, "ndvi_std": 0.11509843450521522}
+{"province": "Chaco", "year": 2023, "month": 9, "ndvi_mean": 0.1887211309515614, "ndvi_std": 0.1155499231947591}
+{"province": "Chaco", "year": 2023, "month": 10, "ndvi_mean": 0.3112298440064016, "ndvi_std": 0.11822605992919014}
+{"province": "Chaco", "year": 2023, "month": 11, "ndvi_mean": 0.3785865390724905, "ndvi_std": 0.10620967922556088}
+{"province": "Chaco", "year": 2023, "month": 12, "ndvi_mean": 0.3834456789987025, "ndvi_std": 0.10203429482436557}
+{"province": "Tucum\u00e1n", "year": 2018, "month": 1, "ndvi_mean": 0.3376136940754165, "ndvi_std": 0.09490754068049256}
+{"province": "Tucum\u00e1n", "year": 2018, "month": 2, "ndvi_mean": 0.2941191928823082, "ndvi_std": 0.09039015135041305}
+{"province": "Tucum\u00e1n", "year": 2018, "month": 3, "ndvi_mean": 0.34768111189883416, "ndvi_std": 0.08324184863630592}
+{"province": "Tucum\u00e1n", "year": 2018, "month": 4, "ndvi_mean": 0.37561905044624516, "ndvi_std": 0.08880732807799245}
+{"province": "Tucum\u00e1n", "year": 2018, "month": 5, "ndvi_mean": 0.213767209067468, "ndvi_std": 0.11404827656195074}
+{"province": "Tucum\u00e1n", "year": 2018, "month": 6, "ndvi_mean": 0.2656651566147229, "ndvi_std": 0.09980586108055897}
+{"province": "Tucum\u00e1n", "year": 2018, "month": 7, "ndvi_mean": 0.42688526981115354, "ndvi_std": 0.11298723863700597}
+{"province": "Tucum\u00e1n", "year": 2018, "month": 8, "ndvi_mean": 0.21283918589557754, "ndvi_std": 0.09391236831608772}
+{"province": "Tucum\u00e1n", "year": 2018, "month": 9, "ndvi_mean": 0.2977324042738418, "ndvi_std": 0.09068113080677685}
+{"province": "Tucum\u00e1n", "year": 2018, "month": 10, "ndvi_mean": 0.4792695128015223, "ndvi_std": 0.11514519945420632}
+{"province": "Tucum\u00e1n", "year": 2018, "month": 11, "ndvi_mean": 0.39134583814846163, "ndvi_std": 0.11402326916376967}
+{"province": "Tucum\u00e1n", "year": 2018, "month": 12, "ndvi_mean": 0.4276092506408035, "ndvi_std": 0.1146917680383921}
+{"province": "Tucum\u00e1n", "year": 2019, "month": 1, "ndvi_mean": 0.6074337526838155, "ndvi_std": 0.10789885846677134}
+{"province": "Tucum\u00e1n", "year": 2019, "month": 2, "ndvi_mean": 0.5855091821775109, "ndvi_std": 0.10720563087041202}
+{"province": "Tucum\u00e1n", "year": 2019, "month": 3, "ndvi_mean": 0.6467511293726269, "ndvi_std": 0.08634420421172295}
+{"province": "Tucum\u00e1n", "year": 2019, "month": 4, "ndvi_mean": 0.445409692131275, "ndvi_std": 0.11523483036795715}
+{"province": "Tucum\u00e1n", "year": 2019, "month": 5, "ndvi_mean": 0.38830173437782023, "ndvi_std": 0.09340475417036567}
+{"province": "Tucum\u00e1n", "year": 2019, "month": 6, "ndvi_mean": 0.2602699580503326, "ndvi_std": 0.10974033025166431}
+{"province": "Tucum\u00e1n", "year": 2019, "month": 7, "ndvi_mean": 0.2758071316211031, "ndvi_std": 0.11328536711830968}
+{"province": "Tucum\u00e1n", "year": 2019, "month": 8, "ndvi_mean": 0.22246628313708475, "ndvi_std": 0.10029870935043345}
+{"province": "Tucum\u00e1n", "year": 2019, "month": 9, "ndvi_mean": 0.26337693476139323, "ndvi_std": 0.10527254108066673}
+{"province": "Tucum\u00e1n", "year": 2019, "month": 10, "ndvi_mean": 0.5532505583709305, "ndvi_std": 0.09039214324256639}
+{"province": "Tucum\u00e1n", "year": 2019, "month": 11, "ndvi_mean": 0.5951838926798754, "ndvi_std": 0.11119381580604575}
+{"province": "Tucum\u00e1n", "year": 2019, "month": 12, "ndvi_mean": 0.7014278306313823, "ndvi_std": 0.08427922555307833}
+{"province": "Tucum\u00e1n", "year": 2020, "month": 1, "ndvi_mean": 0.5674568578597529, "ndvi_std": 0.11851968015435979}
+{"province": "Tucum\u00e1n", "year": 2020, "month": 2, "ndvi_mean": 0.6604217295834433, "ndvi_std": 0.09367488664154744}
+{"province": "Tucum\u00e1n", "year": 2020, "month": 3, "ndvi_mean": 0.5925527556801578, "ndvi_std": 0.08410038911962717}
+{"province": "Tucum\u00e1n", "year": 2020, "month": 4, "ndvi_mean": 0.4130626386209451, "ndvi_std": 0.11748913948945805}
+{"province": "Tucum\u00e1n", "year": 2020, "month": 5, "ndvi_mean": 0.36874964698146306, "ndvi_std": 0.09203854267787265}
+{"province": "Tucum\u00e1n", "year": 2020, "month": 6, "ndvi_mean": 0.26358629950288154, "ndvi_std": 0.10832688354581127}
+{"province": "Tucum\u00e1n", "year": 2020, "month": 7, "ndvi_mean": 0.2593078771902813, "ndvi_std": 0.09383532227811828}
+{"province": "Tucum\u00e1n", "year": 2020, "month": 8, "ndvi_mean": 0.20099154295425786, "ndvi_std": 0.10483662071069909}
+{"province": "Tucum\u00e1n", "year": 2020, "month": 9, "ndvi_mean": 0.2108754706909888, "ndvi_std": 0.11033052783716091}
+{"province": "Tucum\u00e1n", "year": 2020, "month": 10, "ndvi_mean": 0.5764048312545165, "ndvi_std": 0.08098347665835207}
+{"province": "Tucum\u00e1n", "year": 2020, "month": 11, "ndvi_mean": 0.6595866820464039, "ndvi_std": 0.1073318150642602}
+{"province": "Tucum\u00e1n", "year": 2020, "month": 12, "ndvi_mean": 0.5453974817248909, "ndvi_std": 0.09783610825506994}
+{"province": "Tucum\u00e1n", "year": 2021, "month": 1, "ndvi_mean": 0.24863902697086288, "ndvi_std": 0.08654495284766676}
+{"province": "Tucum\u00e1n", "year": 2021, "month": 2, "ndvi_mean": 0.19608358303659423, "ndvi_std": 0.11179238194999717}
+{"province": "Tucum\u00e1n", "year": 2021, "month": 3, "ndvi_mean": 0.27851370280085, "ndvi_std": 0.08329524182463371}
+{"province": "Tucum\u00e1n", "year": 2021, "month": 4, "ndvi_mean": 0.29958495131095475, "ndvi_std": 0.10721997208298853}
+{"province": "Tucum\u00e1n", "year": 2021, "month": 5, "ndvi_mean": 0.1603786920930374, "ndvi_std": 0.11803454249001641}
+{"province": "Tucum\u00e1n", "year": 2021, "month": 6, "ndvi_mean": 0.3110720129796101, "ndvi_std": 0.086042315671236}
+{"province": "Tucum\u00e1n", "year": 2021, "month": 7, "ndvi_mean": 0.29551408245710625, "ndvi_std": 0.0967890926770449}
+{"province": "Tucum\u00e1n", "year": 2021, "month": 8, "ndvi_mean": 0.24305768953544318, "ndvi_std": 0.10554103790656343}
+{"province": "Tucum\u00e1n", "year": 2021, "month": 9, "ndvi_mean": 0.14321323803526825, "ndvi_std": 0.11935910591839313}
+{"province": "Tucum\u00e1n", "year": 2021, "month": 10, "ndvi_mean": 0.3015664351083129, "ndvi_std": 0.09637336025260172}
+{"province": "Tucum\u00e1n", "year": 2021, "month": 11, "ndvi_mean": 0.3331134759500569, "ndvi_std": 0.08852418816100334}
+{"province": "Tucum\u00e1n", "year": 2021, "month": 12, "ndvi_mean": 0.3746438777560008, "ndvi_std": 0.08124536331538046}
+{"province": "Tucum\u00e1n", "year": 2022, "month": 1, "ndvi_mean": 0.4623922403066689, "ndvi_std": 0.1145743299935855}
+{"province": "Tucum\u00e1n", "year": 2022, "month": 2, "ndvi_mean": 0.6510635222851282, "ndvi_std": 0.09892839626766228}
+{"province": "Tucum\u00e1n", "year": 2022, "month": 3, "ndvi_mean": 0.5739907742464393, "ndvi_std": 0.11083687378576208}
+{"province": "Tucum\u00e1n", "year": 2022, "month": 4, "ndvi_mean": 0.4319727253407649, "ndvi_std": 0.11379132912467552}
+{"province": "Tucum\u00e1n", "year": 2022, "month": 5, "ndvi_mean": 0.4449905931907281, "ndvi_std": 0.08524979510729551}
+{"province": "Tucum\u00e1n", "year": 2022, "month": 6, "ndvi_mean": 0.3430406771092702, "ndvi_std": 0.08130104717965007}
+{"province": "Tucum\u00e1n", "year": 2022, "month": 7, "ndvi_mean": 0.2637564818791029, "ndvi_std": 0.11186149163904704}
+{"province": "Tucum\u00e1n", "year": 2022, "month": 8, "ndvi_mean": 0.2996302630311959, "ndvi_std": 0.09926089406050201}
+{"province": "Tucum\u00e1n", "year": 2022, "month": 9, "ndvi_mean": 0.2026525388558511, "ndvi_std": 0.08802098906801348}
+{"province": "Tucum\u00e1n", "year": 2022, "month": 10, "ndvi_mean": 0.6760658303037571, "ndvi_std": 0.09966378186965748}
+{"province": "Tucum\u00e1n", "year": 2022, "month": 11, "ndvi_mean": 0.5589673090437552, "ndvi_std": 0.0907597361774039}
+{"province": "Tucum\u00e1n", "year": 2022, "month": 12, "ndvi_mean": 0.5023263839767584, "ndvi_std": 0.11190236402548753}
+{"province": "Tucum\u00e1n", "year": 2023, "month": 1, "ndvi_mean": 0.3187671596749654, "ndvi_std": 0.08046482159632402}
+{"province": "Tucum\u00e1n", "year": 2023, "month": 2, "ndvi_mean": 0.21773214883381278, "ndvi_std": 0.08289787551178236}
+{"province": "Tucum\u00e1n", "year": 2023, "month": 3, "ndvi_mean": 0.3183385576525646, "ndvi_std": 0.10400082192477215}
+{"province": "Tucum\u00e1n", "year": 2023, "month": 4, "ndvi_mean": 0.1, "ndvi_std": 0.09166650314837213}
+{"province": "Tucum\u00e1n", "year": 2023, "month": 5, "ndvi_mean": 0.30500601110555825, "ndvi_std": 0.111194039555734}
+{"province": "Tucum\u00e1n", "year": 2023, "month": 6, "ndvi_mean": 0.27978202932494756, "ndvi_std": 0.0815847530139343}
+{"province": "Tucum\u00e1n", "year": 2023, "month": 7, "ndvi_mean": 0.1823116699809551, "ndvi_std": 0.0896818006345011}
+{"province": "Tucum\u00e1n", "year": 2023, "month": 8, "ndvi_mean": 0.24666020507006142, "ndvi_std": 0.11946650373068586}
+{"province": "Tucum\u00e1n", "year": 2023, "month": 9, "ndvi_mean": 0.2497478222636602, "ndvi_std": 0.10472622937272477}
+{"province": "Tucum\u00e1n", "year": 2023, "month": 10, "ndvi_mean": 0.268914471756522, "ndvi_std": 0.10809859882176416}
+{"province": "Tucum\u00e1n", "year": 2023, "month": 11, "ndvi_mean": 0.3345325078319235, "ndvi_std": 0.09305845232975968}
+{"province": "Tucum\u00e1n", "year": 2023, "month": 12, "ndvi_mean": 0.3518820087296171, "ndvi_std": 0.10070846573538846}
+{"province": "Salta", "year": 2018, "month": 1, "ndvi_mean": 0.3326975832235582, "ndvi_std": 0.08132812435165467}
+{"province": "Salta", "year": 2018, "month": 2, "ndvi_mean": 0.30226110264015404, "ndvi_std": 0.08314313988620083}
+{"province": "Salta", "year": 2018, "month": 3, "ndvi_mean": 0.2798865993073559, "ndvi_std": 0.10270163393046233}
+{"province": "Salta", "year": 2018, "month": 4, "ndvi_mean": 0.23032297949798317, "ndvi_std": 0.10757859876549063}
+{"province": "Salta", "year": 2018, "month": 5, "ndvi_mean": 0.2100174707152042, "ndvi_std": 0.0866993032903628}
+{"province": "Salta", "year": 2018, "month": 6, "ndvi_mean": 0.2900807946949311, "ndvi_std": 0.08418271361337601}
+{"province": "Salta", "year": 2018, "month": 7, "ndvi_mean": 0.34795488056102014, "ndvi_std": 0.08126344579302568}
+{"province": "Salta", "year": 2018, "month": 8, "ndvi_mean": 0.31472435780389385, "ndvi_std": 0.1174484898497476}
+{"province": "Salta", "year": 2018, "month": 9, "ndvi_mean": 0.2541741258944122, "ndvi_std": 0.10836242077803666}
+{"province": "Salta", "year": 2018, "month": 10, "ndvi_mean": 0.3047144255606098, "ndvi_std": 0.11483876494984344}
+{"province": "Salta", "year": 2018, "month": 11, "ndvi_mean": 0.41266352540194123, "ndvi_std": 0.09357800770171225}
+{"province": "Salta", "year": 2018, "month": 12, "ndvi_mean": 0.39446202611773784, "ndvi_std": 0.11259300454986049}
+{"province": "Salta", "year": 2019, "month": 1, "ndvi_mean": 0.6422175845944028, "ndvi_std": 0.098092731380732}
+{"province": "Salta", "year": 2019, "month": 2, "ndvi_mean": 0.563831972328468, "ndvi_std": 0.105743107807861}
+{"province": "Salta", "year": 2019, "month": 3, "ndvi_mean": 0.6715174662215675, "ndvi_std": 0.08326519928122358}
+{"province": "Salta", "year": 2019, "month": 4, "ndvi_mean": 0.41385375484238535, "ndvi_std": 0.08241408335962255}
+{"province": "Salta", "year": 2019, "month": 5, "ndvi_mean": 0.3544007397469886, "ndvi_std": 0.11487134266368806}
+{"province": "Salta", "year": 2019, "month": 6, "ndvi_mean": 0.2161279916161975, "ndvi_std": 0.08876855949432177}
+{"province": "Salta", "year": 2019, "month": 7, "ndvi_mean": 0.28659848416248496, "ndvi_std": 0.10634831102003504}
+{"province": "Salta", "year": 2019, "month": 8, "ndvi_mean": 0.20984099972429948, "ndvi_std": 0.09992782865812556}
+{"province": "Salta", "year": 2019, "month": 9, "ndvi_mean": 0.3709280219070498, "ndvi_std": 0.08913818965325195}
+{"province": "Salta", "year": 2019, "month": 10, "ndvi_mean": 0.5805426568771823, "ndvi_std": 0.11985335664226968}
+{"province": "Salta", "year": 2019, "month": 11, "ndvi_mean": 0.5526602434717741, "ndvi_std": 0.08798169803716581}
+{"province": "Salta", "year": 2019, "month": 12, "ndvi_mean": 0.5584021928702784, "ndvi_std": 0.10720912969725166}
+{"province": "Salta", "year": 2020, "month": 1, "ndvi_mean": 0.5319836423803659, "ndvi_std": 0.11473090021633522}
+{"province": "Salta", "year": 2020, "month": 2, "ndvi_mean": 0.43319911482856877, "ndvi_std": 0.10908676279065233}
+{"province": "Salta", "year": 2020, "month": 3, "ndvi_mean": 0.5161769476390439, "ndvi_std": 0.09383739970187852}
+{"province": "Salta", "year": 2020, "month": 4, "ndvi_mean": 0.5101790734303023, "ndvi_std": 0.09484155051938412}
+{"province": "Salta", "year": 2020, "month": 5, "ndvi_mean": 0.4157116272991981, "ndvi_std": 0.09754461676758362}
+{"province": "Salta", "year": 2020, "month": 6, "ndvi_mean": 0.3232968811828508, "ndvi_std": 0.10901030641660546}
+{"province": "Salta", "year": 2020, "month": 7, "ndvi_mean": 0.3255076583401907, "ndvi_std": 0.11602807456045033}
+{"province": "Salta", "year": 2020, "month": 8, "ndvi_mean": 0.2473044071349505, "ndvi_std": 0.09686883707493822}
+{"province": "Salta", "year": 2020, "month": 9, "ndvi_mean": 0.29566260148893936, "ndvi_std": 0.11649453382466765}
+{"province": "Salta", "year": 2020, "month": 10, "ndvi_mean": 0.43965254901110257, "ndvi_std": 0.08842648756022667}
+{"province": "Salta", "year": 2020, "month": 11, "ndvi_mean": 0.6533578244808127, "ndvi_std": 0.10932452089661124}
+{"province": "Salta", "year": 2020, "month": 12, "ndvi_mean": 0.6466063947903217, "ndvi_std": 0.0852627074050904}
+{"province": "Salta", "year": 2021, "month": 1, "ndvi_mean": 0.38458211303979173, "ndvi_std": 0.08718732435480968}
+{"province": "Salta", "year": 2021, "month": 2, "ndvi_mean": 0.36824716360767346, "ndvi_std": 0.0895017329969551}
+{"province": "Salta", "year": 2021, "month": 3, "ndvi_mean": 0.3482112150305988, "ndvi_std": 0.08988924297612708}
+{"province": "Salta", "year": 2021, "month": 4, "ndvi_mean": 0.33209103134815554, "ndvi_std": 0.11482999605090047}
+{"province": "Salta", "year": 2021, "month": 5, "ndvi_mean": 0.30401890974538415, "ndvi_std": 0.09436933477599063}
+{"province": "Salta", "year": 2021, "month": 6, "ndvi_mean": 0.1, "ndvi_std": 0.1037180340573971}
+{"province": "Salta", "year": 2021, "month": 7, "ndvi_mean": 0.22462913410178076, "ndvi_std": 0.1187764928934115}
+{"province": "Salta", "year": 2021, "month": 8, "ndvi_mean": 0.17162310737616993, "ndvi_std": 0.09032533730804511}
+{"province": "Salta", "year": 2021, "month": 9, "ndvi_mean": 0.15937229669953662, "ndvi_std": 0.11093892502746402}
+{"province": "Salta", "year": 2021, "month": 10, "ndvi_mean": 0.4312578751164963, "ndvi_std": 0.085234946428734}
+{"province": "Salta", "year": 2021, "month": 11, "ndvi_mean": 0.3467155594784571, "ndvi_std": 0.08944201853385855}
+{"province": "Salta", "year": 2021, "month": 12, "ndvi_mean": 0.3833928579056185, "ndvi_std": 0.08293986989320051}
+{"province": "Salta", "year": 2022, "month": 1, "ndvi_mean": 0.5553775323742179, "ndvi_std": 0.09348012705725145}
+{"province": "Salta", "year": 2022, "month": 2, "ndvi_mean": 0.4601905443068002, "ndvi_std": 0.11315533463530439}
+{"province": "Salta", "year": 2022, "month": 3, "ndvi_mean": 0.44103926709381747, "ndvi_std": 0.1046857994641612}
+{"province": "Salta", "year": 2022, "month": 4, "ndvi_mean": 0.37003193873238616, "ndvi_std": 0.10827108867541783}
+{"province": "Salta", "year": 2022, "month": 5, "ndvi_mean": 0.37559435059144985, "ndvi_std": 0.08146685707734172}
+{"province": "Salta", "year": 2022, "month": 6, "ndvi_mean": 0.22555196069771, "ndvi_std": 0.10945608060262563}
+{"province": "Salta", "year": 2022, "month": 7, "ndvi_mean": 0.22748554641478322, "ndvi_std": 0.11376681795876789}
+{"province": "Salta", "year": 2022, "month": 8, "ndvi_mean": 0.39537235884925886, "ndvi_std": 0.11222680611800212}
+{"province": "Salta", "year": 2022, "month": 9, "ndvi_mean": 0.32211984178222897, "ndvi_std": 0.08823364840147073}
+{"province": "Salta", "year": 2022, "month": 10, "ndvi_mean": 0.566715241131856, "ndvi_std": 0.08447678477590911}
+{"province": "Salta", "year": 2022, "month": 11, "ndvi_mean": 0.5449879118410156, "ndvi_std": 0.10124678112004129}
+{"province": "Salta", "year": 2022, "month": 12, "ndvi_mean": 0.5473944434443111, "ndvi_std": 0.11746422769179846}
+{"province": "Salta", "year": 2023, "month": 1, "ndvi_mean": 0.40128480540509054, "ndvi_std": 0.09264624419907003}
+{"province": "Salta", "year": 2023, "month": 2, "ndvi_mean": 0.3443498393923992, "ndvi_std": 0.1002893923475357}
+{"province": "Salta", "year": 2023, "month": 3, "ndvi_mean": 0.41414293722917367, "ndvi_std": 0.09818959422535437}
+{"province": "Salta", "year": 2023, "month": 4, "ndvi_mean": 0.2742541933128595, "ndvi_std": 0.10062384114317001}
+{"province": "Salta", "year": 2023, "month": 5, "ndvi_mean": 0.396186229334651, "ndvi_std": 0.08558605019025252}
+{"province": "Salta", "year": 2023, "month": 6, "ndvi_mean": 0.24022872602913783, "ndvi_std": 0.08119894359490712}
+{"province": "Salta", "year": 2023, "month": 7, "ndvi_mean": 0.32757279717162613, "ndvi_std": 0.08807413808491793}
+{"province": "Salta", "year": 2023, "month": 8, "ndvi_mean": 0.17720658510121284, "ndvi_std": 0.1069372973329967}
+{"province": "Salta", "year": 2023, "month": 9, "ndvi_mean": 0.20633617275129362, "ndvi_std": 0.11472569017510022}
+{"province": "Salta", "year": 2023, "month": 10, "ndvi_mean": 0.48398219477067506, "ndvi_std": 0.08708599157789544}
+{"province": "Salta", "year": 2023, "month": 11, "ndvi_mean": 0.41090474114821274, "ndvi_std": 0.11778456877896093}
+{"province": "Salta", "year": 2023, "month": 12, "ndvi_mean": 0.3846977321580823, "ndvi_std": 0.10732992113158583}

@@ -1,0 +1,50 @@
+{
+  "country": "Argentina",
+  "model": "LogisticRegression",
+  "loyo_auroc": 0.9187930713354442,
+  "loso_auroc": 0.9223319053827528,
+  "n_samples": 150,
+  "n_stress": 59,
+  "top_features": [
+    [
+      "ndvi_mean",
+      -0.7205097618401567
+    ],
+    [
+      "ndvi_min",
+      -0.6108871369807565
+    ],
+    [
+      "ndvi_max",
+      -0.5890475110949029
+    ],
+    [
+      "ndvi_cv",
+      0.2820812781444905
+    ],
+    [
+      "wx_rh2m_std",
+      -0.2584131885397164
+    ],
+    [
+      "wx_rh2m_anom",
+      -0.25359519858079566
+    ],
+    [
+      "wx_prectotcorr_min",
+      -0.19060260594574893
+    ],
+    [
+      "wx_t2m_anom",
+      0.1772533456782721
+    ],
+    [
+      "wx_prectotcorr_anom",
+      0.13525490935347292
+    ],
+    [
+      "ndvi_slope",
+      0.12944363854824856
+    ]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "feature_names": [
+    "ndvi_mean",
+    "ndvi_std",
+    "ndvi_min",
+    "ndvi_max",
+    "ndvi_range",
+    "ndvi_trend",
+    "ndvi_early",
+    "ndvi_mid",
+    "ndvi_late",
+    "evi_mean",
+    "evi_std",
+    "ndwi_mean",
+    "ndwi_std",
+    "n_observations"
+  ],
+  "metrics": {
+    "accuracy": 0.6071428571428571,
+    "precision": 0.5,
+    "recall": 0.48484848484848486,
+    "f1": 0.49230769230769234,
+    "auroc": 0.5983363042186571
+  },
+  "n_samples": 84
+}

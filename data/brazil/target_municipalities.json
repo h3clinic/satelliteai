@@ -1,0 +1,1407 @@
+{
+  "description": "Top 200 soy municipalities for satellite data collection",
+  "municipalities": [
+    "3550209",
+    "3510203",
+    "3543253",
+    "3555356",
+    "3551108",
+    "3108552",
+    "3169356",
+    "3509452",
+    "3523503",
+    "3135605",
+    "3553856",
+    "3522406",
+    "3547908",
+    "3519055",
+    "3502200",
+    "3541059",
+    "2930154",
+    "3169307",
+    "3169109",
+    "2907103",
+    "3100203",
+    "2919553",
+    "5007695",
+    "2909406",
+    "3152907",
+    "3105103",
+    "3164407",
+    "4200101",
+    "3500550",
+    "3126109",
+    "3552106",
+    "3505005",
+    "3503109",
+    "3521705",
+    "5206602",
+    "4109401",
+    "3522307",
+    "3117702",
+    "4104659",
+    "4208500",
+    "3535804",
+    "4114401",
+    "3110301",
+    "3159209",
+    "3103504",
+    "3132107",
+    "3505302",
+    "3101904",
+    "4200309",
+    "3170800",
+    "2903201",
+    "3104205",
+    "3135902",
+    "3130309",
+    "4119400",
+    "3543006",
+    "5214903",
+    "4121752",
+    "3120805",
+    "3523206",
+    "3170701",
+    "3105301",
+    "4104907",
+    "3553807",
+    "4127502",
+    "4119301",
+    "3556354",
+    "4213401",
+    "3138708",
+    "3511409",
+    "4111803",
+    "4204194",
+    "3519253",
+    "4127858",
+    "4104428",
+    "4104105",
+    "4119905",
+    "4107546",
+    "4212270",
+    "3145000",
+    "4101606",
+    "5003256",
+    "4127601",
+    "5002951",
+    "3117801",
+    "4201901",
+    "4203600",
+    "4102307",
+    "3528007",
+    "3532827",
+    "3535507",
+    "4112009",
+    "3151206",
+    "3147204",
+    "4110508",
+    "3501004",
+    "3535101",
+    "3104304",
+    "3101607",
+    "3142601",
+    "2928901",
+    "3160801",
+    "4117701",
+    "3162203",
+    "3133758",
+    "3134509",
+    "4212700",
+    "5205109",
+    "5205901",
+    "3521804",
+    "1100338",
+    "3165107",
+    "3545308",
+    "3110707",
+    "4101804",
+    "4211850",
+    "3546207",
+    "3163904",
+    "3166907",
+    "5105622",
+    "5215504",
+    "4128500",
+    "4106308",
+    "3100104",
+    "3134301",
+    "3149804",
+    "4115754",
+    "5216403",
+    "4219408",
+    "4125407",
+    "3118700",
+    "5208707",
+    "3506706",
+    "3512209",
+    "3146503",
+    "5212501",
+    "3145109",
+    "3107109",
+    "3162500",
+    "4105003",
+    "3504503",
+    "2911105",
+    "3119708",
+    "3121209",
+    "3115201",
+    "3536703",
+    "3170529",
+    "5211909",
+    "3147907",
+    "3108008",
+    "4205308",
+    "3155504",
+    "3534500",
+    "4113205",
+    "3517604",
+    "5208509",
+    "4113304",
+    "3144508",
+    "5206909",
+    "4120150",
+    "1500347",
+    "4209508",
+    "4120101",
+    "3523800",
+    "3130804",
+    "3527603",
+    "3537909",
+    "3149200",
+    "3143500",
+    "3524105",
+    "4205159",
+    "5007307",
+    "4108452",
+    "3109808",
+    "3150307",
+    "3112802",
+    "4121208",
+    "5103007",
+    "5204805",
+    "4104709",
+    "3139102",
+    "5107800",
+    "3112604",
+    "4119103",
+    "4128658",
+    "3115003",
+    "5108600",
+    "4122305",
+    "3554607",
+    "4109302",
+    "1101468",
+    "4103222",
+    "3145604",
+    "4122156",
+    "4120606",
+    "4127007",
+    "4218301",
+    "4121802",
+    "4103958",
+    "3546504"
+  ],
+  "details": [
+    {
+      "code": "3550209",
+      "name": "S\u00e3o Miguel Arcanjo - SP",
+      "avg_yield": 4685.714285714285,
+      "n_years": 7
+    },
+    {
+      "code": "3510203",
+      "name": "Cap\u00e3o Bonito - SP",
+      "avg_yield": 4542.857142857143,
+      "n_years": 7
+    },
+    {
+      "code": "3543253",
+      "name": "Ribeir\u00e3o Grande - SP",
+      "avg_yield": 4500.0,
+      "n_years": 7
+    },
+    {
+      "code": "3555356",
+      "name": "Ubarana - SP",
+      "avg_yield": 4428.571428571428,
+      "n_years": 7
+    },
+    {
+      "code": "3551108",
+      "name": "Sarapu\u00ed - SP",
+      "avg_yield": 4366.714285714285,
+      "n_years": 7
+    },
+    {
+      "code": "3108552",
+      "name": "Brasil\u00e2ndia de Minas - MG",
+      "avg_yield": 4355.571428571428,
+      "n_years": 7
+    },
+    {
+      "code": "3169356",
+      "name": "Tr\u00eas Marias - MG",
+      "avg_yield": 4285.714285714285,
+      "n_years": 7
+    },
+    {
+      "code": "3509452",
+      "name": "Campina do Monte Alegre - SP",
+      "avg_yield": 4200.0,
+      "n_years": 7
+    },
+    {
+      "code": "3523503",
+      "name": "Itatinga - SP",
+      "avg_yield": 4185.142857142857,
+      "n_years": 7
+    },
+    {
+      "code": "3135605",
+      "name": "Jequita\u00ed - MG",
+      "avg_yield": 4164.285714285715,
+      "n_years": 7
+    },
+    {
+      "code": "3553856",
+      "name": "Taquariva\u00ed - SP",
+      "avg_yield": 4163.285714285715,
+      "n_years": 7
+    },
+    {
+      "code": "3522406",
+      "name": "Itapeva - SP",
+      "avg_yield": 4141.428571428572,
+      "n_years": 7
+    },
+    {
+      "code": "3547908",
+      "name": "Santo Ant\u00f4nio da Alegria - SP",
+      "avg_yield": 4128.571428571428,
+      "n_years": 7
+    },
+    {
+      "code": "3519055",
+      "name": "Holambra - SP",
+      "avg_yield": 4120.428571428572,
+      "n_years": 7
+    },
+    {
+      "code": "3502200",
+      "name": "Angatuba - SP",
+      "avg_yield": 4114.285714285715,
+      "n_years": 7
+    },
+    {
+      "code": "3541059",
+      "name": "Prat\u00e2nia - SP",
+      "avg_yield": 4106.0,
+      "n_years": 6
+    },
+    {
+      "code": "2930154",
+      "name": "Serra do Ramalho - BA",
+      "avg_yield": 4087.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "3169307",
+      "name": "Tr\u00eas Cora\u00e7\u00f5es - MG",
+      "avg_yield": 4084.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "3169109",
+      "name": "Toledo - MG",
+      "avg_yield": 4068.0,
+      "n_years": 5
+    },
+    {
+      "code": "2907103",
+      "name": "Carinhanha - BA",
+      "avg_yield": 4046.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "3100203",
+      "name": "Abaet\u00e9 - MG",
+      "avg_yield": 4042.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "2919553",
+      "name": "Lu\u00eds Eduardo Magalh\u00e3es - BA",
+      "avg_yield": 4041.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "5007695",
+      "name": "S\u00e3o Gabriel do Oeste - MS",
+      "avg_yield": 4025.1428571428573,
+      "n_years": 7
+    },
+    {
+      "code": "2909406",
+      "name": "Cotegipe - BA",
+      "avg_yield": 4017.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "3152907",
+      "name": "Prat\u00e1polis - MG",
+      "avg_yield": 4016.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "3105103",
+      "name": "Bambu\u00ed - MG",
+      "avg_yield": 4014.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "3164407",
+      "name": "S\u00e3o Sebasti\u00e3o da Bela Vista - MG",
+      "avg_yield": 4013.0,
+      "n_years": 7
+    },
+    {
+      "code": "4200101",
+      "name": "Abelardo Luz - SC",
+      "avg_yield": 4010.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "3500550",
+      "name": "\u00c1guas de Santa B\u00e1rbara - SP",
+      "avg_yield": 4004.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "3126109",
+      "name": "Formiga - MG",
+      "avg_yield": 4000.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "3552106",
+      "name": "Socorro - SP",
+      "avg_yield": 4000.0,
+      "n_years": 7
+    },
+    {
+      "code": "3505005",
+      "name": "Bar\u00e3o de Antonina - SP",
+      "avg_yield": 3993.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "3503109",
+      "name": "Arandu - SP",
+      "avg_yield": 3987.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "3521705",
+      "name": "Itaber\u00e1 - SP",
+      "avg_yield": 3979.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "5206602",
+      "name": "Cumari - GO",
+      "avg_yield": 3974.0,
+      "n_years": 7
+    },
+    {
+      "code": "4109401",
+      "name": "Guarapuava - PR",
+      "avg_yield": 3973.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "3522307",
+      "name": "Itapetininga - SP",
+      "avg_yield": 3971.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "3117702",
+      "name": "Concei\u00e7\u00e3o do Rio Verde - MG",
+      "avg_yield": 3962.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "4104659",
+      "name": "Carambe\u00ed - PR",
+      "avg_yield": 3960.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "4208500",
+      "name": "Ituporanga - SC",
+      "avg_yield": 3960.0,
+      "n_years": 7
+    },
+    {
+      "code": "3535804",
+      "name": "Paranapanema - SP",
+      "avg_yield": 3958.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "4114401",
+      "name": "Mangueirinha - PR",
+      "avg_yield": 3954.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "3110301",
+      "name": "Caldas - MG",
+      "avg_yield": 3947.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "3159209",
+      "name": "Santa Rita de Caldas - MG",
+      "avg_yield": 3944.0,
+      "n_years": 5
+    },
+    {
+      "code": "3103504",
+      "name": "Araguari - MG",
+      "avg_yield": 3942.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "3132107",
+      "name": "Itacarambi - MG",
+      "avg_yield": 3940.0,
+      "n_years": 7
+    },
+    {
+      "code": "3505302",
+      "name": "Barra Bonita - SP",
+      "avg_yield": 3938.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "3101904",
+      "name": "Alpin\u00f3polis - MG",
+      "avg_yield": 3937.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "4200309",
+      "name": "Agron\u00f4mica - SC",
+      "avg_yield": 3934.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "3170800",
+      "name": "V\u00e1rzea da Palma - MG",
+      "avg_yield": 3928.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "2903201",
+      "name": "Barreiras - BA",
+      "avg_yield": 3921.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "3104205",
+      "name": "Arcos - MG",
+      "avg_yield": 3917.1428571428573,
+      "n_years": 7
+    },
+    {
+      "code": "3135902",
+      "name": "Jesu\u00e2nia - MG",
+      "avg_yield": 3916.6,
+      "n_years": 5
+    },
+    {
+      "code": "3130309",
+      "name": "Iguatama - MG",
+      "avg_yield": 3916.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "4119400",
+      "name": "Pira\u00ed do Sul - PR",
+      "avg_yield": 3916.0,
+      "n_years": 7
+    },
+    {
+      "code": "3543006",
+      "name": "Ribeir\u00e3o Branco - SP",
+      "avg_yield": 3910.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "5214903",
+      "name": "Nova Roma - GO",
+      "avg_yield": 3906.0,
+      "n_years": 6
+    },
+    {
+      "code": "4121752",
+      "name": "Reserva do Igua\u00e7u - PR",
+      "avg_yield": 3904.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "3120805",
+      "name": "Cruz\u00edlia - MG",
+      "avg_yield": 3904.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "3523206",
+      "name": "Itarar\u00e9 - SP",
+      "avg_yield": 3900.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "3170701",
+      "name": "Varginha - MG",
+      "avg_yield": 3898.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "3105301",
+      "name": "Bandeira do Sul - MG",
+      "avg_yield": 3898.6,
+      "n_years": 5
+    },
+    {
+      "code": "4104907",
+      "name": "Castro - PR",
+      "avg_yield": 3896.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "3553807",
+      "name": "Taquarituba - SP",
+      "avg_yield": 3895.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "4127502",
+      "name": "Tibagi - PR",
+      "avg_yield": 3892.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "4119301",
+      "name": "Pinh\u00e3o - PR",
+      "avg_yield": 3889.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "3556354",
+      "name": "Vargem - SP",
+      "avg_yield": 3888.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "4213401",
+      "name": "Ponte Serrada - SC",
+      "avg_yield": 3888.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "3138708",
+      "name": "Lumin\u00e1rias - MG",
+      "avg_yield": 3886.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "3511409",
+      "name": "Cerqueira C\u00e9sar - SP",
+      "avg_yield": 3886.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "4111803",
+      "name": "Jacarezinho - PR",
+      "avg_yield": 3885.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "4204194",
+      "name": "Chapad\u00e3o do Lageado - SC",
+      "avg_yield": 3885.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "3519253",
+      "name": "Iaras - SP",
+      "avg_yield": 3881.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "4127858",
+      "name": "Tr\u00eas Barras do Paran\u00e1 - PR",
+      "avg_yield": 3881.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "4104428",
+      "name": "Cand\u00f3i - PR",
+      "avg_yield": 3880.0,
+      "n_years": 7
+    },
+    {
+      "code": "4104105",
+      "name": "Campo do Tenente - PR",
+      "avg_yield": 3878.1428571428573,
+      "n_years": 7
+    },
+    {
+      "code": "4119905",
+      "name": "Ponta Grossa - PR",
+      "avg_yield": 3875.1428571428573,
+      "n_years": 7
+    },
+    {
+      "code": "4107546",
+      "name": "Espig\u00e3o Alto do Igua\u00e7u - PR",
+      "avg_yield": 3874.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "4212270",
+      "name": "Passos Maia - SC",
+      "avg_yield": 3866.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "3145000",
+      "name": "Nova Ponte - MG",
+      "avg_yield": 3865.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "4101606",
+      "name": "Arapoti - PR",
+      "avg_yield": 3863.0,
+      "n_years": 7
+    },
+    {
+      "code": "5003256",
+      "name": "Costa Rica - MS",
+      "avg_yield": 3862.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "4127601",
+      "name": "Tijucas do Sul - PR",
+      "avg_yield": 3862.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "5002951",
+      "name": "Chapad\u00e3o do Sul - MS",
+      "avg_yield": 3860.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "3117801",
+      "name": "Concei\u00e7\u00e3o dos Ouros - MG",
+      "avg_yield": 3857.1428571428573,
+      "n_years": 7
+    },
+    {
+      "code": "4201901",
+      "name": "Aurora - SC",
+      "avg_yield": 3857.1428571428573,
+      "n_years": 7
+    },
+    {
+      "code": "4203600",
+      "name": "Campos Novos - SC",
+      "avg_yield": 3856.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "4102307",
+      "name": "Balsa Nova - PR",
+      "avg_yield": 3855.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "3528007",
+      "name": "Macatuba - SP",
+      "avg_yield": 3855.1428571428573,
+      "n_years": 7
+    },
+    {
+      "code": "3532827",
+      "name": "Nova Campina - SP",
+      "avg_yield": 3850.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "3535507",
+      "name": "Paragua\u00e7u Paulista - SP",
+      "avg_yield": 3847.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "4112009",
+      "name": "Jaguaria\u00edva - PR",
+      "avg_yield": 3846.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "3151206",
+      "name": "Pirapora - MG",
+      "avg_yield": 3846.2,
+      "n_years": 5
+    },
+    {
+      "code": "3147204",
+      "name": "Paragua\u00e7u - MG",
+      "avg_yield": 3844.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "4110508",
+      "name": "Ipiranga - PR",
+      "avg_yield": 3842.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "3501004",
+      "name": "Altin\u00f3polis - SP",
+      "avg_yield": 3840.0,
+      "n_years": 7
+    },
+    {
+      "code": "3535101",
+      "name": "Palmares Paulista - SP",
+      "avg_yield": 3840.0,
+      "n_years": 5
+    },
+    {
+      "code": "3104304",
+      "name": "Areado - MG",
+      "avg_yield": 3839.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "3101607",
+      "name": "Alfenas - MG",
+      "avg_yield": 3838.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "3142601",
+      "name": "Monsenhor Paulo - MG",
+      "avg_yield": 3838.3333333333335,
+      "n_years": 6
+    },
+    {
+      "code": "2928901",
+      "name": "S\u00e3o Desid\u00e9rio - BA",
+      "avg_yield": 3836.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "3160801",
+      "name": "S\u00e3o Bento Abade - MG",
+      "avg_yield": 3828.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "4117701",
+      "name": "Palmeira - PR",
+      "avg_yield": 3828.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "3162203",
+      "name": "S\u00e3o Jo\u00e3o Batista do Gl\u00f3ria - MG",
+      "avg_yield": 3822.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "3133758",
+      "name": "Ita\u00fa de Minas - MG",
+      "avg_yield": 3814.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "3134509",
+      "name": "Itutinga - MG",
+      "avg_yield": 3814.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "4212700",
+      "name": "Petrol\u00e2ndia - SC",
+      "avg_yield": 3814.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "5205109",
+      "name": "Catal\u00e3o - GO",
+      "avg_yield": 3814.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "5205901",
+      "name": "Corumba\u00edba - GO",
+      "avg_yield": 3813.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "3521804",
+      "name": "Ita\u00ed - SP",
+      "avg_yield": 3811.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "1100338",
+      "name": "Nova Mamor\u00e9 - RO",
+      "avg_yield": 3811.1666666666665,
+      "n_years": 6
+    },
+    {
+      "code": "3165107",
+      "name": "S\u00e3o Tom\u00e1s de Aquino - MG",
+      "avg_yield": 3809.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "3545308",
+      "name": "Salto de Pirapora - SP",
+      "avg_yield": 3800.0,
+      "n_years": 7
+    },
+    {
+      "code": "3110707",
+      "name": "Cambuquira - MG",
+      "avg_yield": 3794.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "4101804",
+      "name": "Arauc\u00e1ria - PR",
+      "avg_yield": 3792.1428571428573,
+      "n_years": 7
+    },
+    {
+      "code": "4211850",
+      "name": "Ouro Verde - SC",
+      "avg_yield": 3790.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "3546207",
+      "name": "Santa Cruz da Concei\u00e7\u00e3o - SP",
+      "avg_yield": 3788.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "3163904",
+      "name": "S\u00e3o Pedro da Uni\u00e3o - MG",
+      "avg_yield": 3786.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "3166907",
+      "name": "Serrania - MG",
+      "avg_yield": 3785.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "5105622",
+      "name": "Mirassol d'Oeste - MT",
+      "avg_yield": 3785.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "5215504",
+      "name": "Ouvidor - GO",
+      "avg_yield": 3783.0,
+      "n_years": 7
+    },
+    {
+      "code": "4128500",
+      "name": "Wenceslau Braz - PR",
+      "avg_yield": 3782.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "4106308",
+      "name": "Corb\u00e9lia - PR",
+      "avg_yield": 3782.0,
+      "n_years": 7
+    },
+    {
+      "code": "3100104",
+      "name": "Abadia dos Dourados - MG",
+      "avg_yield": 3780.0,
+      "n_years": 7
+    },
+    {
+      "code": "3134301",
+      "name": "Itumirim - MG",
+      "avg_yield": 3780.0,
+      "n_years": 7
+    },
+    {
+      "code": "3149804",
+      "name": "Perdizes - MG",
+      "avg_yield": 3780.0,
+      "n_years": 7
+    },
+    {
+      "code": "4115754",
+      "name": "Mau\u00e1 da Serra - PR",
+      "avg_yield": 3780.0,
+      "n_years": 7
+    },
+    {
+      "code": "5216403",
+      "name": "Para\u00fana - GO",
+      "avg_yield": 3780.0,
+      "n_years": 7
+    },
+    {
+      "code": "4219408",
+      "name": "Witmarsum - SC",
+      "avg_yield": 3780.0,
+      "n_years": 6
+    },
+    {
+      "code": "4125407",
+      "name": "S\u00e3o Jos\u00e9 da Boa Vista - PR",
+      "avg_yield": 3778.0,
+      "n_years": 7
+    },
+    {
+      "code": "3118700",
+      "name": "Coqueiral - MG",
+      "avg_yield": 3777.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "5208707",
+      "name": "Goi\u00e2nia - GO",
+      "avg_yield": 3772.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "3506706",
+      "name": "Boa Esperan\u00e7a do Sul - SP",
+      "avg_yield": 3771.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "3512209",
+      "name": "Conchal - SP",
+      "avg_yield": 3771.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "3146503",
+      "name": "Pains - MG",
+      "avg_yield": 3771.0,
+      "n_years": 7
+    },
+    {
+      "code": "5212501",
+      "name": "Luzi\u00e2nia - GO",
+      "avg_yield": 3769.0,
+      "n_years": 7
+    },
+    {
+      "code": "3145109",
+      "name": "Nova Resende - MG",
+      "avg_yield": 3765.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "3107109",
+      "name": "Boa Esperan\u00e7a - MG",
+      "avg_yield": 3762.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "3162500",
+      "name": "S\u00e3o Jo\u00e3o del Rei - MG",
+      "avg_yield": 3762.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "4105003",
+      "name": "Catanduvas - PR",
+      "avg_yield": 3762.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "3504503",
+      "name": "Avar\u00e9 - SP",
+      "avg_yield": 3761.6666666666665,
+      "n_years": 6
+    },
+    {
+      "code": "2911105",
+      "name": "Formosa do Rio Preto - BA",
+      "avg_yield": 3761.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "3119708",
+      "name": "Coronel Xavier Chaves - MG",
+      "avg_yield": 3760.2,
+      "n_years": 5
+    },
+    {
+      "code": "3121209",
+      "name": "Delfin\u00f3polis - MG",
+      "avg_yield": 3758.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "3115201",
+      "name": "Concei\u00e7\u00e3o da Barra de Minas - MG",
+      "avg_yield": 3755.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "3536703",
+      "name": "Pederneiras - SP",
+      "avg_yield": 3753.1428571428573,
+      "n_years": 7
+    },
+    {
+      "code": "3170529",
+      "name": "Urucuia - MG",
+      "avg_yield": 3751.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "5211909",
+      "name": "Jata\u00ed - GO",
+      "avg_yield": 3751.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "3147907",
+      "name": "Passos - MG",
+      "avg_yield": 3750.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "3108008",
+      "name": "Bom Sucesso - MG",
+      "avg_yield": 3750.0,
+      "n_years": 6
+    },
+    {
+      "code": "4205308",
+      "name": "Faxinal dos Guedes - SC",
+      "avg_yield": 3746.1428571428573,
+      "n_years": 7
+    },
+    {
+      "code": "3155504",
+      "name": "Rio Parana\u00edba - MG",
+      "avg_yield": 3745.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "3534500",
+      "name": "Oscar Bressane - SP",
+      "avg_yield": 3743.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "4113205",
+      "name": "Lapa - PR",
+      "avg_yield": 3743.0,
+      "n_years": 7
+    },
+    {
+      "code": "3517604",
+      "name": "Guapiara - SP",
+      "avg_yield": 3737.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "5208509",
+      "name": "Goiandira - GO",
+      "avg_yield": 3737.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "4113304",
+      "name": "Laranjeiras do Sul - PR",
+      "avg_yield": 3735.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "3144508",
+      "name": "Nazareno - MG",
+      "avg_yield": 3734.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "5206909",
+      "name": "Davin\u00f3polis - GO",
+      "avg_yield": 3733.3333333333335,
+      "n_years": 6
+    },
+    {
+      "code": "4120150",
+      "name": "Porto Barreiro - PR",
+      "avg_yield": 3732.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "1500347",
+      "name": "\u00c1gua Azul do Norte - PA",
+      "avg_yield": 3731.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "4209508",
+      "name": "Laurentino - SC",
+      "avg_yield": 3730.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "4120101",
+      "name": "Porto Amazonas - PR",
+      "avg_yield": 3730.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "3523800",
+      "name": "Itobi - SP",
+      "avg_yield": 3729.4,
+      "n_years": 5
+    },
+    {
+      "code": "3130804",
+      "name": "Inga\u00ed - MG",
+      "avg_yield": 3728.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "3527603",
+      "name": "Lu\u00eds Ant\u00f4nio - SP",
+      "avg_yield": 3728.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "3537909",
+      "name": "Pilar do Sul - SP",
+      "avg_yield": 3728.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "3149200",
+      "name": "Pedrin\u00f3polis - MG",
+      "avg_yield": 3726.1428571428573,
+      "n_years": 7
+    },
+    {
+      "code": "3143500",
+      "name": "Morada Nova de Minas - MG",
+      "avg_yield": 3724.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "3524105",
+      "name": "Ituverava - SP",
+      "avg_yield": 3723.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "4205159",
+      "name": "Doutor Pedrinho - SC",
+      "avg_yield": 3723.5,
+      "n_years": 6
+    },
+    {
+      "code": "5007307",
+      "name": "Rio Negro - MS",
+      "avg_yield": 3722.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "4108452",
+      "name": "Foz do Jord\u00e3o - PR",
+      "avg_yield": 3722.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "3109808",
+      "name": "Cachoeira Dourada - MG",
+      "avg_yield": 3720.0,
+      "n_years": 7
+    },
+    {
+      "code": "3150307",
+      "name": "Piedade do Rio Grande - MG",
+      "avg_yield": 3720.0,
+      "n_years": 7
+    },
+    {
+      "code": "3112802",
+      "name": "Capit\u00f3lio - MG",
+      "avg_yield": 3718.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "4121208",
+      "name": "Quitandinha - PR",
+      "avg_yield": 3716.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "5103007",
+      "name": "Chapada dos Guimar\u00e3es - MT",
+      "avg_yield": 3712.0,
+      "n_years": 7
+    },
+    {
+      "code": "5204805",
+      "name": "Campo Alegre de Goi\u00e1s - GO",
+      "avg_yield": 3710.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "4104709",
+      "name": "Carl\u00f3polis - PR",
+      "avg_yield": 3708.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "3139102",
+      "name": "Madre de Deus de Minas - MG",
+      "avg_yield": 3708.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "5107800",
+      "name": "Santo Ant\u00f4nio de Leverger - MT",
+      "avg_yield": 3708.1428571428573,
+      "n_years": 7
+    },
+    {
+      "code": "3112604",
+      "name": "Capin\u00f3polis - MG",
+      "avg_yield": 3707.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "4119103",
+      "name": "Pi\u00ean - PR",
+      "avg_yield": 3706.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "4128658",
+      "name": "Virmond - PR",
+      "avg_yield": 3706.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "3115003",
+      "name": "Cascalho Rico - MG",
+      "avg_yield": 3705.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "5108600",
+      "name": "Vila Rica - MT",
+      "avg_yield": 3705.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "4122305",
+      "name": "Rio Negro - PR",
+      "avg_yield": 3705.1428571428573,
+      "n_years": 7
+    },
+    {
+      "code": "3554607",
+      "name": "Timburi - SP",
+      "avg_yield": 3704.285714285714,
+      "n_years": 7
+    },
+    {
+      "code": "4109302",
+      "name": "Guarania\u00e7u - PR",
+      "avg_yield": 3702.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "1101468",
+      "name": "Pimenteiras do Oeste - RO",
+      "avg_yield": 3702.4285714285716,
+      "n_years": 7
+    },
+    {
+      "code": "4103222",
+      "name": "Bom Sucesso do Sul - PR",
+      "avg_yield": 3701.8571428571427,
+      "n_years": 7
+    },
+    {
+      "code": "3145604",
+      "name": "Oliveira - MG",
+      "avg_yield": 3700.0,
+      "n_years": 6
+    },
+    {
+      "code": "4122156",
+      "name": "Rio Bonito do Igua\u00e7u - PR",
+      "avg_yield": 3698.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "4120606",
+      "name": "Prudent\u00f3polis - PR",
+      "avg_yield": 3697.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "4127007",
+      "name": "Teixeira Soares - PR",
+      "avg_yield": 3694.1428571428573,
+      "n_years": 7
+    },
+    {
+      "code": "4218301",
+      "name": "Tr\u00eas Barras - SC",
+      "avg_yield": 3694.1428571428573,
+      "n_years": 7
+    },
+    {
+      "code": "4121802",
+      "name": "Ribeir\u00e3o Claro - PR",
+      "avg_yield": 3692.714285714286,
+      "n_years": 7
+    },
+    {
+      "code": "4103958",
+      "name": "Campina do Sim\u00e3o - PR",
+      "avg_yield": 3691.5714285714284,
+      "n_years": 7
+    },
+    {
+      "code": "3546504",
+      "name": "Santa Ernestina - SP",
+      "avg_yield": 3691.4285714285716,
+      "n_years": 7
+    }
+  ]
+}
