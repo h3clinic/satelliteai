@@ -296,9 +296,9 @@ def diagnose_data_gap(satellite_data: List[dict], labels: Dict):
 def main():
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument("--satellite", default=os.path.expanduser("~/data/agrisentinel/data/global/satellite_monthly_stats.jsonl"))
-    parser.add_argument("--labels", default=os.path.expanduser("~/data/agrisentinel/data/global/training_labels.json"))
-    parser.add_argument("--output", default=os.path.expanduser("~/data/agrisentinel/models/global_stress_model.json"))
+    parser.add_argument("--satellite", default=os.path.expanduser("~/data/satelliteai/data/global/satellite_monthly_stats.jsonl"))
+    parser.add_argument("--labels", default=os.path.expanduser("~/data/satelliteai/data/global/training_labels.json"))
+    parser.add_argument("--output", default=os.path.expanduser("~/data/satelliteai/models/global_stress_model.json"))
     parser.add_argument("--min-stress", type=int, default=10, help="Minimum stress samples required")
     args = parser.parse_args()
     

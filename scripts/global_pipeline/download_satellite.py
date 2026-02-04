@@ -525,8 +525,8 @@ def download_satellite_data(
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="Download satellite data for training")
-    parser.add_argument("--labels", default=os.path.expanduser("~/data/agrisentinel/data/global/training_labels.json"))
-    parser.add_argument("--output", default=os.path.expanduser("~/data/agrisentinel/data/global/satellite_monthly_stats.jsonl"))
+    parser.add_argument("--labels", default=os.path.expanduser("~/data/satelliteai/data/global/training_labels.json"))
+    parser.add_argument("--output", default=os.path.expanduser("~/data/satelliteai/data/global/satellite_monthly_stats.jsonl"))
     parser.add_argument("--years", nargs="+", type=int, default=None)
     parser.add_argument("--countries", nargs="+", default=None)
     parser.add_argument("--max-regions", type=int, default=None)
