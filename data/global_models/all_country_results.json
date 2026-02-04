@@ -1,0 +1,2627 @@
+{
+  "USA": {
+    "n_samples": 56,
+    "n_stress": 22,
+    "stress_rate": 39.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 4,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 8,
+    "top_features": [
+      [
+        "precip_anomaly",
+        -0.417
+      ],
+      [
+        "temp_anomaly",
+        0.398
+      ],
+      [
+        "moisture_stress",
+        0.383
+      ],
+      [
+        "drought_severity",
+        0.326
+      ],
+      [
+        "spi_proxy",
+        0.305
+      ]
+    ]
+  },
+  "Canada": {
+    "n_samples": 28,
+    "n_stress": 1,
+    "stress_rate": 3.6,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Mexico": {
+    "n_samples": 28,
+    "n_stress": 1,
+    "stress_rate": 3.6,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Brazil": {
+    "n_samples": 42,
+    "n_stress": 10,
+    "stress_rate": 23.8,
+    "loyo_auroc": 0.96,
+    "loyo_std": 0.08,
+    "loyo_n_folds": 5,
+    "loso_auroc": 0.847,
+    "loso_std": 0.14,
+    "loso_n_folds": 6,
+    "top_features": [
+      [
+        "precip_anomaly",
+        -0.358
+      ],
+      [
+        "moisture_stress",
+        0.352
+      ],
+      [
+        "temp_anomaly",
+        0.331
+      ],
+      [
+        "spi_proxy",
+        0.325
+      ],
+      [
+        "gdd",
+        -0.237
+      ]
+    ]
+  },
+  "Argentina": {
+    "n_samples": 35,
+    "n_stress": 15,
+    "stress_rate": 42.9,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 4,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 5,
+    "top_features": [
+      [
+        "temp_anomaly",
+        0.407
+      ],
+      [
+        "moisture_stress",
+        0.345
+      ],
+      [
+        "drought_severity",
+        0.283
+      ],
+      [
+        "precip_anomaly",
+        -0.249
+      ],
+      [
+        "ndvi_late_drop",
+        0.232
+      ]
+    ]
+  },
+  "Paraguay": {
+    "n_samples": 28,
+    "n_stress": 4,
+    "stress_rate": 14.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "drought_severity",
+        0.292
+      ],
+      [
+        "temp_anomaly",
+        0.275
+      ],
+      [
+        "precip_total",
+        -0.272
+      ],
+      [
+        "spi_proxy",
+        0.255
+      ],
+      [
+        "ndvi_max",
+        -0.204
+      ]
+    ]
+  },
+  "Uruguay": {
+    "n_samples": 28,
+    "n_stress": 3,
+    "stress_rate": 10.7,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 2,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 2,
+    "top_features": [
+      [
+        "ndvi_std",
+        0.352
+      ],
+      [
+        "ndvi_cv",
+        0.339
+      ],
+      [
+        "moisture_stress",
+        0.329
+      ],
+      [
+        "spi_proxy",
+        0.204
+      ],
+      [
+        "temp_anomaly",
+        0.198
+      ]
+    ]
+  },
+  "Bolivia": {
+    "n_samples": 28,
+    "n_stress": 7,
+    "stress_rate": 25.0,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 5,
+    "loso_auroc": 0.975,
+    "loso_std": 0.043,
+    "loso_n_folds": 4,
+    "top_features": [
+      [
+        "drought_severity",
+        0.256
+      ],
+      [
+        "evi_proxy",
+        -0.246
+      ],
+      [
+        "moisture_stress",
+        0.243
+      ],
+      [
+        "ndvi_cv",
+        0.227
+      ],
+      [
+        "temp_anomaly",
+        0.221
+      ]
+    ]
+  },
+  "Chile": {
+    "n_samples": 28,
+    "n_stress": 4,
+    "stress_rate": 14.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.311
+      ],
+      [
+        "temp_anomaly",
+        0.279
+      ],
+      [
+        "ndvi_cv",
+        0.277
+      ],
+      [
+        "spi_proxy",
+        0.209
+      ],
+      [
+        "ndvi_max",
+        -0.206
+      ]
+    ]
+  },
+  "Peru": {
+    "n_samples": 28,
+    "n_stress": 3,
+    "stress_rate": 10.7,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 2,
+    "top_features": [
+      [
+        "spi_proxy",
+        0.369
+      ],
+      [
+        "moisture_stress",
+        0.308
+      ],
+      [
+        "drought_severity",
+        0.304
+      ],
+      [
+        "precip_total",
+        -0.299
+      ],
+      [
+        "precip_anomaly",
+        -0.269
+      ]
+    ]
+  },
+  "Colombia": {
+    "n_samples": 28,
+    "n_stress": 3,
+    "stress_rate": 10.7,
+    "loyo_auroc": 0.889,
+    "loyo_std": 0.157,
+    "loyo_n_folds": 3,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 2,
+    "top_features": [
+      [
+        "drought_severity",
+        0.307
+      ],
+      [
+        "temp_anomaly",
+        0.303
+      ],
+      [
+        "precip_anomaly",
+        -0.286
+      ],
+      [
+        "moisture_stress",
+        0.281
+      ],
+      [
+        "spi_proxy",
+        0.275
+      ]
+    ]
+  },
+  "Ecuador": {
+    "n_samples": 28,
+    "n_stress": 2,
+    "stress_rate": 7.1,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Venezuela": {
+    "n_samples": 28,
+    "n_stress": 1,
+    "stress_rate": 3.6,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "France": {
+    "n_samples": 35,
+    "n_stress": 11,
+    "stress_rate": 31.4,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 4,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 5,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.342
+      ],
+      [
+        "precip_total",
+        0.321
+      ],
+      [
+        "temp_anomaly",
+        0.319
+      ],
+      [
+        "precip_anomaly",
+        -0.302
+      ],
+      [
+        "drought_severity",
+        0.288
+      ]
+    ]
+  },
+  "Germany": {
+    "n_samples": 28,
+    "n_stress": 13,
+    "stress_rate": 46.4,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 7,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 4,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.377
+      ],
+      [
+        "precip_anomaly",
+        -0.362
+      ],
+      [
+        "drought_severity",
+        0.285
+      ],
+      [
+        "spi_proxy",
+        0.255
+      ],
+      [
+        "temp_anomaly",
+        0.227
+      ]
+    ]
+  },
+  "UK": {
+    "n_samples": 28,
+    "n_stress": 8,
+    "stress_rate": 28.6,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 4,
+    "loso_auroc": 0.975,
+    "loso_std": 0.043,
+    "loso_n_folds": 4,
+    "top_features": [
+      [
+        "ndvi_cv",
+        0.316
+      ],
+      [
+        "ndvi_std",
+        0.274
+      ],
+      [
+        "vpd_proxy",
+        0.218
+      ],
+      [
+        "moisture_stress",
+        0.205
+      ],
+      [
+        "temp_anomaly",
+        0.197
+      ]
+    ]
+  },
+  "Poland": {
+    "n_samples": 28,
+    "n_stress": 10,
+    "stress_rate": 35.7,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 6,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 4,
+    "top_features": [
+      [
+        "temp_anomaly",
+        0.329
+      ],
+      [
+        "precip_anomaly",
+        -0.311
+      ],
+      [
+        "drought_severity",
+        0.292
+      ],
+      [
+        "moisture_stress",
+        0.279
+      ],
+      [
+        "spi_proxy",
+        0.268
+      ]
+    ]
+  },
+  "Ukraine": {
+    "n_samples": 35,
+    "n_stress": 3,
+    "stress_rate": 8.6,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 2,
+    "top_features": [
+      [
+        "ndvi_late_drop",
+        0.34
+      ],
+      [
+        "spi_proxy",
+        0.311
+      ],
+      [
+        "moisture_stress",
+        0.303
+      ],
+      [
+        "temp_anomaly",
+        0.284
+      ],
+      [
+        "precip_anomaly",
+        -0.246
+      ]
+    ]
+  },
+  "Russia": {
+    "n_samples": 28,
+    "n_stress": 4,
+    "stress_rate": 14.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 2,
+    "loso_auroc": 0.958,
+    "loso_std": 0.072,
+    "loso_n_folds": 4,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.333
+      ],
+      [
+        "ndvi_late_drop",
+        0.287
+      ],
+      [
+        "precip_anomaly",
+        -0.277
+      ],
+      [
+        "dry_days_proxy",
+        -0.229
+      ],
+      [
+        "vpd_proxy",
+        -0.218
+      ]
+    ]
+  },
+  "Spain": {
+    "n_samples": 28,
+    "n_stress": 8,
+    "stress_rate": 28.6,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 2,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 4,
+    "top_features": [
+      [
+        "vpd_proxy",
+        0.295
+      ],
+      [
+        "drought_severity",
+        0.256
+      ],
+      [
+        "rh_mean",
+        -0.24
+      ],
+      [
+        "gdd",
+        0.233
+      ],
+      [
+        "moisture_stress",
+        0.214
+      ]
+    ]
+  },
+  "Italy": {
+    "n_samples": 28,
+    "n_stress": 6,
+    "stress_rate": 21.4,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "spi_proxy",
+        0.293
+      ],
+      [
+        "precip_anomaly",
+        -0.291
+      ],
+      [
+        "moisture_stress",
+        0.246
+      ],
+      [
+        "vpd_proxy",
+        0.239
+      ],
+      [
+        "ndvi_late_drop",
+        0.212
+      ]
+    ]
+  },
+  "Romania": {
+    "n_samples": 28,
+    "n_stress": 4,
+    "stress_rate": 14.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 0.917,
+    "loso_std": 0.144,
+    "loso_n_folds": 4,
+    "top_features": [
+      [
+        "temp_anomaly",
+        0.418
+      ],
+      [
+        "moisture_stress",
+        0.303
+      ],
+      [
+        "drought_severity",
+        0.265
+      ],
+      [
+        "spi_proxy",
+        0.233
+      ],
+      [
+        "evap_demand",
+        -0.187
+      ]
+    ]
+  },
+  "Hungary": {
+    "n_samples": 28,
+    "n_stress": 4,
+    "stress_rate": 14.3,
+    "loyo_auroc": 0.889,
+    "loyo_std": 0.157,
+    "loyo_n_folds": 3,
+    "loso_auroc": 0.889,
+    "loso_std": 0.079,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "drought_severity",
+        0.308
+      ],
+      [
+        "moisture_stress",
+        0.305
+      ],
+      [
+        "temp_anomaly",
+        0.286
+      ],
+      [
+        "precip_anomaly",
+        -0.255
+      ],
+      [
+        "ndvi_late_drop",
+        0.225
+      ]
+    ]
+  },
+  "Czech Republic": {
+    "n_samples": 21,
+    "n_stress": 3,
+    "stress_rate": 14.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 0.9,
+    "loso_std": 0.1,
+    "loso_n_folds": 2,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.31
+      ],
+      [
+        "precip_anomaly",
+        -0.302
+      ],
+      [
+        "spi_proxy",
+        0.25
+      ],
+      [
+        "drought_severity",
+        0.237
+      ],
+      [
+        "wind_mean",
+        0.23
+      ]
+    ]
+  },
+  "Bulgaria": {
+    "n_samples": 28,
+    "n_stress": 6,
+    "stress_rate": 21.4,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 4,
+    "top_features": [
+      [
+        "ndvi_cv",
+        0.266
+      ],
+      [
+        "spi_proxy",
+        0.235
+      ],
+      [
+        "moisture_stress",
+        0.223
+      ],
+      [
+        "precip_anomaly",
+        -0.221
+      ],
+      [
+        "ndvi_min",
+        -0.216
+      ]
+    ]
+  },
+  "Serbia": {
+    "n_samples": 28,
+    "n_stress": 5,
+    "stress_rate": 17.9,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 4,
+    "loso_auroc": 0.917,
+    "loso_std": 0.118,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.319
+      ],
+      [
+        "precip_anomaly",
+        -0.296
+      ],
+      [
+        "drought_severity",
+        0.28
+      ],
+      [
+        "spi_proxy",
+        0.254
+      ],
+      [
+        "temp_anomaly",
+        0.23
+      ]
+    ]
+  },
+  "Netherlands": {
+    "n_samples": 28,
+    "n_stress": 2,
+    "stress_rate": 7.1,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Belgium": {
+    "n_samples": 28,
+    "n_stress": 1,
+    "stress_rate": 3.6,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Denmark": {
+    "n_samples": 21,
+    "n_stress": 2,
+    "stress_rate": 9.5,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Sweden": {
+    "n_samples": 21,
+    "n_stress": 3,
+    "stress_rate": 14.3,
+    "loyo_auroc": 0.833,
+    "loyo_std": 0.236,
+    "loyo_n_folds": 3,
+    "loso_auroc": 0.717,
+    "loso_std": 0.117,
+    "loso_n_folds": 2,
+    "top_features": [
+      [
+        "temp_range",
+        0.252
+      ],
+      [
+        "rh_mean",
+        0.246
+      ],
+      [
+        "temp_anomaly",
+        0.215
+      ],
+      [
+        "precip_anomaly",
+        -0.209
+      ],
+      [
+        "spi_proxy",
+        0.206
+      ]
+    ]
+  },
+  "Austria": {
+    "n_samples": 21,
+    "n_stress": 4,
+    "stress_rate": 19.0,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 4,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "temp_anomaly",
+        0.263
+      ],
+      [
+        "drought_severity",
+        0.235
+      ],
+      [
+        "ndvi_mean",
+        -0.207
+      ],
+      [
+        "ndvi_late_drop",
+        0.202
+      ],
+      [
+        "ndvi_min",
+        -0.19
+      ]
+    ]
+  },
+  "Greece": {
+    "n_samples": 21,
+    "n_stress": 3,
+    "stress_rate": 14.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "spi_proxy",
+        0.306
+      ],
+      [
+        "ndvi_late_drop",
+        0.26
+      ],
+      [
+        "precip_anomaly",
+        -0.242
+      ],
+      [
+        "moisture_stress",
+        0.241
+      ],
+      [
+        "temp_anomaly",
+        0.227
+      ]
+    ]
+  },
+  "Portugal": {
+    "n_samples": 21,
+    "n_stress": 3,
+    "stress_rate": 14.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": null,
+    "loso_std": null,
+    "loso_n_folds": 0,
+    "top_features": [
+      [
+        "precip_anomaly",
+        -0.309
+      ],
+      [
+        "spi_proxy",
+        0.247
+      ],
+      [
+        "moisture_stress",
+        0.245
+      ],
+      [
+        "drought_severity",
+        0.225
+      ],
+      [
+        "temp_anomaly",
+        0.203
+      ]
+    ]
+  },
+  "Ireland": {
+    "n_samples": 21,
+    "n_stress": 2,
+    "stress_rate": 9.5,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Finland": {
+    "n_samples": 21,
+    "n_stress": 3,
+    "stress_rate": 14.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "ndvi_cv",
+        0.262
+      ],
+      [
+        "precip_anomaly",
+        -0.235
+      ],
+      [
+        "ndvi_late_drop",
+        0.215
+      ],
+      [
+        "moisture_stress",
+        0.208
+      ],
+      [
+        "ndvi_mean",
+        -0.199
+      ]
+    ]
+  },
+  "Slovakia": {
+    "n_samples": 21,
+    "n_stress": 2,
+    "stress_rate": 9.5,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Croatia": {
+    "n_samples": 21,
+    "n_stress": 2,
+    "stress_rate": 9.5,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Lithuania": {
+    "n_samples": 21,
+    "n_stress": 5,
+    "stress_rate": 23.8,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 4,
+    "loso_auroc": 0.967,
+    "loso_std": 0.047,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.299
+      ],
+      [
+        "ndvi_late_drop",
+        0.267
+      ],
+      [
+        "spi_proxy",
+        0.218
+      ],
+      [
+        "drought_severity",
+        0.204
+      ],
+      [
+        "precip_anomaly",
+        -0.187
+      ]
+    ]
+  },
+  "Latvia": {
+    "n_samples": 21,
+    "n_stress": 5,
+    "stress_rate": 23.8,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 4,
+    "loso_auroc": 0.967,
+    "loso_std": 0.047,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "ndvi_late_drop",
+        0.229
+      ],
+      [
+        "temp_anomaly",
+        0.201
+      ],
+      [
+        "drought_severity",
+        0.198
+      ],
+      [
+        "ndvi_cv",
+        0.196
+      ],
+      [
+        "moisture_stress",
+        0.194
+      ]
+    ]
+  },
+  "Estonia": {
+    "n_samples": 21,
+    "n_stress": 1,
+    "stress_rate": 4.8,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Slovenia": {
+    "n_samples": 21,
+    "n_stress": 4,
+    "stress_rate": 19.0,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 0.944,
+    "loso_std": 0.079,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.238
+      ],
+      [
+        "ndvi_cv",
+        0.234
+      ],
+      [
+        "drought_severity",
+        0.233
+      ],
+      [
+        "temp_anomaly",
+        0.224
+      ],
+      [
+        "precip_anomaly",
+        -0.185
+      ]
+    ]
+  },
+  "Moldova": {
+    "n_samples": 21,
+    "n_stress": 2,
+    "stress_rate": 9.5,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Belarus": {
+    "n_samples": 21,
+    "n_stress": 2,
+    "stress_rate": 9.5,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "India": {
+    "n_samples": 42,
+    "n_stress": 12,
+    "stress_rate": 28.6,
+    "loyo_auroc": 0.978,
+    "loyo_std": 0.044,
+    "loyo_n_folds": 5,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 6,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.396
+      ],
+      [
+        "precip_anomaly",
+        -0.32
+      ],
+      [
+        "spi_proxy",
+        0.3
+      ],
+      [
+        "temp_anomaly",
+        0.268
+      ],
+      [
+        "ndvi_late_drop",
+        0.255
+      ]
+    ]
+  },
+  "China": {
+    "n_samples": 42,
+    "n_stress": 11,
+    "stress_rate": 26.2,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 6,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 5,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.405
+      ],
+      [
+        "precip_anomaly",
+        -0.366
+      ],
+      [
+        "spi_proxy",
+        0.349
+      ],
+      [
+        "temp_anomaly",
+        0.319
+      ],
+      [
+        "drought_severity",
+        0.286
+      ]
+    ]
+  },
+  "Indonesia": {
+    "n_samples": 28,
+    "n_stress": 7,
+    "stress_rate": 25.0,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 4,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.393
+      ],
+      [
+        "temp_anomaly",
+        0.34
+      ],
+      [
+        "spi_proxy",
+        0.336
+      ],
+      [
+        "precip_anomaly",
+        -0.285
+      ],
+      [
+        "ndvi_late_drop",
+        0.237
+      ]
+    ]
+  },
+  "Thailand": {
+    "n_samples": 28,
+    "n_stress": 5,
+    "stress_rate": 17.9,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 4,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 4,
+    "top_features": [
+      [
+        "temp_anomaly",
+        0.292
+      ],
+      [
+        "ndvi_late_drop",
+        0.252
+      ],
+      [
+        "spi_proxy",
+        0.237
+      ],
+      [
+        "moisture_stress",
+        0.23
+      ],
+      [
+        "drought_severity",
+        0.221
+      ]
+    ]
+  },
+  "Vietnam": {
+    "n_samples": 21,
+    "n_stress": 4,
+    "stress_rate": 19.0,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 4,
+    "loso_auroc": 0.933,
+    "loso_std": 0.094,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.294
+      ],
+      [
+        "temp_max",
+        0.233
+      ],
+      [
+        "spi_proxy",
+        0.232
+      ],
+      [
+        "ndvi_late_drop",
+        0.225
+      ],
+      [
+        "drought_severity",
+        0.212
+      ]
+    ]
+  },
+  "Pakistan": {
+    "n_samples": 28,
+    "n_stress": 8,
+    "stress_rate": 28.6,
+    "loyo_auroc": 0.917,
+    "loyo_std": 0.144,
+    "loyo_n_folds": 4,
+    "loso_auroc": 0.979,
+    "loso_std": 0.036,
+    "loso_n_folds": 4,
+    "top_features": [
+      [
+        "temp_anomaly",
+        0.319
+      ],
+      [
+        "moisture_stress",
+        0.293
+      ],
+      [
+        "drought_severity",
+        0.248
+      ],
+      [
+        "ndvi_max",
+        -0.239
+      ],
+      [
+        "spi_proxy",
+        0.215
+      ]
+    ]
+  },
+  "Bangladesh": {
+    "n_samples": 28,
+    "n_stress": 3,
+    "stress_rate": 10.7,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": null,
+    "loso_std": null,
+    "loso_n_folds": 0,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.355
+      ],
+      [
+        "temp_anomaly",
+        0.284
+      ],
+      [
+        "drought_severity",
+        0.247
+      ],
+      [
+        "spi_proxy",
+        0.236
+      ],
+      [
+        "precip_anomaly",
+        -0.203
+      ]
+    ]
+  },
+  "Myanmar": {
+    "n_samples": 28,
+    "n_stress": 7,
+    "stress_rate": 25.0,
+    "loyo_auroc": 0.933,
+    "loyo_std": 0.133,
+    "loyo_n_folds": 5,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "drought_severity",
+        0.297
+      ],
+      [
+        "precip_anomaly",
+        -0.246
+      ],
+      [
+        "ndvi_cv",
+        0.234
+      ],
+      [
+        "moisture_stress",
+        0.222
+      ],
+      [
+        "temp_anomaly",
+        0.214
+      ]
+    ]
+  },
+  "Philippines": {
+    "n_samples": 21,
+    "n_stress": 4,
+    "stress_rate": 19.0,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "ndvi_std",
+        0.268
+      ],
+      [
+        "ndvi_cv",
+        0.259
+      ],
+      [
+        "moisture_stress",
+        0.248
+      ],
+      [
+        "spi_proxy",
+        0.227
+      ],
+      [
+        "temp_anomaly",
+        0.214
+      ]
+    ]
+  },
+  "Japan": {
+    "n_samples": 28,
+    "n_stress": 5,
+    "stress_rate": 17.9,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 4,
+    "loso_auroc": 0.944,
+    "loso_std": 0.079,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.299
+      ],
+      [
+        "drought_severity",
+        0.277
+      ],
+      [
+        "ndvi_late_drop",
+        0.266
+      ],
+      [
+        "wind_damage_risk",
+        0.25
+      ],
+      [
+        "ndvi_seasonal_amp",
+        0.233
+      ]
+    ]
+  },
+  "South Korea": {
+    "n_samples": 21,
+    "n_stress": 2,
+    "stress_rate": 9.5,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Malaysia": {
+    "n_samples": 21,
+    "n_stress": 3,
+    "stress_rate": 14.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 2,
+    "loso_auroc": 0.55,
+    "loso_std": 0.45,
+    "loso_n_folds": 2,
+    "top_features": [
+      [
+        "temp_max",
+        -0.325
+      ],
+      [
+        "spi_proxy",
+        0.312
+      ],
+      [
+        "moisture_stress",
+        0.298
+      ],
+      [
+        "wind_damage_risk",
+        0.216
+      ],
+      [
+        "temp_anomaly",
+        0.208
+      ]
+    ]
+  },
+  "Cambodia": {
+    "n_samples": 21,
+    "n_stress": 1,
+    "stress_rate": 4.8,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Nepal": {
+    "n_samples": 21,
+    "n_stress": 5,
+    "stress_rate": 23.8,
+    "loyo_auroc": 0.875,
+    "loyo_std": 0.217,
+    "loyo_n_folds": 4,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 2,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.274
+      ],
+      [
+        "ndvi_cv",
+        0.267
+      ],
+      [
+        "ndvi_std",
+        0.245
+      ],
+      [
+        "precip_anomaly",
+        -0.229
+      ],
+      [
+        "drought_severity",
+        0.188
+      ]
+    ]
+  },
+  "Sri Lanka": {
+    "n_samples": 21,
+    "n_stress": 4,
+    "stress_rate": 19.0,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 4,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 2,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.266
+      ],
+      [
+        "spi_proxy",
+        0.249
+      ],
+      [
+        "temp_mean",
+        0.24
+      ],
+      [
+        "drought_severity",
+        0.215
+      ],
+      [
+        "precip_anomaly",
+        -0.205
+      ]
+    ]
+  },
+  "Kazakhstan": {
+    "n_samples": 21,
+    "n_stress": 3,
+    "stress_rate": 14.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 2,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.289
+      ],
+      [
+        "temp_anomaly",
+        0.272
+      ],
+      [
+        "drought_severity",
+        0.268
+      ],
+      [
+        "precip_anomaly",
+        -0.261
+      ],
+      [
+        "dry_days_proxy",
+        0.234
+      ]
+    ]
+  },
+  "Uzbekistan": {
+    "n_samples": 21,
+    "n_stress": 3,
+    "stress_rate": 14.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 2,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "ndvi_late_drop",
+        0.26
+      ],
+      [
+        "ndvi_seasonal_amp",
+        0.245
+      ],
+      [
+        "moisture_stress",
+        0.231
+      ],
+      [
+        "heat_stress_days",
+        0.21
+      ],
+      [
+        "spi_proxy",
+        0.203
+      ]
+    ]
+  },
+  "Turkmenistan": {
+    "n_samples": 21,
+    "n_stress": 1,
+    "stress_rate": 4.8,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Tajikistan": {
+    "n_samples": 21,
+    "n_stress": 3,
+    "stress_rate": 14.3,
+    "loyo_auroc": 0.75,
+    "loyo_std": 0.25,
+    "loyo_n_folds": 2,
+    "loso_auroc": 0.95,
+    "loso_std": 0.05,
+    "loso_n_folds": 2,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.264
+      ],
+      [
+        "temp_anomaly",
+        0.222
+      ],
+      [
+        "wind_mean",
+        0.221
+      ],
+      [
+        "spi_proxy",
+        0.217
+      ],
+      [
+        "ndvi_late_drop",
+        0.211
+      ]
+    ]
+  },
+  "Kyrgyzstan": {
+    "n_samples": 21,
+    "n_stress": 1,
+    "stress_rate": 4.8,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Iran": {
+    "n_samples": 21,
+    "n_stress": 4,
+    "stress_rate": 19.0,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 0.944,
+    "loso_std": 0.079,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "wind_mean",
+        -0.264
+      ],
+      [
+        "temp_anomaly",
+        0.26
+      ],
+      [
+        "evi_proxy",
+        -0.215
+      ],
+      [
+        "moisture_stress",
+        0.214
+      ],
+      [
+        "ndvi_std",
+        0.21
+      ]
+    ]
+  },
+  "Iraq": {
+    "n_samples": 21,
+    "n_stress": 3,
+    "stress_rate": 14.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 0.889,
+    "loso_std": 0.079,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.335
+      ],
+      [
+        "drought_severity",
+        0.273
+      ],
+      [
+        "temp_anomaly",
+        0.263
+      ],
+      [
+        "dry_days_proxy",
+        -0.223
+      ],
+      [
+        "spi_proxy",
+        0.186
+      ]
+    ]
+  },
+  "Turkey": {
+    "n_samples": 21,
+    "n_stress": 4,
+    "stress_rate": 19.0,
+    "loyo_auroc": 0.833,
+    "loyo_std": 0.236,
+    "loyo_n_folds": 3,
+    "loso_auroc": 0.792,
+    "loso_std": 0.042,
+    "loso_n_folds": 2,
+    "top_features": [
+      [
+        "drought_severity",
+        0.265
+      ],
+      [
+        "moisture_stress",
+        0.24
+      ],
+      [
+        "ndvi_cv",
+        0.229
+      ],
+      [
+        "ndvi_std",
+        0.216
+      ],
+      [
+        "precip_anomaly",
+        -0.207
+      ]
+    ]
+  },
+  "Saudi Arabia": {
+    "n_samples": 21,
+    "n_stress": 3,
+    "stress_rate": 14.3,
+    "loyo_auroc": 0.667,
+    "loyo_std": 0.236,
+    "loyo_n_folds": 3,
+    "loso_auroc": 0.9,
+    "loso_std": 0.1,
+    "loso_n_folds": 2,
+    "top_features": [
+      [
+        "precip_anomaly",
+        -0.392
+      ],
+      [
+        "spi_proxy",
+        0.293
+      ],
+      [
+        "moisture_stress",
+        0.274
+      ],
+      [
+        "temp_anomaly",
+        0.224
+      ],
+      [
+        "ndvi_late_drop",
+        0.154
+      ]
+    ]
+  },
+  "Israel": {
+    "n_samples": 21,
+    "n_stress": 5,
+    "stress_rate": 23.8,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 5,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "ndvi_cv",
+        0.232
+      ],
+      [
+        "spi_proxy",
+        0.218
+      ],
+      [
+        "drought_severity",
+        0.206
+      ],
+      [
+        "evi_proxy",
+        -0.202
+      ],
+      [
+        "ndvi_max",
+        -0.197
+      ]
+    ]
+  },
+  "Jordan": {
+    "n_samples": 21,
+    "n_stress": 2,
+    "stress_rate": 9.5,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Syria": {
+    "n_samples": 21,
+    "n_stress": 2,
+    "stress_rate": 9.5,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Afghanistan": {
+    "n_samples": 21,
+    "n_stress": 5,
+    "stress_rate": 23.8,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 4,
+    "loso_auroc": 0.958,
+    "loso_std": 0.042,
+    "loso_n_folds": 2,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.258
+      ],
+      [
+        "spi_proxy",
+        0.222
+      ],
+      [
+        "drought_severity",
+        0.218
+      ],
+      [
+        "precip_anomaly",
+        -0.217
+      ],
+      [
+        "temp_max",
+        0.214
+      ]
+    ]
+  },
+  "Nigeria": {
+    "n_samples": 28,
+    "n_stress": 5,
+    "stress_rate": 17.9,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 4,
+    "loso_auroc": 0.917,
+    "loso_std": 0.118,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "ndvi_late_drop",
+        0.333
+      ],
+      [
+        "moisture_stress",
+        0.306
+      ],
+      [
+        "ndvi_cv",
+        0.262
+      ],
+      [
+        "evi_proxy",
+        -0.225
+      ],
+      [
+        "precip_anomaly",
+        -0.224
+      ]
+    ]
+  },
+  "South Africa": {
+    "n_samples": 28,
+    "n_stress": 3,
+    "stress_rate": 10.7,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 2,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.355
+      ],
+      [
+        "temp_anomaly",
+        0.258
+      ],
+      [
+        "drought_severity",
+        0.236
+      ],
+      [
+        "ndvi_max",
+        -0.211
+      ],
+      [
+        "dry_days_proxy",
+        -0.206
+      ]
+    ]
+  },
+  "Egypt": {
+    "n_samples": 21,
+    "n_stress": 6,
+    "stress_rate": 28.6,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 4,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.276
+      ],
+      [
+        "temp_anomaly",
+        0.252
+      ],
+      [
+        "spi_proxy",
+        0.211
+      ],
+      [
+        "vpd_proxy",
+        0.183
+      ],
+      [
+        "ndvi_cv",
+        0.174
+      ]
+    ]
+  },
+  "Ethiopia": {
+    "n_samples": 28,
+    "n_stress": 11,
+    "stress_rate": 39.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 4,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.267
+      ],
+      [
+        "ndvi_cv",
+        0.263
+      ],
+      [
+        "temp_anomaly",
+        0.26
+      ],
+      [
+        "ndvi_std",
+        0.242
+      ],
+      [
+        "spi_proxy",
+        0.229
+      ]
+    ]
+  },
+  "Kenya": {
+    "n_samples": 28,
+    "n_stress": 11,
+    "stress_rate": 39.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 4,
+    "loso_auroc": 0.958,
+    "loso_std": 0.072,
+    "loso_n_folds": 4,
+    "top_features": [
+      [
+        "precip_anomaly",
+        -0.38
+      ],
+      [
+        "spi_proxy",
+        0.322
+      ],
+      [
+        "drought_severity",
+        0.28
+      ],
+      [
+        "moisture_stress",
+        0.263
+      ],
+      [
+        "temp_anomaly",
+        0.226
+      ]
+    ]
+  },
+  "Tanzania": {
+    "n_samples": 28,
+    "n_stress": 6,
+    "stress_rate": 21.4,
+    "loyo_auroc": 0.95,
+    "loyo_std": 0.1,
+    "loyo_n_folds": 5,
+    "loso_auroc": 0.828,
+    "loso_std": 0.061,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.371
+      ],
+      [
+        "precip_anomaly",
+        -0.315
+      ],
+      [
+        "temp_anomaly",
+        0.309
+      ],
+      [
+        "spi_proxy",
+        0.302
+      ],
+      [
+        "wind_mean",
+        -0.201
+      ]
+    ]
+  },
+  "Sudan": {
+    "n_samples": 28,
+    "n_stress": 6,
+    "stress_rate": 21.4,
+    "loyo_auroc": 0.933,
+    "loyo_std": 0.133,
+    "loyo_n_folds": 5,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 4,
+    "top_features": [
+      [
+        "precip_anomaly",
+        -0.339
+      ],
+      [
+        "drought_severity",
+        0.283
+      ],
+      [
+        "moisture_stress",
+        0.272
+      ],
+      [
+        "temp_anomaly",
+        0.234
+      ],
+      [
+        "ndvi_seasonal_amp",
+        -0.22
+      ]
+    ]
+  },
+  "Morocco": {
+    "n_samples": 21,
+    "n_stress": 6,
+    "stress_rate": 28.6,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 4,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "drought_severity",
+        0.326
+      ],
+      [
+        "precip_anomaly",
+        -0.275
+      ],
+      [
+        "moisture_stress",
+        0.265
+      ],
+      [
+        "temp_anomaly",
+        0.192
+      ],
+      [
+        "ndvi_late_drop",
+        0.183
+      ]
+    ]
+  },
+  "Algeria": {
+    "n_samples": 21,
+    "n_stress": 3,
+    "stress_rate": 14.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 2,
+    "top_features": [
+      [
+        "ndvi_late_drop",
+        0.344
+      ],
+      [
+        "precip_anomaly",
+        -0.254
+      ],
+      [
+        "temp_range",
+        0.218
+      ],
+      [
+        "moisture_stress",
+        0.216
+      ],
+      [
+        "drought_severity",
+        0.199
+      ]
+    ]
+  },
+  "Tunisia": {
+    "n_samples": 21,
+    "n_stress": 3,
+    "stress_rate": 14.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 2,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "drought_severity",
+        0.263
+      ],
+      [
+        "precip_anomaly",
+        -0.257
+      ],
+      [
+        "spi_proxy",
+        0.257
+      ],
+      [
+        "temp_anomaly",
+        0.244
+      ],
+      [
+        "moisture_stress",
+        0.216
+      ]
+    ]
+  },
+  "Ghana": {
+    "n_samples": 21,
+    "n_stress": 4,
+    "stress_rate": 19.0,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 2,
+    "top_features": [
+      [
+        "ndvi_max",
+        -0.258
+      ],
+      [
+        "ndvi_mean",
+        -0.219
+      ],
+      [
+        "ndvi_min",
+        -0.199
+      ],
+      [
+        "precip_total",
+        -0.197
+      ],
+      [
+        "spi_proxy",
+        0.187
+      ]
+    ]
+  },
+  "Ivory Coast": {
+    "n_samples": 21,
+    "n_stress": 2,
+    "stress_rate": 9.5,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Cameroon": {
+    "n_samples": 21,
+    "n_stress": 2,
+    "stress_rate": 9.5,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Senegal": {
+    "n_samples": 21,
+    "n_stress": 5,
+    "stress_rate": 23.8,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 5,
+    "loso_auroc": 0.944,
+    "loso_std": 0.079,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "ndvi_late_drop",
+        0.299
+      ],
+      [
+        "moisture_stress",
+        0.246
+      ],
+      [
+        "temp_anomaly",
+        0.231
+      ],
+      [
+        "precip_anomaly",
+        -0.212
+      ],
+      [
+        "ndvi_cv",
+        0.169
+      ]
+    ]
+  },
+  "Mali": {
+    "n_samples": 21,
+    "n_stress": 1,
+    "stress_rate": 4.8,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Burkina Faso": {
+    "n_samples": 21,
+    "n_stress": 6,
+    "stress_rate": 28.6,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 5,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.274
+      ],
+      [
+        "precip_anomaly",
+        -0.246
+      ],
+      [
+        "ndvi_max",
+        -0.226
+      ],
+      [
+        "temp_anomaly",
+        0.213
+      ],
+      [
+        "ndvi_mean",
+        -0.192
+      ]
+    ]
+  },
+  "Niger": {
+    "n_samples": 21,
+    "n_stress": 3,
+    "stress_rate": 14.3,
+    "loyo_auroc": 0.833,
+    "loyo_std": 0.236,
+    "loyo_n_folds": 3,
+    "loso_auroc": null,
+    "loso_std": null,
+    "loso_n_folds": 0,
+    "top_features": [
+      [
+        "precip_anomaly",
+        -0.354
+      ],
+      [
+        "wind_mean",
+        -0.272
+      ],
+      [
+        "drought_severity",
+        0.271
+      ],
+      [
+        "temp_mean",
+        -0.217
+      ],
+      [
+        "spi_proxy",
+        0.183
+      ]
+    ]
+  },
+  "Uganda": {
+    "n_samples": 28,
+    "n_stress": 8,
+    "stress_rate": 28.6,
+    "loyo_auroc": 0.933,
+    "loyo_std": 0.133,
+    "loyo_n_folds": 5,
+    "loso_auroc": 0.958,
+    "loso_std": 0.072,
+    "loso_n_folds": 4,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.398
+      ],
+      [
+        "temp_anomaly",
+        0.328
+      ],
+      [
+        "drought_severity",
+        0.285
+      ],
+      [
+        "spi_proxy",
+        0.241
+      ],
+      [
+        "precip_anomaly",
+        -0.237
+      ]
+    ]
+  },
+  "Mozambique": {
+    "n_samples": 21,
+    "n_stress": 4,
+    "stress_rate": 19.0,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 0.917,
+    "loso_std": 0.083,
+    "loso_n_folds": 2,
+    "top_features": [
+      [
+        "precip_anomaly",
+        -0.24
+      ],
+      [
+        "ndvi_cv",
+        0.209
+      ],
+      [
+        "dry_days_proxy",
+        0.197
+      ],
+      [
+        "moisture_stress",
+        0.197
+      ],
+      [
+        "ndvi_max",
+        -0.185
+      ]
+    ]
+  },
+  "Zambia": {
+    "n_samples": 21,
+    "n_stress": 4,
+    "stress_rate": 19.0,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "ndvi_cv",
+        0.266
+      ],
+      [
+        "moisture_stress",
+        0.236
+      ],
+      [
+        "precip_anomaly",
+        -0.229
+      ],
+      [
+        "ndvi_std",
+        0.229
+      ],
+      [
+        "spi_proxy",
+        0.21
+      ]
+    ]
+  },
+  "Zimbabwe": {
+    "n_samples": 21,
+    "n_stress": 3,
+    "stress_rate": 14.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "ndvi_late_drop",
+        0.245
+      ],
+      [
+        "dry_days_proxy",
+        -0.245
+      ],
+      [
+        "temp_anomaly",
+        0.212
+      ],
+      [
+        "evi_proxy",
+        -0.179
+      ],
+      [
+        "moisture_stress",
+        0.179
+      ]
+    ]
+  },
+  "Malawi": {
+    "n_samples": 21,
+    "n_stress": 1,
+    "stress_rate": 4.8,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Madagascar": {
+    "n_samples": 21,
+    "n_stress": 1,
+    "stress_rate": 4.8,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Angola": {
+    "n_samples": 21,
+    "n_stress": 1,
+    "stress_rate": 4.8,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Rwanda": {
+    "n_samples": 21,
+    "n_stress": 7,
+    "stress_rate": 33.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 5,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 3,
+    "top_features": [
+      [
+        "spi_proxy",
+        0.269
+      ],
+      [
+        "temp_anomaly",
+        0.262
+      ],
+      [
+        "moisture_stress",
+        0.237
+      ],
+      [
+        "ndvi_cv",
+        0.23
+      ],
+      [
+        "ndvi_std",
+        0.218
+      ]
+    ]
+  },
+  "Benin": {
+    "n_samples": 21,
+    "n_stress": 2,
+    "stress_rate": 9.5,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Togo": {
+    "n_samples": 21,
+    "n_stress": 1,
+    "stress_rate": 4.8,
+    "loyo_auroc": null,
+    "loso_auroc": null,
+    "note": "Insufficient stress/non-stress samples"
+  },
+  "Australia": {
+    "n_samples": 35,
+    "n_stress": 18,
+    "stress_rate": 51.4,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 4,
+    "loso_auroc": 0.967,
+    "loso_std": 0.041,
+    "loso_n_folds": 5,
+    "top_features": [
+      [
+        "spi_proxy",
+        0.295
+      ],
+      [
+        "moisture_stress",
+        0.288
+      ],
+      [
+        "drought_severity",
+        0.276
+      ],
+      [
+        "precip_anomaly",
+        -0.249
+      ],
+      [
+        "temp_anomaly",
+        0.232
+      ]
+    ]
+  },
+  "New Zealand": {
+    "n_samples": 21,
+    "n_stress": 3,
+    "stress_rate": 14.3,
+    "loyo_auroc": 1.0,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 3,
+    "loso_auroc": 1.0,
+    "loso_std": 0.0,
+    "loso_n_folds": 2,
+    "top_features": [
+      [
+        "moisture_stress",
+        0.24
+      ],
+      [
+        "temp_anomaly",
+        0.237
+      ],
+      [
+        "evap_demand",
+        0.231
+      ],
+      [
+        "precip_anomaly",
+        -0.22
+      ],
+      [
+        "ndvi_mean",
+        -0.195
+      ]
+    ]
+  }
+}

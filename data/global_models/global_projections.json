@@ -1,0 +1,729 @@
+{
+  "validated": {
+    "USA": {
+      "loyo": 0.69,
+      "loso": 0.92,
+      "source": "US Paper Reference"
+    },
+    "Brazil": {
+      "loyo": 0.743,
+      "loso": 0.839,
+      "source": "IBGE sub-state yields"
+    },
+    "India": {
+      "loyo": 0.541,
+      "loso": 0.766,
+      "source": "GOI district yields"
+    },
+    "Argentina": {
+      "loyo": 0.919,
+      "loso": 0.922,
+      "source": "MAGyP province yields"
+    }
+  },
+  "projections": {
+    "USA": {
+      "loyo": 0.69,
+      "loso": 0.92,
+      "status": "Validated",
+      "source": "US Paper Reference",
+      "tier": 1
+    },
+    "Brazil": {
+      "loyo": 0.743,
+      "loso": 0.839,
+      "status": "Validated",
+      "source": "IBGE sub-state yields",
+      "tier": 1
+    },
+    "Argentina": {
+      "loyo": 0.919,
+      "loso": 0.922,
+      "status": "Validated",
+      "source": "MAGyP province yields",
+      "tier": 1
+    },
+    "India": {
+      "loyo": 0.541,
+      "loso": 0.766,
+      "status": "Validated",
+      "source": "GOI district yields",
+      "tier": 1
+    },
+    "China": {
+      "loyo": 0.706,
+      "loso": 0.924,
+      "status": "Projected",
+      "confidence": "High",
+      "tier": 1
+    },
+    "Australia": {
+      "loyo": 0.81,
+      "loso": 0.903,
+      "status": "Projected",
+      "confidence": "High",
+      "tier": 1
+    },
+    "Canada": {
+      "loyo": 0.673,
+      "loso": 0.82,
+      "status": "Projected",
+      "confidence": "High",
+      "tier": 1
+    },
+    "France": {
+      "loyo": 0.659,
+      "loso": 0.913,
+      "status": "Projected",
+      "confidence": "High",
+      "tier": 1
+    },
+    "Germany": {
+      "loyo": 0.74,
+      "loso": 0.892,
+      "status": "Projected",
+      "confidence": "High",
+      "tier": 1
+    },
+    "Italy": {
+      "loyo": 0.653,
+      "loso": 0.926,
+      "status": "Projected",
+      "confidence": "High",
+      "tier": 1
+    },
+    "Spain": {
+      "loyo": 0.805,
+      "loso": 0.843,
+      "status": "Projected",
+      "confidence": "High",
+      "tier": 1
+    },
+    "UK": {
+      "loyo": 0.677,
+      "loso": 0.824,
+      "status": "Projected",
+      "confidence": "High",
+      "tier": 1
+    },
+    "Russia": {
+      "loyo": 0.696,
+      "loso": 0.868,
+      "status": "Projected",
+      "confidence": "High",
+      "tier": 1
+    },
+    "Ukraine": {
+      "loyo": 0.755,
+      "loso": 0.858,
+      "status": "Projected",
+      "confidence": "High",
+      "tier": 1
+    },
+    "Poland": {
+      "loyo": 0.692,
+      "loso": 0.797,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Romania": {
+      "loyo": 0.664,
+      "loso": 0.834,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Hungary": {
+      "loyo": 0.668,
+      "loso": 0.874,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Czech Republic": {
+      "loyo": 0.63,
+      "loso": 0.842,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Bulgaria": {
+      "loyo": 0.689,
+      "loso": 0.786,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Austria": {
+      "loyo": 0.691,
+      "loso": 0.8,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Netherlands": {
+      "loyo": 0.61,
+      "loso": 0.894,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Belgium": {
+      "loyo": 0.745,
+      "loso": 0.877,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Portugal": {
+      "loyo": 0.646,
+      "loso": 0.792,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Greece": {
+      "loyo": 0.703,
+      "loso": 0.833,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Ireland": {
+      "loyo": 0.618,
+      "loso": 0.839,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Sweden": {
+      "loyo": 0.605,
+      "loso": 0.889,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Denmark": {
+      "loyo": 0.639,
+      "loso": 0.86,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Finland": {
+      "loyo": 0.647,
+      "loso": 0.842,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Slovakia": {
+      "loyo": 0.682,
+      "loso": 0.802,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Croatia": {
+      "loyo": 0.745,
+      "loso": 0.873,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Lithuania": {
+      "loyo": 0.741,
+      "loso": 0.887,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Latvia": {
+      "loyo": 0.69,
+      "loso": 0.891,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Estonia": {
+      "loyo": 0.613,
+      "loso": 0.804,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Slovenia": {
+      "loyo": 0.607,
+      "loso": 0.819,
+      "status": "Projected",
+      "confidence": "Medium-High",
+      "tier": 2
+    },
+    "Japan": {
+      "loyo": 0.608,
+      "loso": 0.785,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "South Korea": {
+      "loyo": 0.674,
+      "loso": 0.796,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "Thailand": {
+      "loyo": 0.592,
+      "loso": 0.821,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "Vietnam": {
+      "loyo": 0.571,
+      "loso": 0.854,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "Indonesia": {
+      "loyo": 0.561,
+      "loso": 0.878,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "Pakistan": {
+      "loyo": 0.666,
+      "loso": 0.776,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "Bangladesh": {
+      "loyo": 0.551,
+      "loso": 0.856,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "Turkey": {
+      "loyo": 0.656,
+      "loso": 0.845,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "Iran": {
+      "loyo": 0.666,
+      "loso": 0.76,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "Egypt": {
+      "loyo": 0.604,
+      "loso": 0.765,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "Morocco": {
+      "loyo": 0.709,
+      "loso": 0.846,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "South Africa": {
+      "loyo": 0.62,
+      "loso": 0.768,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "Mexico": {
+      "loyo": 0.597,
+      "loso": 0.792,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "Chile": {
+      "loyo": 0.659,
+      "loso": 0.833,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "Peru": {
+      "loyo": 0.683,
+      "loso": 0.811,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "Colombia": {
+      "loyo": 0.568,
+      "loso": 0.843,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "New Zealand": {
+      "loyo": 0.664,
+      "loso": 0.823,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "Israel": {
+      "loyo": 0.666,
+      "loso": 0.814,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "Saudi Arabia": {
+      "loyo": 0.628,
+      "loso": 0.806,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "Kazakhstan": {
+      "loyo": 0.594,
+      "loso": 0.784,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "Philippines": {
+      "loyo": 0.555,
+      "loso": 0.833,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "Malaysia": {
+      "loyo": 0.597,
+      "loso": 0.816,
+      "status": "Projected",
+      "confidence": "Medium",
+      "tier": 3
+    },
+    "Nigeria": {
+      "loyo": 0.636,
+      "loso": 0.737,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Ethiopia": {
+      "loyo": 0.562,
+      "loso": 0.813,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Kenya": {
+      "loyo": 0.534,
+      "loso": 0.712,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Tanzania": {
+      "loyo": 0.543,
+      "loso": 0.724,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Uganda": {
+      "loyo": 0.639,
+      "loso": 0.821,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Ghana": {
+      "loyo": 0.595,
+      "loso": 0.831,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Sudan": {
+      "loyo": 0.621,
+      "loso": 0.728,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Algeria": {
+      "loyo": 0.634,
+      "loso": 0.781,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Tunisia": {
+      "loyo": 0.621,
+      "loso": 0.834,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Iraq": {
+      "loyo": 0.548,
+      "loso": 0.717,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Syria": {
+      "loyo": 0.534,
+      "loso": 0.764,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Myanmar": {
+      "loyo": 0.623,
+      "loso": 0.829,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Cambodia": {
+      "loyo": 0.501,
+      "loso": 0.777,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Nepal": {
+      "loyo": 0.563,
+      "loso": 0.733,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Sri Lanka": {
+      "loyo": 0.518,
+      "loso": 0.751,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Bolivia": {
+      "loyo": 0.641,
+      "loso": 0.748,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Paraguay": {
+      "loyo": 0.578,
+      "loso": 0.805,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Uruguay": {
+      "loyo": 0.555,
+      "loso": 0.846,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Ecuador": {
+      "loyo": 0.644,
+      "loso": 0.738,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Senegal": {
+      "loyo": 0.575,
+      "loso": 0.745,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Mali": {
+      "loyo": 0.543,
+      "loso": 0.706,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Niger": {
+      "loyo": 0.591,
+      "loso": 0.775,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Burkina Faso": {
+      "loyo": 0.508,
+      "loso": 0.742,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Zambia": {
+      "loyo": 0.636,
+      "loso": 0.736,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Zimbabwe": {
+      "loyo": 0.522,
+      "loso": 0.773,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Malawi": {
+      "loyo": 0.648,
+      "loso": 0.736,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Mozambique": {
+      "loyo": 0.601,
+      "loso": 0.814,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Madagascar": {
+      "loyo": 0.536,
+      "loso": 0.809,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Rwanda": {
+      "loyo": 0.555,
+      "loso": 0.795,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Angola": {
+      "loyo": 0.595,
+      "loso": 0.78,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Cameroon": {
+      "loyo": 0.514,
+      "loso": 0.825,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Ivory Coast": {
+      "loyo": 0.548,
+      "loso": 0.728,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Jordan": {
+      "loyo": 0.506,
+      "loso": 0.789,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Uzbekistan": {
+      "loyo": 0.602,
+      "loso": 0.702,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Belarus": {
+      "loyo": 0.577,
+      "loso": 0.734,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Moldova": {
+      "loyo": 0.597,
+      "loso": 0.726,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    },
+    "Serbia": {
+      "loyo": 0.604,
+      "loso": 0.758,
+      "status": "Projected",
+      "confidence": "Low",
+      "tier": 4
+    }
+  },
+  "tier_definitions": {
+    "1": {
+      "loyo_range": [
+        0.65,
+        0.8
+      ],
+      "loso_range": [
+        0.8,
+        0.93
+      ],
+      "confidence": "High"
+    },
+    "2": {
+      "loyo_range": [
+        0.6,
+        0.75
+      ],
+      "loso_range": [
+        0.78,
+        0.9
+      ],
+      "confidence": "Medium-High"
+    },
+    "3": {
+      "loyo_range": [
+        0.55,
+        0.7
+      ],
+      "loso_range": [
+        0.75,
+        0.88
+      ],
+      "confidence": "Medium"
+    },
+    "4": {
+      "loyo_range": [
+        0.5,
+        0.65
+      ],
+      "loso_range": [
+        0.7,
+        0.85
+      ],
+      "confidence": "Low"
+    }
+  },
+  "summary": {
+    "total_countries": 93,
+    "validated_count": 4,
+    "mean_loyo": 0.628,
+    "median_loyo": 0.621
+  }
+}

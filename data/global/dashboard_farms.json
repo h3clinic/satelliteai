@@ -1,0 +1,8177 @@
+[
+  {
+    "id": "ind-IN-UP-wheat",
+    "name": "IN-UP Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 80.9,
+      "lng": 26.8,
+      "country": "IND",
+      "region": "IN-UP"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IN-UP-rice",
+    "name": "IN-UP Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 80.9,
+      "lng": 26.8,
+      "country": "IND",
+      "region": "IN-UP"
+    },
+    "risk": 100.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ukr-UKR_Cherkasy-corn",
+    "name": "UKR_Cherkasy Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 32.0,
+      "lng": 49.5,
+      "country": "UKR",
+      "region": "UKR_Cherkasy"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "can-CAN_Ontario_Southwest-corn",
+    "name": "CAN_Ontario_Southwest Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -81.5,
+      "lng": 42.5,
+      "country": "CAN",
+      "region": "CAN_Ontario_Southwest"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "rus-RUS_Saratov-wheat",
+    "name": "RUS_Saratov Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 46.0,
+      "lng": 51.5,
+      "country": "RUS",
+      "region": "RUS_Saratov"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Punjab_Ludhiana-wheat",
+    "name": "IND_Punjab_Ludhiana Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 75.85,
+      "lng": 30.9,
+      "country": "IND",
+      "region": "IND_Punjab_Ludhiana"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Punjab_Jalandhar-wheat",
+    "name": "IND_Punjab_Jalandhar Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 75.58,
+      "lng": 31.33,
+      "country": "IND",
+      "region": "IND_Punjab_Jalandhar"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Punjab_Bathinda-wheat",
+    "name": "IND_Punjab_Bathinda Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 74.95,
+      "lng": 30.21,
+      "country": "IND",
+      "region": "IND_Punjab_Bathinda"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Punjab_Hoshiarpur-wheat",
+    "name": "IND_Punjab_Hoshiarpur Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 75.91,
+      "lng": 31.53,
+      "country": "IND",
+      "region": "IND_Punjab_Hoshiarpur"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Punjab_Gurdaspur-wheat",
+    "name": "IND_Punjab_Gurdaspur Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 75.4,
+      "lng": 32.04,
+      "country": "IND",
+      "region": "IND_Punjab_Gurdaspur"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Haryana_Kurukshetra-wheat",
+    "name": "IND_Haryana_Kurukshetra Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 76.83,
+      "lng": 29.97,
+      "country": "IND",
+      "region": "IND_Haryana_Kurukshetra"
+    },
+    "risk": 100.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Haryana_Fatehabad-wheat",
+    "name": "IND_Haryana_Fatehabad Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 75.45,
+      "lng": 29.52,
+      "country": "IND",
+      "region": "IND_Haryana_Fatehabad"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Haryana_Sonipat-wheat",
+    "name": "IND_Haryana_Sonipat Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 77.02,
+      "lng": 28.99,
+      "country": "IND",
+      "region": "IND_Haryana_Sonipat"
+    },
+    "risk": 100.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Haryana_Sirsa-wheat",
+    "name": "IND_Haryana_Sirsa Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 75.03,
+      "lng": 29.53,
+      "country": "IND",
+      "region": "IND_Haryana_Sirsa"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Haryana_Panipat-wheat",
+    "name": "IND_Haryana_Panipat Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 76.97,
+      "lng": 29.39,
+      "country": "IND",
+      "region": "IND_Haryana_Panipat"
+    },
+    "risk": 100.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Haryana_Jind-wheat",
+    "name": "IND_Haryana_Jind Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 76.32,
+      "lng": 29.32,
+      "country": "IND",
+      "region": "IND_Haryana_Jind"
+    },
+    "risk": 100.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Haryana_Kurukshetra_Rice-rice",
+    "name": "IND_Haryana_Kurukshetra_Rice Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 76.83,
+      "lng": 29.97,
+      "country": "IND",
+      "region": "IND_Haryana_Kurukshetra_Rice"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_UP_Meerut-wheat",
+    "name": "IND_UP_Meerut Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 77.7,
+      "lng": 28.98,
+      "country": "IND",
+      "region": "IND_UP_Meerut"
+    },
+    "risk": 100.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_UP_Aligarh-wheat",
+    "name": "IND_UP_Aligarh Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 78.08,
+      "lng": 27.88,
+      "country": "IND",
+      "region": "IND_UP_Aligarh"
+    },
+    "risk": 100.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_UP_Muzaffarnagar-wheat",
+    "name": "IND_UP_Muzaffarnagar Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 77.7,
+      "lng": 29.47,
+      "country": "IND",
+      "region": "IND_UP_Muzaffarnagar"
+    },
+    "risk": 100.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_UP_Saharanpur-wheat",
+    "name": "IND_UP_Saharanpur Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 77.55,
+      "lng": 29.97,
+      "country": "IND",
+      "region": "IND_UP_Saharanpur"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_UP_Bulandshahr-wheat",
+    "name": "IND_UP_Bulandshahr Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 77.85,
+      "lng": 28.41,
+      "country": "IND",
+      "region": "IND_UP_Bulandshahr"
+    },
+    "risk": 100.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_UP_Mathura-wheat",
+    "name": "IND_UP_Mathura Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 77.68,
+      "lng": 27.49,
+      "country": "IND",
+      "region": "IND_UP_Mathura"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_UP_Bareilly-wheat",
+    "name": "IND_UP_Bareilly Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 79.42,
+      "lng": 28.36,
+      "country": "IND",
+      "region": "IND_UP_Bareilly"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_UP_Moradabad-wheat",
+    "name": "IND_UP_Moradabad Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 78.78,
+      "lng": 28.83,
+      "country": "IND",
+      "region": "IND_UP_Moradabad"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_UP_Kanpur-wheat",
+    "name": "IND_UP_Kanpur Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 80.35,
+      "lng": 26.45,
+      "country": "IND",
+      "region": "IND_UP_Kanpur"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_UP_Varanasi-wheat",
+    "name": "IND_UP_Varanasi Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 83.0,
+      "lng": 25.32,
+      "country": "IND",
+      "region": "IND_UP_Varanasi"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_UP_Allahabad-wheat",
+    "name": "IND_UP_Allahabad Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 81.85,
+      "lng": 25.43,
+      "country": "IND",
+      "region": "IND_UP_Allahabad"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MP_Indore-soy",
+    "name": "IND_MP_Indore Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 75.86,
+      "lng": 22.72,
+      "country": "IND",
+      "region": "IND_MP_Indore"
+    },
+    "risk": 100.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MP_Ujjain-soy",
+    "name": "IND_MP_Ujjain Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 75.78,
+      "lng": 23.18,
+      "country": "IND",
+      "region": "IND_MP_Ujjain"
+    },
+    "risk": 100.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MH_Amravati-soy",
+    "name": "IND_MH_Amravati Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 77.75,
+      "lng": 20.93,
+      "country": "IND",
+      "region": "IND_MH_Amravati"
+    },
+    "risk": 100.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MP_Bhopal-wheat",
+    "name": "IND_MP_Bhopal Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 77.41,
+      "lng": 23.26,
+      "country": "IND",
+      "region": "IND_MP_Bhopal"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MH_Osmanabad-soy",
+    "name": "IND_MH_Osmanabad Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 76.04,
+      "lng": 18.18,
+      "country": "IND",
+      "region": "IND_MH_Osmanabad"
+    },
+    "risk": 100.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MP_Sagar-wheat",
+    "name": "IND_MP_Sagar Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 78.74,
+      "lng": 23.84,
+      "country": "IND",
+      "region": "IND_MP_Sagar"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MH_Jalna-soy",
+    "name": "IND_MH_Jalna Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 75.88,
+      "lng": 19.84,
+      "country": "IND",
+      "region": "IND_MH_Jalna"
+    },
+    "risk": 100.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MH_Aurangabad-soy",
+    "name": "IND_MH_Aurangabad Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 75.34,
+      "lng": 19.88,
+      "country": "IND",
+      "region": "IND_MH_Aurangabad"
+    },
+    "risk": 100.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_RJ_Churu-wheat",
+    "name": "IND_RJ_Churu Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 74.97,
+      "lng": 28.3,
+      "country": "IND",
+      "region": "IND_RJ_Churu"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_RJ_Ganganagar-wheat",
+    "name": "IND_RJ_Ganganagar Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 73.88,
+      "lng": 29.92,
+      "country": "IND",
+      "region": "IND_RJ_Ganganagar"
+    },
+    "risk": 100.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_RJ_Jaipur-wheat",
+    "name": "IND_RJ_Jaipur Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 75.79,
+      "lng": 26.92,
+      "country": "IND",
+      "region": "IND_RJ_Jaipur"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_RJ_Sikar-wheat",
+    "name": "IND_RJ_Sikar Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 75.14,
+      "lng": 27.62,
+      "country": "IND",
+      "region": "IND_RJ_Sikar"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_RJ_Bharatpur-wheat",
+    "name": "IND_RJ_Bharatpur Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 77.49,
+      "lng": 27.22,
+      "country": "IND",
+      "region": "IND_RJ_Bharatpur"
+    },
+    "risk": 100.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_RJ_Jhunjhunu-wheat",
+    "name": "IND_RJ_Jhunjhunu Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 75.4,
+      "lng": 28.13,
+      "country": "IND",
+      "region": "IND_RJ_Jhunjhunu"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_RJ_Kota-soy",
+    "name": "IND_RJ_Kota Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 75.83,
+      "lng": 25.18,
+      "country": "IND",
+      "region": "IND_RJ_Kota"
+    },
+    "risk": 100.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_RJ_Hanumangarh-wheat",
+    "name": "IND_RJ_Hanumangarh Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 74.33,
+      "lng": 29.58,
+      "country": "IND",
+      "region": "IND_RJ_Hanumangarh"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_RJ_Bundi-soy",
+    "name": "IND_RJ_Bundi Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 75.64,
+      "lng": 25.44,
+      "country": "IND",
+      "region": "IND_RJ_Bundi"
+    },
+    "risk": 100.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_BR_Patna-rice",
+    "name": "IND_BR_Patna Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 85.14,
+      "lng": 25.61,
+      "country": "IND",
+      "region": "IND_BR_Patna"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_BR_Muzaffarpur-rice",
+    "name": "IND_BR_Muzaffarpur Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 85.39,
+      "lng": 26.12,
+      "country": "IND",
+      "region": "IND_BR_Muzaffarpur"
+    },
+    "risk": 100.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_BR_Siwan-rice",
+    "name": "IND_BR_Siwan Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 84.36,
+      "lng": 26.22,
+      "country": "IND",
+      "region": "IND_BR_Siwan"
+    },
+    "risk": 100.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_BR_Gopalganj-rice",
+    "name": "IND_BR_Gopalganj Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 84.44,
+      "lng": 26.47,
+      "country": "IND",
+      "region": "IND_BR_Gopalganj"
+    },
+    "risk": 100.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_BR_Begusarai-wheat",
+    "name": "IND_BR_Begusarai Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 86.13,
+      "lng": 25.42,
+      "country": "IND",
+      "region": "IND_BR_Begusarai"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_TS_Nizamabad-rice",
+    "name": "IND_TS_Nizamabad Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 78.1,
+      "lng": 18.67,
+      "country": "IND",
+      "region": "IND_TS_Nizamabad"
+    },
+    "risk": 100.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_TS_Karimnagar-rice",
+    "name": "IND_TS_Karimnagar Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 79.13,
+      "lng": 18.44,
+      "country": "IND",
+      "region": "IND_TS_Karimnagar"
+    },
+    "risk": 100.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_TS_Nalgonda-rice",
+    "name": "IND_TS_Nalgonda Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 79.27,
+      "lng": 17.05,
+      "country": "IND",
+      "region": "IND_TS_Nalgonda"
+    },
+    "risk": 100.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_GJ_Ahmedabad-cotton",
+    "name": "IND_GJ_Ahmedabad Cotton",
+    "type": "agricultural",
+    "crop": "Cotton",
+    "location": {
+      "lat": 72.58,
+      "lng": 23.03,
+      "country": "IND",
+      "region": "IND_GJ_Ahmedabad"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_GJ_Mehsana-cotton",
+    "name": "IND_GJ_Mehsana Cotton",
+    "type": "agricultural",
+    "crop": "Cotton",
+    "location": {
+      "lat": 72.38,
+      "lng": 23.59,
+      "country": "IND",
+      "region": "IND_GJ_Mehsana"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_GJ_Banaskantha-cotton",
+    "name": "IND_GJ_Banaskantha Cotton",
+    "type": "agricultural",
+    "crop": "Cotton",
+    "location": {
+      "lat": 72.43,
+      "lng": 24.18,
+      "country": "IND",
+      "region": "IND_GJ_Banaskantha"
+    },
+    "risk": 100.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_GJ_Bharuch-cotton",
+    "name": "IND_GJ_Bharuch Cotton",
+    "type": "agricultural",
+    "crop": "Cotton",
+    "location": {
+      "lat": 72.99,
+      "lng": 21.7,
+      "country": "IND",
+      "region": "IND_GJ_Bharuch"
+    },
+    "risk": 100.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_GJ_Vadodara-cotton",
+    "name": "IND_GJ_Vadodara Cotton",
+    "type": "agricultural",
+    "crop": "Cotton",
+    "location": {
+      "lat": 73.18,
+      "lng": 22.31,
+      "country": "IND",
+      "region": "IND_GJ_Vadodara"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_GJ_Anand-cotton",
+    "name": "IND_GJ_Anand Cotton",
+    "type": "agricultural",
+    "crop": "Cotton",
+    "location": {
+      "lat": 72.95,
+      "lng": 22.56,
+      "country": "IND",
+      "region": "IND_GJ_Anand"
+    },
+    "risk": 100.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_GJ_Junagadh-groundnut",
+    "name": "IND_GJ_Junagadh Groundnut",
+    "type": "agricultural",
+    "crop": "Groundnut",
+    "location": {
+      "lat": 70.46,
+      "lng": 21.52,
+      "country": "IND",
+      "region": "IND_GJ_Junagadh"
+    },
+    "risk": 100.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_GJ_Rajkot-cotton",
+    "name": "IND_GJ_Rajkot Cotton",
+    "type": "agricultural",
+    "crop": "Cotton",
+    "location": {
+      "lat": 70.8,
+      "lng": 22.3,
+      "country": "IND",
+      "region": "IND_GJ_Rajkot"
+    },
+    "risk": 100.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_KA_Bellary-rice",
+    "name": "IND_KA_Bellary Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 76.92,
+      "lng": 15.14,
+      "country": "IND",
+      "region": "IND_KA_Bellary"
+    },
+    "risk": 100.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_BA_Pehuajo-soy",
+    "name": "ARG_BA_Pehuajo Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -61.9,
+      "lng": -35.81,
+      "country": "ARG",
+      "region": "ARG_BA_Pehuajo"
+    },
+    "risk": 100.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_BA_9deJulio-soy",
+    "name": "ARG_BA_9deJulio Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -60.88,
+      "lng": -35.45,
+      "country": "ARG",
+      "region": "ARG_BA_9deJulio"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_BA_Pergamino-soy",
+    "name": "ARG_BA_Pergamino Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -60.57,
+      "lng": -33.9,
+      "country": "ARG",
+      "region": "ARG_BA_Pergamino"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_BA_Junin-soy",
+    "name": "ARG_BA_Junin Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -60.95,
+      "lng": -34.59,
+      "country": "ARG",
+      "region": "ARG_BA_Junin"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_BA_Carlos_Casares-soy",
+    "name": "ARG_BA_Carlos_Casares Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -61.37,
+      "lng": -35.62,
+      "country": "ARG",
+      "region": "ARG_BA_Carlos_Casares"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_BA_Trenque_Lauquen-soy",
+    "name": "ARG_BA_Trenque_Lauquen Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -62.73,
+      "lng": -35.97,
+      "country": "ARG",
+      "region": "ARG_BA_Trenque_Lauquen"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_BA_ChivilcoyN-soy",
+    "name": "ARG_BA_ChivilcoyN Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -60.02,
+      "lng": -34.9,
+      "country": "ARG",
+      "region": "ARG_BA_ChivilcoyN"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_BA_Bragado-corn",
+    "name": "ARG_BA_Bragado Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -60.49,
+      "lng": -35.12,
+      "country": "ARG",
+      "region": "ARG_BA_Bragado"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_BA_Lincoln-corn",
+    "name": "ARG_BA_Lincoln Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -61.53,
+      "lng": -34.87,
+      "country": "ARG",
+      "region": "ARG_BA_Lincoln"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_CB_Marcos_Juarez-soy",
+    "name": "ARG_CB_Marcos_Juarez Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -62.1,
+      "lng": -32.7,
+      "country": "ARG",
+      "region": "ARG_CB_Marcos_Juarez"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_BA_25deMayo-corn",
+    "name": "ARG_BA_25deMayo Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -60.17,
+      "lng": -35.43,
+      "country": "ARG",
+      "region": "ARG_BA_25deMayo"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_CB_Union-soy",
+    "name": "ARG_CB_Union Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -62.9,
+      "lng": -32.93,
+      "country": "ARG",
+      "region": "ARG_CB_Union"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_CB_Juarez_Celman-soy",
+    "name": "ARG_CB_Juarez_Celman Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -63.5,
+      "lng": -33.1,
+      "country": "ARG",
+      "region": "ARG_CB_Juarez_Celman"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_CB_Rio_Cuarto-soy",
+    "name": "ARG_CB_Rio_Cuarto Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -64.35,
+      "lng": -33.13,
+      "country": "ARG",
+      "region": "ARG_CB_Rio_Cuarto"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_SF_Constitucion-soy",
+    "name": "ARG_SF_Constitucion Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -60.33,
+      "lng": -33.23,
+      "country": "ARG",
+      "region": "ARG_SF_Constitucion"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_SF_Rosario-soy",
+    "name": "ARG_SF_Rosario Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -60.65,
+      "lng": -33.0,
+      "country": "ARG",
+      "region": "ARG_SF_Rosario"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_ER_Parana-soy",
+    "name": "ARG_ER_Parana Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -60.52,
+      "lng": -31.73,
+      "country": "ARG",
+      "region": "ARG_ER_Parana"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "nga-NGA_Kaduna-corn",
+    "name": "NGA_Kaduna Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 7.44,
+      "lng": 10.52,
+      "country": "NGA",
+      "region": "NGA_Kaduna"
+    },
+    "risk": 100.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "nga-NGA_Kano-corn",
+    "name": "NGA_Kano Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 8.52,
+      "lng": 12.0,
+      "country": "NGA",
+      "region": "NGA_Kano"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "nga-NGA_Sokoto-corn",
+    "name": "NGA_Sokoto Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 5.24,
+      "lng": 13.06,
+      "country": "NGA",
+      "region": "NGA_Sokoto"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "egy-EGY_Nile_Valley_Upper-wheat",
+    "name": "EGY_Nile_Valley_Upper Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 32.5,
+      "lng": 26.0,
+      "country": "EGY",
+      "region": "EGY_Nile_Valley_Upper"
+    },
+    "risk": 100.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "ken-KEN_Rift_Valley_North-wheat",
+    "name": "KEN_Rift_Valley_North Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 36.0,
+      "lng": 0.5,
+      "country": "KEN",
+      "region": "KEN_Rift_Valley_North"
+    },
+    "risk": 100.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "tza-TZA_Mbeya-corn",
+    "name": "TZA_Mbeya Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 33.46,
+      "lng": -8.9,
+      "country": "TZA",
+      "region": "TZA_Mbeya"
+    },
+    "risk": 100.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "dza-DZA_Setif-wheat",
+    "name": "DZA_Setif Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 5.41,
+      "lng": 36.19,
+      "country": "DZA",
+      "region": "DZA_Setif"
+    },
+    "risk": 100.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "mar-MAR_Saiss-wheat",
+    "name": "MAR_Saiss Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": -5.0,
+      "lng": 34.0,
+      "country": "MAR",
+      "region": "MAR_Saiss"
+    },
+    "risk": 100.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "mar-MAR_Chaouia-wheat",
+    "name": "MAR_Chaouia Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": -7.0,
+      "lng": 33.0,
+      "country": "MAR",
+      "region": "MAR_Chaouia"
+    },
+    "risk": 100.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "mar-MAR_Gharb-wheat",
+    "name": "MAR_Gharb Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": -6.0,
+      "lng": 34.5,
+      "country": "MAR",
+      "region": "MAR_Gharb"
+    },
+    "risk": 100.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "dza-DZA_Tiaret-wheat",
+    "name": "DZA_Tiaret Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 1.32,
+      "lng": 35.37,
+      "country": "DZA",
+      "region": "DZA_Tiaret"
+    },
+    "risk": 100.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "sdn-SDN_Kassala-sorghum",
+    "name": "SDN_Kassala Sorghum",
+    "type": "agricultural",
+    "crop": "Sorghum",
+    "location": {
+      "lat": 36.4,
+      "lng": 15.45,
+      "country": "SDN",
+      "region": "SDN_Kassala"
+    },
+    "risk": 100.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "sdn-SDN_Gedaref-sorghum",
+    "name": "SDN_Gedaref Sorghum",
+    "type": "agricultural",
+    "crop": "Sorghum",
+    "location": {
+      "lat": 35.4,
+      "lng": 14.0,
+      "country": "SDN",
+      "region": "SDN_Gedaref"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "mli-MLI_Mopti-rice",
+    "name": "MLI_Mopti Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": -4.2,
+      "lng": 14.49,
+      "country": "MLI",
+      "region": "MLI_Mopti"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ago-AGO_Huambo-corn",
+    "name": "AGO_Huambo Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 15.73,
+      "lng": -12.78,
+      "country": "AGO",
+      "region": "AGO_Huambo"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "sen-SEN_Diourbel-groundnut",
+    "name": "SEN_Diourbel Groundnut",
+    "type": "agricultural",
+    "crop": "Groundnut",
+    "location": {
+      "lat": -16.23,
+      "lng": 14.65,
+      "country": "SEN",
+      "region": "SEN_Diourbel"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "sen-SEN_Kaolack-groundnut",
+    "name": "SEN_Kaolack Groundnut",
+    "type": "agricultural",
+    "crop": "Groundnut",
+    "location": {
+      "lat": -16.07,
+      "lng": 14.15,
+      "country": "SEN",
+      "region": "SEN_Kaolack"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "hun-HUN_Transdanubia-corn",
+    "name": "HUN_Transdanubia Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 18.0,
+      "lng": 47.0,
+      "country": "HUN",
+      "region": "HUN_Transdanubia"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "fin-FIN_Uusimaa-wheat",
+    "name": "FIN_Uusimaa Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 25.0,
+      "lng": 60.2,
+      "country": "FIN",
+      "region": "FIN_Uusimaa"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "irn-IRN_Khorasan-wheat",
+    "name": "IRN_Khorasan Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 59.0,
+      "lng": 36.0,
+      "country": "IRN",
+      "region": "IRN_Khorasan"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "uzb-UZB_Bukhara-cotton",
+    "name": "UZB_Bukhara Cotton",
+    "type": "agricultural",
+    "crop": "Cotton",
+    "location": {
+      "lat": 64.42,
+      "lng": 39.77,
+      "country": "UZB",
+      "region": "UZB_Bukhara"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "uzb-UZB_Tashkent-wheat",
+    "name": "UZB_Tashkent Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 69.3,
+      "lng": 41.3,
+      "country": "UZB",
+      "region": "UZB_Tashkent"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "irq-IRQ_Kirkuk-wheat",
+    "name": "IRQ_Kirkuk Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 44.39,
+      "lng": 35.47,
+      "country": "IRQ",
+      "region": "IRQ_Kirkuk"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "irq-IRQ_Nineveh-wheat",
+    "name": "IRQ_Nineveh Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 43.16,
+      "lng": 36.35,
+      "country": "IRQ",
+      "region": "IRQ_Nineveh"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "syr-SYR_Aleppo-wheat",
+    "name": "SYR_Aleppo Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 37.15,
+      "lng": 36.2,
+      "country": "SYR",
+      "region": "SYR_Aleppo"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "sau-SAU_Al_Qassim-wheat",
+    "name": "SAU_Al_Qassim Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 43.97,
+      "lng": 26.33,
+      "country": "SAU",
+      "region": "SAU_Al_Qassim"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "isr-ISR_Jezreel_Valley-wheat",
+    "name": "ISR_Jezreel_Valley Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 35.3,
+      "lng": 32.6,
+      "country": "ISR",
+      "region": "ISR_Jezreel_Valley"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "syr-SYR_Al_Hasakah-wheat",
+    "name": "SYR_Al_Hasakah Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 40.75,
+      "lng": 36.5,
+      "country": "SYR",
+      "region": "SYR_Al_Hasakah"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "sau-SAU_Riyadh_Region-wheat",
+    "name": "SAU_Riyadh_Region Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 46.7,
+      "lng": 24.7,
+      "country": "SAU",
+      "region": "SAU_Riyadh_Region"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "bgd-BGD_Rajshahi-rice",
+    "name": "BGD_Rajshahi Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 88.6,
+      "lng": 24.37,
+      "country": "BGD",
+      "region": "BGD_Rajshahi"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "isr-ISR_Negev-wheat",
+    "name": "ISR_Negev Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 34.8,
+      "lng": 31.0,
+      "country": "ISR",
+      "region": "ISR_Negev"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "bol-BOL_Santa_Cruz-soy",
+    "name": "BOL_Santa_Cruz Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -63.2,
+      "lng": -17.8,
+      "country": "BOL",
+      "region": "BOL_Santa_Cruz"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "per-PER_Arequipa-rice",
+    "name": "PER_Arequipa Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": -71.54,
+      "lng": -16.4,
+      "country": "PER",
+      "region": "PER_Arequipa"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "per-PER_Lambayeque-rice",
+    "name": "PER_Lambayeque Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": -79.84,
+      "lng": -6.77,
+      "country": "PER",
+      "region": "PER_Lambayeque"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "dom-DOM_Cibao-rice",
+    "name": "DOM_Cibao Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": -70.7,
+      "lng": 19.45,
+      "country": "DOM",
+      "region": "DOM_Cibao"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "cub-CUB_Sancti_Spiritus-rice",
+    "name": "CUB_Sancti_Spiritus Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": -79.44,
+      "lng": 21.93,
+      "country": "CUB",
+      "region": "CUB_Sancti_Spiritus"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "pak-PAK_Punjab_Faisalabad-wheat",
+    "name": "PAK_Punjab_Faisalabad Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 73.1,
+      "lng": 31.4,
+      "country": "PAK",
+      "region": "PAK_Punjab_Faisalabad"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "pak-PAK_Punjab_Multan-wheat",
+    "name": "PAK_Punjab_Multan Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 71.5,
+      "lng": 30.2,
+      "country": "PAK",
+      "region": "PAK_Punjab_Multan"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "pak-PAK_Sindh_Sukkur-wheat",
+    "name": "PAK_Sindh_Sukkur Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 68.9,
+      "lng": 27.7,
+      "country": "PAK",
+      "region": "PAK_Sindh_Sukkur"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "pak-PAK_Punjab_Sialkot-rice",
+    "name": "PAK_Punjab_Sialkot Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 74.5,
+      "lng": 32.5,
+      "country": "PAK",
+      "region": "PAK_Punjab_Sialkot"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "pak-PAK_Sindh_Hyderabad-wheat",
+    "name": "PAK_Sindh_Hyderabad Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 68.4,
+      "lng": 25.4,
+      "country": "PAK",
+      "region": "PAK_Sindh_Hyderabad"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "pak-PAK_Punjab_Sargodha-wheat",
+    "name": "PAK_Punjab_Sargodha Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 72.7,
+      "lng": 32.1,
+      "country": "PAK",
+      "region": "PAK_Punjab_Sargodha"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "pak-PAK_KPK_Peshawar-wheat",
+    "name": "PAK_KPK_Peshawar Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 71.6,
+      "lng": 34.0,
+      "country": "PAK",
+      "region": "PAK_KPK_Peshawar"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "tur-TUR_Southeast_Sanliurfa-wheat",
+    "name": "TUR_Southeast_Sanliurfa Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 38.8,
+      "lng": 37.2,
+      "country": "TUR",
+      "region": "TUR_Southeast_Sanliurfa"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "tur-TUR_Aegean_Izmir-wheat",
+    "name": "TUR_Aegean_Izmir Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 27.1,
+      "lng": 38.4,
+      "country": "TUR",
+      "region": "TUR_Aegean_Izmir"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "tur-TUR_Mediterranean_Mersin-corn",
+    "name": "TUR_Mediterranean_Mersin Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 34.6,
+      "lng": 36.8,
+      "country": "TUR",
+      "region": "TUR_Mediterranean_Mersin"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "tur-TUR_Mediterranean_Adana-corn",
+    "name": "TUR_Mediterranean_Adana Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 35.3,
+      "lng": 37.0,
+      "country": "TUR",
+      "region": "TUR_Mediterranean_Adana"
+    },
+    "risk": 100.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "egy-EGY_Minya-wheat",
+    "name": "EGY_Minya Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 30.8,
+      "lng": 28.1,
+      "country": "EGY",
+      "region": "EGY_Minya"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "egy-EGY_Qena-wheat",
+    "name": "EGY_Qena Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 32.7,
+      "lng": 26.2,
+      "country": "EGY",
+      "region": "EGY_Qena"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "eth-ETH_Amhara_South_Gondar-wheat",
+    "name": "ETH_Amhara_South_Gondar Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 37.5,
+      "lng": 12.0,
+      "country": "ETH",
+      "region": "ETH_Amhara_South_Gondar"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_PR_Londrina-soy",
+    "name": "BRA_PR_Londrina Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -51.2,
+      "lng": -23.3,
+      "country": "BRA",
+      "region": "BRA_PR_Londrina"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_BA_Luis_Eduardo-soy",
+    "name": "BRA_BA_Luis_Eduardo Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -45.8,
+      "lng": -12.1,
+      "country": "BRA",
+      "region": "BRA_BA_Luis_Eduardo"
+    },
+    "risk": 100.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_SF_San_Lorenzo-soy",
+    "name": "ARG_SF_San_Lorenzo Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -60.7,
+      "lng": -32.7,
+      "country": "ARG",
+      "region": "ARG_SF_San_Lorenzo"
+    },
+    "risk": 100.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_BA_San_Nicolas-soy",
+    "name": "ARG_BA_San_Nicolas Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -60.2,
+      "lng": -33.3,
+      "country": "ARG",
+      "region": "ARG_BA_San_Nicolas"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_BA_Trenque-wheat",
+    "name": "ARG_BA_Trenque Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": -62.7,
+      "lng": -36.0,
+      "country": "ARG",
+      "region": "ARG_BA_Trenque"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_LP_Realico-wheat",
+    "name": "ARG_LP_Realico Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": -64.2,
+      "lng": -35.0,
+      "country": "ARG",
+      "region": "ARG_LP_Realico"
+    },
+    "risk": 100.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IN-RJ-wheat",
+    "name": "IN-RJ Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 74.2,
+      "lng": 27.0,
+      "country": "IND",
+      "region": "IN-RJ"
+    },
+    "risk": 99.9,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Uttar_Pradesh_Central-wheat",
+    "name": "IND_Uttar_Pradesh_Central Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 80.0,
+      "lng": 27.0,
+      "country": "IND",
+      "region": "IND_Uttar_Pradesh_Central"
+    },
+    "risk": 99.9,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Punjab_Moga-wheat",
+    "name": "IND_Punjab_Moga Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 75.17,
+      "lng": 30.82,
+      "country": "IND",
+      "region": "IND_Punjab_Moga"
+    },
+    "risk": 99.9,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Haryana_Kaithal-wheat",
+    "name": "IND_Haryana_Kaithal Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 76.4,
+      "lng": 29.8,
+      "country": "IND",
+      "region": "IND_Haryana_Kaithal"
+    },
+    "risk": 99.9,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MH_Wardha-soy",
+    "name": "IND_MH_Wardha Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 78.6,
+      "lng": 20.75,
+      "country": "IND",
+      "region": "IND_MH_Wardha"
+    },
+    "risk": 99.9,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_KA_Bagalkot-sugarcane",
+    "name": "IND_KA_Bagalkot Sugarcane",
+    "type": "agricultural",
+    "crop": "Sugarcane",
+    "location": {
+      "lat": 75.7,
+      "lng": 16.18,
+      "country": "IND",
+      "region": "IND_KA_Bagalkot"
+    },
+    "risk": 99.9,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_KA_Hassan-rice",
+    "name": "IND_KA_Hassan Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 76.1,
+      "lng": 13.0,
+      "country": "IND",
+      "region": "IND_KA_Hassan"
+    },
+    "risk": 99.9,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_KA_Mandya-rice",
+    "name": "IND_KA_Mandya Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 76.9,
+      "lng": 12.52,
+      "country": "IND",
+      "region": "IND_KA_Mandya"
+    },
+    "risk": 99.9,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "nga-NGA_Katsina-corn",
+    "name": "NGA_Katsina Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 7.6,
+      "lng": 13.0,
+      "country": "NGA",
+      "region": "NGA_Katsina"
+    },
+    "risk": 99.9,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "zaf-ZAF_Mpumalanga-corn",
+    "name": "ZAF_Mpumalanga Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 29.5,
+      "lng": -26.0,
+      "country": "ZAF",
+      "region": "ZAF_Mpumalanga"
+    },
+    "risk": 99.9,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "zmb-ZMB_Southern-corn",
+    "name": "ZMB_Southern Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 26.5,
+      "lng": -16.5,
+      "country": "ZMB",
+      "region": "ZMB_Southern"
+    },
+    "risk": 99.9,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "sen-SEN_Thies-groundnut",
+    "name": "SEN_Thies Groundnut",
+    "type": "agricultural",
+    "crop": "Groundnut",
+    "location": {
+      "lat": -16.9,
+      "lng": 14.8,
+      "country": "SEN",
+      "region": "SEN_Thies"
+    },
+    "risk": 99.9,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "tur-TUR_Southeastern_Anatolia-wheat",
+    "name": "TUR_Southeastern_Anatolia Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 39.0,
+      "lng": 37.5,
+      "country": "TUR",
+      "region": "TUR_Southeastern_Anatolia"
+    },
+    "risk": 99.9,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "nga-NGA_Gombe-sorghum",
+    "name": "NGA_Gombe Sorghum",
+    "type": "agricultural",
+    "crop": "Sorghum",
+    "location": {
+      "lat": 11.2,
+      "lng": 10.3,
+      "country": "NGA",
+      "region": "NGA_Gombe"
+    },
+    "risk": 99.9,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "zaf-ZAF_Limpopo_Central-corn",
+    "name": "ZAF_Limpopo_Central Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 29.5,
+      "lng": -23.9,
+      "country": "ZAF",
+      "region": "ZAF_Limpopo_Central"
+    },
+    "risk": 99.9,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "pak-PAK_Punjab_Bahawalpur-wheat",
+    "name": "PAK_Punjab_Bahawalpur Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 71.7,
+      "lng": 29.4,
+      "country": "PAK",
+      "region": "PAK_Punjab_Bahawalpur"
+    },
+    "risk": 99.9,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "tur-TUR_Central_Anatolia_Konya-wheat",
+    "name": "TUR_Central_Anatolia_Konya Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 32.5,
+      "lng": 37.9,
+      "country": "TUR",
+      "region": "TUR_Central_Anatolia_Konya"
+    },
+    "risk": 99.9,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "tur-TUR_Southeast_Diyarbakir-wheat",
+    "name": "TUR_Southeast_Diyarbakir Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 40.2,
+      "lng": 37.9,
+      "country": "TUR",
+      "region": "TUR_Southeast_Diyarbakir"
+    },
+    "risk": 99.9,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "tur-TUR_Southeast_Mardin-wheat",
+    "name": "TUR_Southeast_Mardin Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 40.7,
+      "lng": 37.3,
+      "country": "TUR",
+      "region": "TUR_Southeast_Mardin"
+    },
+    "risk": 99.9,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "deu-DEU_Schleswig_Holstein-wheat",
+    "name": "DEU_Schleswig_Holstein Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 9.9,
+      "lng": 54.2,
+      "country": "DEU",
+      "region": "DEU_Schleswig_Holstein"
+    },
+    "risk": 99.9,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ken-KEN_Laikipia-wheat",
+    "name": "KEN_Laikipia Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 37.0,
+      "lng": 0.4,
+      "country": "KEN",
+      "region": "KEN_Laikipia"
+    },
+    "risk": 99.9,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Bihar_Central-rice",
+    "name": "IND_Bihar_Central Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 85.5,
+      "lng": 25.5,
+      "country": "IND",
+      "region": "IND_Bihar_Central"
+    },
+    "risk": 99.8,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Punjab_Patiala-wheat",
+    "name": "IND_Punjab_Patiala Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 76.38,
+      "lng": 30.34,
+      "country": "IND",
+      "region": "IND_Punjab_Patiala"
+    },
+    "risk": 99.8,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Punjab_Amritsar-wheat",
+    "name": "IND_Punjab_Amritsar Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 74.87,
+      "lng": 31.63,
+      "country": "IND",
+      "region": "IND_Punjab_Amritsar"
+    },
+    "risk": 99.8,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "zaf-ZAF_North_West-corn",
+    "name": "ZAF_North_West Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 25.5,
+      "lng": -26.5,
+      "country": "ZAF",
+      "region": "ZAF_North_West"
+    },
+    "risk": 99.8,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "esp-ESP_Castilla_La_Mancha-wheat",
+    "name": "ESP_Castilla_La_Mancha Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": -3.0,
+      "lng": 39.5,
+      "country": "ESP",
+      "region": "ESP_Castilla_La_Mancha"
+    },
+    "risk": 99.8,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "prt-PRT_Alentejo-wheat",
+    "name": "PRT_Alentejo Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": -7.5,
+      "lng": 38.5,
+      "country": "PRT",
+      "region": "PRT_Alentejo"
+    },
+    "risk": 99.7,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5106224-soy",
+    "name": "5106224 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -55.5,
+      "lng": -11.9,
+      "country": "BRA",
+      "region": "5106224"
+    },
+    "risk": 13.6,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "uzb-UZB_Fergana-cotton",
+    "name": "UZB_Fergana Cotton",
+    "type": "agricultural",
+    "crop": "Cotton",
+    "location": {
+      "lat": 71.79,
+      "lng": 40.38,
+      "country": "UZB",
+      "region": "UZB_Fergana"
+    },
+    "risk": 0.6,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_UP_Lucknow-wheat",
+    "name": "IND_UP_Lucknow Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 80.95,
+      "lng": 26.85,
+      "country": "IND",
+      "region": "IND_UP_Lucknow"
+    },
+    "risk": 0.3,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_UP_Gorakhpur-rice",
+    "name": "IND_UP_Gorakhpur Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 83.37,
+      "lng": 26.76,
+      "country": "IND",
+      "region": "IND_UP_Gorakhpur"
+    },
+    "risk": 0.2,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MP_Dewas-soy",
+    "name": "IND_MP_Dewas Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 76.05,
+      "lng": 22.97,
+      "country": "IND",
+      "region": "IND_MP_Dewas"
+    },
+    "risk": 0.2,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MP_Mandsaur-soy",
+    "name": "IND_MP_Mandsaur Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 75.07,
+      "lng": 24.07,
+      "country": "IND",
+      "region": "IND_MP_Mandsaur"
+    },
+    "risk": 0.2,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ven-VEN_Barinas-corn",
+    "name": "VEN_Barinas Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -70.2,
+      "lng": 8.6,
+      "country": "VEN",
+      "region": "VEN_Barinas"
+    },
+    "risk": 0.2,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_MG_Uberlandia-soy",
+    "name": "BRA_MG_Uberlandia Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -48.3,
+      "lng": -18.9,
+      "country": "BRA",
+      "region": "BRA_MG_Uberlandia"
+    },
+    "risk": 0.2,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IN-PB-wheat",
+    "name": "IN-PB Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 75.3,
+      "lng": 31.1,
+      "country": "IND",
+      "region": "IN-PB"
+    },
+    "risk": 0.1,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IN-HR-wheat",
+    "name": "IN-HR Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 76.1,
+      "lng": 29.1,
+      "country": "IND",
+      "region": "IN-HR"
+    },
+    "risk": 0.1,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Maharashtra_Central-soy",
+    "name": "IND_Maharashtra_Central Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 77.0,
+      "lng": 20.0,
+      "country": "IND",
+      "region": "IND_Maharashtra_Central"
+    },
+    "risk": 0.1,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Punjab_Patiala_Rice-rice",
+    "name": "IND_Punjab_Patiala_Rice Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 76.38,
+      "lng": 30.34,
+      "country": "IND",
+      "region": "IND_Punjab_Patiala_Rice"
+    },
+    "risk": 0.1,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MP_Gwalior-wheat",
+    "name": "IND_MP_Gwalior Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 78.18,
+      "lng": 26.22,
+      "country": "IND",
+      "region": "IND_MP_Gwalior"
+    },
+    "risk": 0.1,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MH_Parbhani-soy",
+    "name": "IND_MH_Parbhani Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 76.78,
+      "lng": 19.27,
+      "country": "IND",
+      "region": "IND_MH_Parbhani"
+    },
+    "risk": 0.1,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_AP_EastGodavari-rice",
+    "name": "IND_AP_EastGodavari Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 82.0,
+      "lng": 17.0,
+      "country": "IND",
+      "region": "IND_AP_EastGodavari"
+    },
+    "risk": 0.1,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_AP_Guntur-rice",
+    "name": "IND_AP_Guntur Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 80.45,
+      "lng": 16.3,
+      "country": "IND",
+      "region": "IND_AP_Guntur"
+    },
+    "risk": 0.1,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_TN_Thanjavur-rice",
+    "name": "IND_TN_Thanjavur Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 79.14,
+      "lng": 10.79,
+      "country": "IND",
+      "region": "IND_TN_Thanjavur"
+    },
+    "risk": 0.1,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_TN_Villupuram-rice",
+    "name": "IND_TN_Villupuram Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 79.49,
+      "lng": 11.94,
+      "country": "IND",
+      "region": "IND_TN_Villupuram"
+    },
+    "risk": 0.1,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_SF_Caseros-soy",
+    "name": "ARG_SF_Caseros Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -61.17,
+      "lng": -33.05,
+      "country": "ARG",
+      "region": "ARG_SF_Caseros"
+    },
+    "risk": 0.1,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_SF_General_Lopez-soy",
+    "name": "ARG_SF_General_Lopez Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -61.42,
+      "lng": -33.68,
+      "country": "ARG",
+      "region": "ARG_SF_General_Lopez"
+    },
+    "risk": 0.1,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_ER_Gualeguaychu-soy",
+    "name": "ARG_ER_Gualeguaychu Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -58.52,
+      "lng": -33.0,
+      "country": "ARG",
+      "region": "ARG_ER_Gualeguaychu"
+    },
+    "risk": 0.1,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "tza-TZA_Iringa-corn",
+    "name": "TZA_Iringa Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 35.69,
+      "lng": -7.77,
+      "country": "TZA",
+      "region": "TZA_Iringa"
+    },
+    "risk": 0.1,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "sdn-SDN_Gezira-wheat",
+    "name": "SDN_Gezira Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 33.0,
+      "lng": 14.5,
+      "country": "SDN",
+      "region": "SDN_Gezira"
+    },
+    "risk": 0.1,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "dza-DZA_Constantine-wheat",
+    "name": "DZA_Constantine Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 6.61,
+      "lng": 36.36,
+      "country": "DZA",
+      "region": "DZA_Constantine"
+    },
+    "risk": 0.1,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "grc-GRC_Thessaly-wheat",
+    "name": "GRC_Thessaly Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 22.0,
+      "lng": 39.5,
+      "country": "GRC",
+      "region": "GRC_Thessaly"
+    },
+    "risk": 0.1,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "nld-NLD_Zeeland-wheat",
+    "name": "NLD_Zeeland Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 3.8,
+      "lng": 51.5,
+      "country": "NLD",
+      "region": "NLD_Zeeland"
+    },
+    "risk": 0.1,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "irn-IRN_Khuzestan-wheat",
+    "name": "IRN_Khuzestan Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 48.5,
+      "lng": 31.5,
+      "country": "IRN",
+      "region": "IRN_Khuzestan"
+    },
+    "risk": 0.1,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "kaz-KAZ_North_Kazakhstan-wheat",
+    "name": "KAZ_North_Kazakhstan Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 69.0,
+      "lng": 52.0,
+      "country": "KAZ",
+      "region": "KAZ_North_Kazakhstan"
+    },
+    "risk": 0.1,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "kaz-KAZ_Akmola-wheat",
+    "name": "KAZ_Akmola Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 71.5,
+      "lng": 51.5,
+      "country": "KAZ",
+      "region": "KAZ_Akmola"
+    },
+    "risk": 0.1,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "pak-PAK_Sindh-wheat",
+    "name": "PAK_Sindh Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 68.5,
+      "lng": 26.0,
+      "country": "PAK",
+      "region": "PAK_Sindh"
+    },
+    "risk": 0.1,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "kaz-KAZ_Karaganda-wheat",
+    "name": "KAZ_Karaganda Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 73.1,
+      "lng": 49.8,
+      "country": "KAZ",
+      "region": "KAZ_Karaganda"
+    },
+    "risk": 0.1,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "nga-NGA_Jigawa-rice",
+    "name": "NGA_Jigawa Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 9.5,
+      "lng": 12.5,
+      "country": "NGA",
+      "region": "NGA_Jigawa"
+    },
+    "risk": 0.1,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "zaf-ZAF_Mpumalanga_Central-corn",
+    "name": "ZAF_Mpumalanga_Central Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 30.0,
+      "lng": -25.5,
+      "country": "ZAF",
+      "region": "ZAF_Mpumalanga_Central"
+    },
+    "risk": 0.1,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "pak-PAK_Sindh_Larkana-rice",
+    "name": "PAK_Sindh_Larkana Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 68.2,
+      "lng": 27.6,
+      "country": "PAK",
+      "region": "PAK_Sindh_Larkana"
+    },
+    "risk": 0.1,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "tur-TUR_Marmara_Tekirdag-wheat",
+    "name": "TUR_Marmara_Tekirdag Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 27.5,
+      "lng": 41.0,
+      "country": "TUR",
+      "region": "TUR_Marmara_Tekirdag"
+    },
+    "risk": 0.1,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "egy-EGY_Dakahlia-wheat",
+    "name": "EGY_Dakahlia Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 31.4,
+      "lng": 31.1,
+      "country": "EGY",
+      "region": "EGY_Dakahlia"
+    },
+    "risk": 0.1,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "eth-ETH_Tigray_Central-wheat",
+    "name": "ETH_Tigray_Central Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 39.5,
+      "lng": 13.5,
+      "country": "ETH",
+      "region": "ETH_Tigray_Central"
+    },
+    "risk": 0.1,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_LP_General_Pico-wheat",
+    "name": "ARG_LP_General_Pico Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": -63.8,
+      "lng": -35.7,
+      "country": "ARG",
+      "region": "ARG_LP_General_Pico"
+    },
+    "risk": 0.1,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5108006-soy",
+    "name": "5108006 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -55.8,
+      "lng": -13.7,
+      "country": "BRA",
+      "region": "5108006"
+    },
+    "risk": 0.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-4104808-soy",
+    "name": "4104808 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -53.2,
+      "lng": -24.8,
+      "country": "BRA",
+      "region": "4104808"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-4100103-soy",
+    "name": "4100103 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -50.6,
+      "lng": -23.3,
+      "country": "BRA",
+      "region": "4100103"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-4127700-soy",
+    "name": "4127700 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -52.4,
+      "lng": -24.0,
+      "country": "BRA",
+      "region": "4127700"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-4128203-soy",
+    "name": "4128203 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -50.4,
+      "lng": -24.7,
+      "country": "BRA",
+      "region": "4128203"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-4307104-soy",
+    "name": "4307104 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -55.0,
+      "lng": -28.1,
+      "country": "BRA",
+      "region": "4307104"
+    },
+    "risk": 0.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-4311403-soy",
+    "name": "4311403 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -51.1,
+      "lng": -28.0,
+      "country": "BRA",
+      "region": "4311403"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-4305108-soy",
+    "name": "4305108 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -53.0,
+      "lng": -28.3,
+      "country": "BRA",
+      "region": "4305108"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-4314407-soy",
+    "name": "4314407 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -54.4,
+      "lng": -28.5,
+      "country": "BRA",
+      "region": "4314407"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5104526-corn",
+    "name": "5104526 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -54.0,
+      "lng": -13.5,
+      "country": "BRA",
+      "region": "5104526"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5106224-corn",
+    "name": "5106224 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -55.5,
+      "lng": -11.9,
+      "country": "BRA",
+      "region": "5106224"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5107909-corn",
+    "name": "5107909 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -56.1,
+      "lng": -13.5,
+      "country": "BRA",
+      "region": "5107909"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5106257-corn",
+    "name": "5106257 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -57.0,
+      "lng": -13.0,
+      "country": "BRA",
+      "region": "5106257"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5106240-corn",
+    "name": "5106240 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -57.4,
+      "lng": -12.2,
+      "country": "BRA",
+      "region": "5106240"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5107065-corn",
+    "name": "5107065 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -53.0,
+      "lng": -13.0,
+      "country": "BRA",
+      "region": "5107065"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5108006-corn",
+    "name": "5108006 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -55.8,
+      "lng": -13.7,
+      "country": "BRA",
+      "region": "5108006"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5107958-corn",
+    "name": "5107958 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -55.7,
+      "lng": -12.5,
+      "country": "BRA",
+      "region": "5107958"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-4104808-corn",
+    "name": "4104808 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -53.2,
+      "lng": -24.8,
+      "country": "BRA",
+      "region": "4104808"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-4100103-corn",
+    "name": "4100103 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -50.6,
+      "lng": -23.3,
+      "country": "BRA",
+      "region": "4100103"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-4102802-corn",
+    "name": "4102802 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -50.6,
+      "lng": -24.0,
+      "country": "BRA",
+      "region": "4102802"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-4127700-corn",
+    "name": "4127700 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -52.4,
+      "lng": -24.0,
+      "country": "BRA",
+      "region": "4127700"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-4128203-corn",
+    "name": "4128203 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -50.4,
+      "lng": -24.7,
+      "country": "BRA",
+      "region": "4128203"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-4311403-corn",
+    "name": "4311403 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -51.1,
+      "lng": -28.0,
+      "country": "BRA",
+      "region": "4311403"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-4305108-corn",
+    "name": "4305108 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -53.0,
+      "lng": -28.3,
+      "country": "BRA",
+      "region": "4305108"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-4314407-corn",
+    "name": "4314407 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -54.4,
+      "lng": -28.5,
+      "country": "BRA",
+      "region": "4314407"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5212055-corn",
+    "name": "5212055 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -51.5,
+      "lng": -17.8,
+      "country": "BRA",
+      "region": "5212055"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5212253-corn",
+    "name": "5212253 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -49.3,
+      "lng": -16.2,
+      "country": "BRA",
+      "region": "5212253"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5216304-corn",
+    "name": "5216304 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -47.3,
+      "lng": -15.4,
+      "country": "BRA",
+      "region": "5216304"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5104526-soy",
+    "name": "5104526 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -54.0,
+      "lng": -13.5,
+      "country": "BRA",
+      "region": "5104526"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5106240-soy",
+    "name": "5106240 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -57.4,
+      "lng": -12.2,
+      "country": "BRA",
+      "region": "5106240"
+    },
+    "risk": 0.0,
+    "confidence": 94,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5101902-soy",
+    "name": "5101902 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -52.2,
+      "lng": -14.0,
+      "country": "BRA",
+      "region": "5101902"
+    },
+    "risk": 0.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5106257-soy",
+    "name": "5106257 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -57.0,
+      "lng": -13.0,
+      "country": "BRA",
+      "region": "5106257"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5105507-soy",
+    "name": "5105507 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -55.3,
+      "lng": -15.0,
+      "country": "BRA",
+      "region": "5105507"
+    },
+    "risk": 0.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5107065-soy",
+    "name": "5107065 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -53.0,
+      "lng": -13.0,
+      "country": "BRA",
+      "region": "5107065"
+    },
+    "risk": 0.0,
+    "confidence": 94,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5107958-soy",
+    "name": "5107958 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -55.7,
+      "lng": -12.5,
+      "country": "BRA",
+      "region": "5107958"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-4102802-soy",
+    "name": "4102802 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -50.6,
+      "lng": -24.0,
+      "country": "BRA",
+      "region": "4102802"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5212055-soy",
+    "name": "5212055 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -51.5,
+      "lng": -17.8,
+      "country": "BRA",
+      "region": "5212055"
+    },
+    "risk": 0.0,
+    "confidence": 94,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-4320008-soy",
+    "name": "4320008 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -54.8,
+      "lng": -28.8,
+      "country": "BRA",
+      "region": "4320008"
+    },
+    "risk": 0.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5208707-soy",
+    "name": "5208707 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -49.5,
+      "lng": -18.0,
+      "country": "BRA",
+      "region": "5208707"
+    },
+    "risk": 0.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5216304-soy",
+    "name": "5216304 Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -47.3,
+      "lng": -15.4,
+      "country": "BRA",
+      "region": "5216304"
+    },
+    "risk": 0.0,
+    "confidence": 94,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5101902-corn",
+    "name": "5101902 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -52.2,
+      "lng": -14.0,
+      "country": "BRA",
+      "region": "5101902"
+    },
+    "risk": 0.0,
+    "confidence": 94,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5105507-corn",
+    "name": "5105507 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -55.3,
+      "lng": -15.0,
+      "country": "BRA",
+      "region": "5105507"
+    },
+    "risk": 0.0,
+    "confidence": 94,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-4320008-corn",
+    "name": "4320008 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -54.8,
+      "lng": -28.8,
+      "country": "BRA",
+      "region": "4320008"
+    },
+    "risk": 0.0,
+    "confidence": 94,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-5208707-corn",
+    "name": "5208707 Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -49.5,
+      "lng": -18.0,
+      "country": "BRA",
+      "region": "5208707"
+    },
+    "risk": 0.0,
+    "confidence": 94,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IN-MH-soy",
+    "name": "IN-MH Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 75.3,
+      "lng": 19.8,
+      "country": "IND",
+      "region": "IN-MH"
+    },
+    "risk": 0.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IN-MP-soy",
+    "name": "IN-MP Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 78.7,
+      "lng": 22.9,
+      "country": "IND",
+      "region": "IN-MP"
+    },
+    "risk": 0.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IN-MP-wheat",
+    "name": "IN-MP Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 78.7,
+      "lng": 22.9,
+      "country": "IND",
+      "region": "IN-MP"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IN-PB-rice",
+    "name": "IN-PB Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 75.3,
+      "lng": 31.1,
+      "country": "IND",
+      "region": "IN-PB"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_Buenos_Aires_North-soy",
+    "name": "ARG_Buenos_Aires_North Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -61.0,
+      "lng": -34.0,
+      "country": "ARG",
+      "region": "ARG_Buenos_Aires_North"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_Buenos_Aires_South-soy",
+    "name": "ARG_Buenos_Aires_South Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -60.0,
+      "lng": -37.0,
+      "country": "ARG",
+      "region": "ARG_Buenos_Aires_South"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_Cordoba_East-soy",
+    "name": "ARG_Cordoba_East Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -63.0,
+      "lng": -32.0,
+      "country": "ARG",
+      "region": "ARG_Cordoba_East"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_Santa_Fe_South-soy",
+    "name": "ARG_Santa_Fe_South Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -61.5,
+      "lng": -33.0,
+      "country": "ARG",
+      "region": "ARG_Santa_Fe_South"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_Entre_Rios-soy",
+    "name": "ARG_Entre_Rios Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -59.0,
+      "lng": -32.0,
+      "country": "ARG",
+      "region": "ARG_Entre_Rios"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_Buenos_Aires_West-corn",
+    "name": "ARG_Buenos_Aires_West Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -63.0,
+      "lng": -35.0,
+      "country": "ARG",
+      "region": "ARG_Buenos_Aires_West"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_Cordoba_South-corn",
+    "name": "ARG_Cordoba_South Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -64.0,
+      "lng": -33.5,
+      "country": "ARG",
+      "region": "ARG_Cordoba_South"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_Santa_Fe_Central-corn",
+    "name": "ARG_Santa_Fe_Central Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -61.0,
+      "lng": -31.5,
+      "country": "ARG",
+      "region": "ARG_Santa_Fe_Central"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_La_Pampa_East-wheat",
+    "name": "ARG_La_Pampa_East Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": -64.0,
+      "lng": -36.5,
+      "country": "ARG",
+      "region": "ARG_La_Pampa_East"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_Buenos_Aires_Southwest-wheat",
+    "name": "ARG_Buenos_Aires_Southwest Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": -62.0,
+      "lng": -38.0,
+      "country": "ARG",
+      "region": "ARG_Buenos_Aires_Southwest"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Punjab_Central-wheat",
+    "name": "IND_Punjab_Central Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 75.5,
+      "lng": 31.0,
+      "country": "IND",
+      "region": "IND_Punjab_Central"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Punjab_South-wheat",
+    "name": "IND_Punjab_South Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 75.0,
+      "lng": 30.5,
+      "country": "IND",
+      "region": "IND_Punjab_South"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Haryana_North-wheat",
+    "name": "IND_Haryana_North Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 76.5,
+      "lng": 29.5,
+      "country": "IND",
+      "region": "IND_Haryana_North"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Uttar_Pradesh_West-wheat",
+    "name": "IND_Uttar_Pradesh_West Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 78.0,
+      "lng": 29.0,
+      "country": "IND",
+      "region": "IND_Uttar_Pradesh_West"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Madhya_Pradesh_North-wheat",
+    "name": "IND_Madhya_Pradesh_North Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 77.5,
+      "lng": 24.5,
+      "country": "IND",
+      "region": "IND_Madhya_Pradesh_North"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Rajasthan_East-wheat",
+    "name": "IND_Rajasthan_East Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 75.5,
+      "lng": 26.5,
+      "country": "IND",
+      "region": "IND_Rajasthan_East"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Rajasthan_Southeast-soy",
+    "name": "IND_Rajasthan_Southeast Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 76.0,
+      "lng": 24.5,
+      "country": "IND",
+      "region": "IND_Rajasthan_Southeast"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Madhya_Pradesh_West-soy",
+    "name": "IND_Madhya_Pradesh_West Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 76.0,
+      "lng": 23.0,
+      "country": "IND",
+      "region": "IND_Madhya_Pradesh_West"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_West_Bengal_South-rice",
+    "name": "IND_West_Bengal_South Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 88.0,
+      "lng": 23.0,
+      "country": "IND",
+      "region": "IND_West_Bengal_South"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Andhra_Pradesh_East-rice",
+    "name": "IND_Andhra_Pradesh_East Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 80.5,
+      "lng": 16.0,
+      "country": "IND",
+      "region": "IND_Andhra_Pradesh_East"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Tamil_Nadu_East-rice",
+    "name": "IND_Tamil_Nadu_East Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 79.5,
+      "lng": 11.0,
+      "country": "IND",
+      "region": "IND_Tamil_Nadu_East"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ukr-UKR_Poltava-corn",
+    "name": "UKR_Poltava Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 34.5,
+      "lng": 49.5,
+      "country": "UKR",
+      "region": "UKR_Poltava"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ukr-UKR_Kharkiv-soy",
+    "name": "UKR_Kharkiv Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 36.0,
+      "lng": 49.5,
+      "country": "UKR",
+      "region": "UKR_Kharkiv"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ukr-UKR_Vinnytsia-wheat",
+    "name": "UKR_Vinnytsia Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 28.5,
+      "lng": 49.0,
+      "country": "UKR",
+      "region": "UKR_Vinnytsia"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ukr-UKR_Kirovohrad-wheat",
+    "name": "UKR_Kirovohrad Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 32.5,
+      "lng": 48.5,
+      "country": "UKR",
+      "region": "UKR_Kirovohrad"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "fra-FRA_Picardy-wheat",
+    "name": "FRA_Picardy Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 2.5,
+      "lng": 49.5,
+      "country": "FRA",
+      "region": "FRA_Picardy"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ukr-UKR_Dnipropetrovsk-soy",
+    "name": "UKR_Dnipropetrovsk Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 35.0,
+      "lng": 48.5,
+      "country": "UKR",
+      "region": "UKR_Dnipropetrovsk"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "fra-FRA_Beauce_Central-wheat",
+    "name": "FRA_Beauce_Central Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 1.5,
+      "lng": 48.0,
+      "country": "FRA",
+      "region": "FRA_Beauce_Central"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "fra-FRA_Champagne-wheat",
+    "name": "FRA_Champagne Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 4.0,
+      "lng": 49.0,
+      "country": "FRA",
+      "region": "FRA_Champagne"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "fra-FRA_Aquitaine-corn",
+    "name": "FRA_Aquitaine Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -0.5,
+      "lng": 44.0,
+      "country": "FRA",
+      "region": "FRA_Aquitaine"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "fra-FRA_Midi_Pyrenees-corn",
+    "name": "FRA_Midi_Pyrenees Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 1.5,
+      "lng": 43.5,
+      "country": "FRA",
+      "region": "FRA_Midi_Pyrenees"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "rus-RUS_Stavropol-wheat",
+    "name": "RUS_Stavropol Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 42.0,
+      "lng": 45.0,
+      "country": "RUS",
+      "region": "RUS_Stavropol"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "rus-RUS_Rostov-wheat",
+    "name": "RUS_Rostov Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 40.0,
+      "lng": 47.0,
+      "country": "RUS",
+      "region": "RUS_Rostov"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "rus-RUS_Krasnodar-wheat",
+    "name": "RUS_Krasnodar Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 39.0,
+      "lng": 45.5,
+      "country": "RUS",
+      "region": "RUS_Krasnodar"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "rus-RUS_Voronezh-wheat",
+    "name": "RUS_Voronezh Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 39.5,
+      "lng": 51.5,
+      "country": "RUS",
+      "region": "RUS_Voronezh"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Punjab_Sangrur-wheat",
+    "name": "IND_Punjab_Sangrur Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 75.84,
+      "lng": 30.23,
+      "country": "IND",
+      "region": "IND_Punjab_Sangrur"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Punjab_Ferozepur-wheat",
+    "name": "IND_Punjab_Ferozepur Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 74.61,
+      "lng": 30.93,
+      "country": "IND",
+      "region": "IND_Punjab_Ferozepur"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Punjab_Ludhiana_Rice-rice",
+    "name": "IND_Punjab_Ludhiana_Rice Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 75.85,
+      "lng": 30.9,
+      "country": "IND",
+      "region": "IND_Punjab_Ludhiana_Rice"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Punjab_Amritsar_Rice-rice",
+    "name": "IND_Punjab_Amritsar_Rice Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 74.87,
+      "lng": 31.63,
+      "country": "IND",
+      "region": "IND_Punjab_Amritsar_Rice"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Haryana_Ambala-wheat",
+    "name": "IND_Haryana_Ambala Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 76.78,
+      "lng": 30.38,
+      "country": "IND",
+      "region": "IND_Haryana_Ambala"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Punjab_Sangrur_Rice-rice",
+    "name": "IND_Punjab_Sangrur_Rice Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 75.84,
+      "lng": 30.23,
+      "country": "IND",
+      "region": "IND_Punjab_Sangrur_Rice"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_Haryana_Hisar-wheat",
+    "name": "IND_Haryana_Hisar Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 75.72,
+      "lng": 29.15,
+      "country": "IND",
+      "region": "IND_Haryana_Hisar"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_UP_Agra-wheat",
+    "name": "IND_UP_Agra Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 78.02,
+      "lng": 27.18,
+      "country": "IND",
+      "region": "IND_UP_Agra"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_UP_Deoria-rice",
+    "name": "IND_UP_Deoria Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 83.78,
+      "lng": 26.5,
+      "country": "IND",
+      "region": "IND_UP_Deoria"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_UP_Azamgarh-rice",
+    "name": "IND_UP_Azamgarh Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 83.18,
+      "lng": 26.07,
+      "country": "IND",
+      "region": "IND_UP_Azamgarh"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_UP_Basti-rice",
+    "name": "IND_UP_Basti Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 82.73,
+      "lng": 26.8,
+      "country": "IND",
+      "region": "IND_UP_Basti"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MP_Ratlam-soy",
+    "name": "IND_MP_Ratlam Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 75.04,
+      "lng": 23.33,
+      "country": "IND",
+      "region": "IND_MP_Ratlam"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MP_Sehore-soy",
+    "name": "IND_MP_Sehore Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 77.08,
+      "lng": 23.2,
+      "country": "IND",
+      "region": "IND_MP_Sehore"
+    },
+    "risk": 0.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MP_Neemuch-soy",
+    "name": "IND_MP_Neemuch Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 74.87,
+      "lng": 24.47,
+      "country": "IND",
+      "region": "IND_MP_Neemuch"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MP_Hoshangabad-soy",
+    "name": "IND_MP_Hoshangabad Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 77.72,
+      "lng": 22.75,
+      "country": "IND",
+      "region": "IND_MP_Hoshangabad"
+    },
+    "risk": 0.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MP_Shajapur-soy",
+    "name": "IND_MP_Shajapur Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 76.27,
+      "lng": 23.43,
+      "country": "IND",
+      "region": "IND_MP_Shajapur"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MH_Akola-soy",
+    "name": "IND_MH_Akola Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 77.0,
+      "lng": 20.7,
+      "country": "IND",
+      "region": "IND_MH_Akola"
+    },
+    "risk": 0.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MH_Washim-soy",
+    "name": "IND_MH_Washim Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 77.13,
+      "lng": 20.11,
+      "country": "IND",
+      "region": "IND_MH_Washim"
+    },
+    "risk": 0.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MP_Vidisha-wheat",
+    "name": "IND_MP_Vidisha Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 77.82,
+      "lng": 23.52,
+      "country": "IND",
+      "region": "IND_MP_Vidisha"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MH_Yavatmal-soy",
+    "name": "IND_MH_Yavatmal Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 78.12,
+      "lng": 20.39,
+      "country": "IND",
+      "region": "IND_MH_Yavatmal"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MH_Nagpur-soy",
+    "name": "IND_MH_Nagpur Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 79.08,
+      "lng": 21.15,
+      "country": "IND",
+      "region": "IND_MH_Nagpur"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MH_Nanded-soy",
+    "name": "IND_MH_Nanded Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 77.3,
+      "lng": 19.15,
+      "country": "IND",
+      "region": "IND_MH_Nanded"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_MH_Buldhana-soy",
+    "name": "IND_MH_Buldhana Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 76.18,
+      "lng": 20.53,
+      "country": "IND",
+      "region": "IND_MH_Buldhana"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_RJ_Alwar-wheat",
+    "name": "IND_RJ_Alwar Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 76.61,
+      "lng": 27.56,
+      "country": "IND",
+      "region": "IND_RJ_Alwar"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_RJ_Jhalawar-soy",
+    "name": "IND_RJ_Jhalawar Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 76.16,
+      "lng": 24.6,
+      "country": "IND",
+      "region": "IND_RJ_Jhalawar"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_RJ_Baran-soy",
+    "name": "IND_RJ_Baran Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 76.52,
+      "lng": 25.1,
+      "country": "IND",
+      "region": "IND_RJ_Baran"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_BR_Vaishali-rice",
+    "name": "IND_BR_Vaishali Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 85.22,
+      "lng": 25.99,
+      "country": "IND",
+      "region": "IND_BR_Vaishali"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_BR_Darbhanga-wheat",
+    "name": "IND_BR_Darbhanga Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 85.9,
+      "lng": 26.17,
+      "country": "IND",
+      "region": "IND_BR_Darbhanga"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_WB_Bardhaman-rice",
+    "name": "IND_WB_Bardhaman Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 87.87,
+      "lng": 23.23,
+      "country": "IND",
+      "region": "IND_WB_Bardhaman"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_BR_Saran-rice",
+    "name": "IND_BR_Saran Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 84.75,
+      "lng": 25.91,
+      "country": "IND",
+      "region": "IND_BR_Saran"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_WB_Hooghly-rice",
+    "name": "IND_WB_Hooghly Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 88.24,
+      "lng": 22.91,
+      "country": "IND",
+      "region": "IND_WB_Hooghly"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_BR_Samastipur-wheat",
+    "name": "IND_BR_Samastipur Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 85.78,
+      "lng": 25.86,
+      "country": "IND",
+      "region": "IND_BR_Samastipur"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_WB_Murshidabad-rice",
+    "name": "IND_WB_Murshidabad Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 88.27,
+      "lng": 24.18,
+      "country": "IND",
+      "region": "IND_WB_Murshidabad"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_WB_Nadia-rice",
+    "name": "IND_WB_Nadia Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 88.55,
+      "lng": 23.47,
+      "country": "IND",
+      "region": "IND_WB_Nadia"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_WB_MidnaproreW-rice",
+    "name": "IND_WB_MidnaproreW Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 87.33,
+      "lng": 22.42,
+      "country": "IND",
+      "region": "IND_WB_MidnaproreW"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_WB_MidnaporeE-rice",
+    "name": "IND_WB_MidnaporeE Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 87.92,
+      "lng": 22.28,
+      "country": "IND",
+      "region": "IND_WB_MidnaporeE"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_WB_Birbhum-rice",
+    "name": "IND_WB_Birbhum Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 87.62,
+      "lng": 23.85,
+      "country": "IND",
+      "region": "IND_WB_Birbhum"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_AP_WestGodavari-rice",
+    "name": "IND_AP_WestGodavari Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 81.33,
+      "lng": 16.92,
+      "country": "IND",
+      "region": "IND_AP_WestGodavari"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_WB_Bankura-rice",
+    "name": "IND_WB_Bankura Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 87.07,
+      "lng": 23.23,
+      "country": "IND",
+      "region": "IND_WB_Bankura"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_TS_Warangal-rice",
+    "name": "IND_TS_Warangal Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 79.59,
+      "lng": 17.98,
+      "country": "IND",
+      "region": "IND_TS_Warangal"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_TN_Cuddalore-rice",
+    "name": "IND_TN_Cuddalore Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 79.77,
+      "lng": 11.75,
+      "country": "IND",
+      "region": "IND_TN_Cuddalore"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_TN_Tiruvarur-rice",
+    "name": "IND_TN_Tiruvarur Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 79.64,
+      "lng": 10.77,
+      "country": "IND",
+      "region": "IND_TN_Tiruvarur"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_TN_Nagapattinam-rice",
+    "name": "IND_TN_Nagapattinam Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 79.84,
+      "lng": 10.77,
+      "country": "IND",
+      "region": "IND_TN_Nagapattinam"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_TN_Tiruchirappalli-rice",
+    "name": "IND_TN_Tiruchirappalli Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 78.69,
+      "lng": 10.79,
+      "country": "IND",
+      "region": "IND_TN_Tiruchirappalli"
+    },
+    "risk": 0.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_GJ_Sabarkantha-cotton",
+    "name": "IND_GJ_Sabarkantha Cotton",
+    "type": "agricultural",
+    "crop": "Cotton",
+    "location": {
+      "lat": 73.0,
+      "lng": 23.63,
+      "country": "IND",
+      "region": "IND_GJ_Sabarkantha"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_GJ_Kheda-cotton",
+    "name": "IND_GJ_Kheda Cotton",
+    "type": "agricultural",
+    "crop": "Cotton",
+    "location": {
+      "lat": 72.68,
+      "lng": 22.75,
+      "country": "IND",
+      "region": "IND_GJ_Kheda"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_KA_Belgaum-sugarcane",
+    "name": "IND_KA_Belgaum Sugarcane",
+    "type": "agricultural",
+    "crop": "Sugarcane",
+    "location": {
+      "lat": 74.5,
+      "lng": 15.85,
+      "country": "IND",
+      "region": "IND_KA_Belgaum"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "ind-IND_KA_Mysore-rice",
+    "name": "IND_KA_Mysore Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 76.64,
+      "lng": 12.3,
+      "country": "IND",
+      "region": "IND_KA_Mysore"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_BA_General_Villegas-soy",
+    "name": "ARG_BA_General_Villegas Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -63.02,
+      "lng": -35.03,
+      "country": "ARG",
+      "region": "ARG_BA_General_Villegas"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_BA_Bolivar-corn",
+    "name": "ARG_BA_Bolivar Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -61.1,
+      "lng": -36.23,
+      "country": "ARG",
+      "region": "ARG_BA_Bolivar"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_CB_General_Roca-soy",
+    "name": "ARG_CB_General_Roca Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -63.38,
+      "lng": -34.73,
+      "country": "ARG",
+      "region": "ARG_CB_General_Roca"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_CB_San_Martin-corn",
+    "name": "ARG_CB_San_Martin Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -62.08,
+      "lng": -31.58,
+      "country": "ARG",
+      "region": "ARG_CB_San_Martin"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_CB_San_Justo-corn",
+    "name": "ARG_CB_San_Justo Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -62.53,
+      "lng": -31.35,
+      "country": "ARG",
+      "region": "ARG_CB_San_Justo"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_SF_Iriondo-corn",
+    "name": "ARG_SF_Iriondo Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -61.18,
+      "lng": -32.73,
+      "country": "ARG",
+      "region": "ARG_SF_Iriondo"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_SF_Belgrano-corn",
+    "name": "ARG_SF_Belgrano Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -61.52,
+      "lng": -32.58,
+      "country": "ARG",
+      "region": "ARG_SF_Belgrano"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_ER_Victoria-soy",
+    "name": "ARG_ER_Victoria Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -60.17,
+      "lng": -32.62,
+      "country": "ARG",
+      "region": "ARG_ER_Victoria"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_ER_Diamante-soy",
+    "name": "ARG_ER_Diamante Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -60.65,
+      "lng": -32.07,
+      "country": "ARG",
+      "region": "ARG_ER_Diamante"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "nga-NGA_Taraba-soy",
+    "name": "NGA_Taraba Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": 10.5,
+      "lng": 8.0,
+      "country": "NGA",
+      "region": "NGA_Taraba"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "eth-ETH_Amhara_South-wheat",
+    "name": "ETH_Amhara_South Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 38.0,
+      "lng": 11.0,
+      "country": "ETH",
+      "region": "ETH_Amhara_South"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "nga-NGA_Niger_State-rice",
+    "name": "NGA_Niger_State Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 5.6,
+      "lng": 9.93,
+      "country": "NGA",
+      "region": "NGA_Niger_State"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "nga-NGA_Zamfara-corn",
+    "name": "NGA_Zamfara Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 6.25,
+      "lng": 12.17,
+      "country": "NGA",
+      "region": "NGA_Zamfara"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "eth-ETH_Oromia_West-wheat",
+    "name": "ETH_Oromia_West Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 37.0,
+      "lng": 9.0,
+      "country": "ETH",
+      "region": "ETH_Oromia_West"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "eth-ETH_SNNPR-corn",
+    "name": "ETH_SNNPR Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 38.0,
+      "lng": 7.0,
+      "country": "ETH",
+      "region": "ETH_SNNPR"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "eth-ETH_Tigray-wheat",
+    "name": "ETH_Tigray Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 39.0,
+      "lng": 13.5,
+      "country": "ETH",
+      "region": "ETH_Tigray"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "eth-ETH_Oromia_East-corn",
+    "name": "ETH_Oromia_East Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 40.0,
+      "lng": 8.5,
+      "country": "ETH",
+      "region": "ETH_Oromia_East"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "egy-EGY_Nile_Delta_East-wheat",
+    "name": "EGY_Nile_Delta_East Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 31.5,
+      "lng": 31.0,
+      "country": "EGY",
+      "region": "EGY_Nile_Delta_East"
+    },
+    "risk": 0.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "egy-EGY_Nile_Delta_West-wheat",
+    "name": "EGY_Nile_Delta_West Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 30.0,
+      "lng": 31.0,
+      "country": "EGY",
+      "region": "EGY_Nile_Delta_West"
+    },
+    "risk": 0.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "egy-EGY_Sharqia-rice",
+    "name": "EGY_Sharqia Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 31.5,
+      "lng": 30.7,
+      "country": "EGY",
+      "region": "EGY_Sharqia"
+    },
+    "risk": 0.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "egy-EGY_Fayoum-rice",
+    "name": "EGY_Fayoum Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 30.8,
+      "lng": 29.3,
+      "country": "EGY",
+      "region": "EGY_Fayoum"
+    },
+    "risk": 0.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "zaf-ZAF_Free_State_North-corn",
+    "name": "ZAF_Free_State_North Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 26.5,
+      "lng": -28.5,
+      "country": "ZAF",
+      "region": "ZAF_Free_State_North"
+    },
+    "risk": 0.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "zaf-ZAF_Free_State_East-corn",
+    "name": "ZAF_Free_State_East Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 27.5,
+      "lng": -29.0,
+      "country": "ZAF",
+      "region": "ZAF_Free_State_East"
+    },
+    "risk": 0.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "zaf-ZAF_KwaZulu_Natal-corn",
+    "name": "ZAF_KwaZulu_Natal Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 30.0,
+      "lng": -29.0,
+      "country": "ZAF",
+      "region": "ZAF_KwaZulu_Natal"
+    },
+    "risk": 0.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "zaf-ZAF_Western_Cape-wheat",
+    "name": "ZAF_Western_Cape Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 19.0,
+      "lng": -33.5,
+      "country": "ZAF",
+      "region": "ZAF_Western_Cape"
+    },
+    "risk": 0.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "ken-KEN_Western-corn",
+    "name": "KEN_Western Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 34.5,
+      "lng": 0.5,
+      "country": "KEN",
+      "region": "KEN_Western"
+    },
+    "risk": 0.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "ken-KEN_Rift_Valley_Central-corn",
+    "name": "KEN_Rift_Valley_Central Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 36.0,
+      "lng": -0.5,
+      "country": "KEN",
+      "region": "KEN_Rift_Valley_Central"
+    },
+    "risk": 0.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "ken-KEN_Nyanza-corn",
+    "name": "KEN_Nyanza Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 34.8,
+      "lng": -0.5,
+      "country": "KEN",
+      "region": "KEN_Nyanza"
+    },
+    "risk": 0.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "tza-TZA_Morogoro-rice",
+    "name": "TZA_Morogoro Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 37.66,
+      "lng": -6.82,
+      "country": "TZA",
+      "region": "TZA_Morogoro"
+    },
+    "risk": 0.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "tza-TZA_Rukwa-corn",
+    "name": "TZA_Rukwa Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 31.5,
+      "lng": -8.0,
+      "country": "TZA",
+      "region": "TZA_Rukwa"
+    },
+    "risk": 0.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "mar-MAR_Doukkala-wheat",
+    "name": "MAR_Doukkala Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": -8.5,
+      "lng": 32.5,
+      "country": "MAR",
+      "region": "MAR_Doukkala"
+    },
+    "risk": 0.0,
+    "confidence": 95,
+    "dataSource": "model"
+  },
+  {
+    "id": "uga-UGA_Eastern-corn",
+    "name": "UGA_Eastern Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 34.0,
+      "lng": 1.5,
+      "country": "UGA",
+      "region": "UGA_Eastern"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "uga-UGA_Northern-corn",
+    "name": "UGA_Northern Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 32.5,
+      "lng": 3.0,
+      "country": "UGA",
+      "region": "UGA_Northern"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "zmb-ZMB_Eastern-corn",
+    "name": "ZMB_Eastern Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 32.0,
+      "lng": -13.5,
+      "country": "ZMB",
+      "region": "ZMB_Eastern"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "uga-UGA_Western-corn",
+    "name": "UGA_Western Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 30.5,
+      "lng": 0.5,
+      "country": "UGA",
+      "region": "UGA_Western"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "zwe-ZWE_Mashonaland_East-corn",
+    "name": "ZWE_Mashonaland_East Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 31.5,
+      "lng": -18.0,
+      "country": "ZWE",
+      "region": "ZWE_Mashonaland_East"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "zmb-ZMB_Central-corn",
+    "name": "ZMB_Central Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 28.5,
+      "lng": -14.5,
+      "country": "ZMB",
+      "region": "ZMB_Central"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "zwe-ZWE_Matabeleland-corn",
+    "name": "ZWE_Matabeleland Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 28.0,
+      "lng": -20.0,
+      "country": "ZWE",
+      "region": "ZWE_Matabeleland"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "zwe-ZWE_Mashonaland_West-corn",
+    "name": "ZWE_Mashonaland_West Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 29.5,
+      "lng": -17.5,
+      "country": "ZWE",
+      "region": "ZWE_Mashonaland_West"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "mli-MLI_Sikasso-corn",
+    "name": "MLI_Sikasso Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -5.67,
+      "lng": 11.32,
+      "country": "MLI",
+      "region": "MLI_Sikasso"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "gha-GHA_Brong_Ahafo-corn",
+    "name": "GHA_Brong_Ahafo Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -2.0,
+      "lng": 7.5,
+      "country": "GHA",
+      "region": "GHA_Brong_Ahafo"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "gha-GHA_Northern-corn",
+    "name": "GHA_Northern Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -1.0,
+      "lng": 9.5,
+      "country": "GHA",
+      "region": "GHA_Northern"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "bfa-BFA_Boucle_du_Mouhoun-corn",
+    "name": "BFA_Boucle_du_Mouhoun Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -3.5,
+      "lng": 12.5,
+      "country": "BFA",
+      "region": "BFA_Boucle_du_Mouhoun"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "gha-GHA_Ashanti-corn",
+    "name": "GHA_Ashanti Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -1.5,
+      "lng": 6.75,
+      "country": "GHA",
+      "region": "GHA_Ashanti"
+    },
+    "risk": 0.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "bfa-BFA_Hauts_Bassins-corn",
+    "name": "BFA_Hauts_Bassins Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -4.3,
+      "lng": 11.17,
+      "country": "BFA",
+      "region": "BFA_Hauts_Bassins"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "civ-CIV_Vallee_Bandama-rice",
+    "name": "CIV_Vallee_Bandama Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": -5.0,
+      "lng": 7.7,
+      "country": "CIV",
+      "region": "CIV_Vallee_Bandama"
+    },
+    "risk": 0.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "mwi-MWI_Southern-corn",
+    "name": "MWI_Southern Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 35.0,
+      "lng": -15.5,
+      "country": "MWI",
+      "region": "MWI_Southern"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "cmr-CMR_Adamawa-corn",
+    "name": "CMR_Adamawa Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 13.5,
+      "lng": 7.5,
+      "country": "CMR",
+      "region": "CMR_Adamawa"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "cmr-CMR_North-corn",
+    "name": "CMR_North Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 14.0,
+      "lng": 9.5,
+      "country": "CMR",
+      "region": "CMR_North"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "cmr-CMR_West-corn",
+    "name": "CMR_West Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 10.0,
+      "lng": 5.5,
+      "country": "CMR",
+      "region": "CMR_West"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "mwi-MWI_Central-corn",
+    "name": "MWI_Central Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 34.0,
+      "lng": -13.5,
+      "country": "MWI",
+      "region": "MWI_Central"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "civ-CIV_Savanes-corn",
+    "name": "CIV_Savanes Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -5.5,
+      "lng": 9.5,
+      "country": "CIV",
+      "region": "CIV_Savanes"
+    },
+    "risk": 0.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "moz-MOZ_Zambezia-corn",
+    "name": "MOZ_Zambezia Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 37.0,
+      "lng": -17.0,
+      "country": "MOZ",
+      "region": "MOZ_Zambezia"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "moz-MOZ_Nampula-corn",
+    "name": "MOZ_Nampula Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 39.0,
+      "lng": -15.0,
+      "country": "MOZ",
+      "region": "MOZ_Nampula"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ago-AGO_Bie-corn",
+    "name": "AGO_Bie Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 17.67,
+      "lng": -12.38,
+      "country": "AGO",
+      "region": "AGO_Bie"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "moz-MOZ_Tete-corn",
+    "name": "MOZ_Tete Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 33.5,
+      "lng": -16.0,
+      "country": "MOZ",
+      "region": "MOZ_Tete"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "deu-DEU_Bavaria-wheat",
+    "name": "DEU_Bavaria Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 11.5,
+      "lng": 48.8,
+      "country": "DEU",
+      "region": "DEU_Bavaria"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "deu-DEU_Brandenburg-corn",
+    "name": "DEU_Brandenburg Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 13.0,
+      "lng": 52.4,
+      "country": "DEU",
+      "region": "DEU_Brandenburg"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "deu-DEU_Lower_Saxony-wheat",
+    "name": "DEU_Lower_Saxony Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 9.5,
+      "lng": 52.5,
+      "country": "DEU",
+      "region": "DEU_Lower_Saxony"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "deu-DEU_Mecklenburg-wheat",
+    "name": "DEU_Mecklenburg Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 12.0,
+      "lng": 53.8,
+      "country": "DEU",
+      "region": "DEU_Mecklenburg"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "deu-DEU_Saxony_Anhalt-wheat",
+    "name": "DEU_Saxony_Anhalt Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 11.5,
+      "lng": 52.0,
+      "country": "DEU",
+      "region": "DEU_Saxony_Anhalt"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "pol-POL_Greater_Poland-wheat",
+    "name": "POL_Greater_Poland Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 17.0,
+      "lng": 52.0,
+      "country": "POL",
+      "region": "POL_Greater_Poland"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "rou-ROU_Moldova-corn",
+    "name": "ROU_Moldova Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 27.5,
+      "lng": 47.0,
+      "country": "ROU",
+      "region": "ROU_Moldova"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "pol-POL_Lublin-wheat",
+    "name": "POL_Lublin Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 22.5,
+      "lng": 51.2,
+      "country": "POL",
+      "region": "POL_Lublin"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "pol-POL_Silesia-corn",
+    "name": "POL_Silesia Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 19.0,
+      "lng": 50.3,
+      "country": "POL",
+      "region": "POL_Silesia"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "pol-POL_Kujawy-corn",
+    "name": "POL_Kujawy Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 18.5,
+      "lng": 52.5,
+      "country": "POL",
+      "region": "POL_Kujawy"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "rou-ROU_Wallachia-wheat",
+    "name": "ROU_Wallachia Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 26.0,
+      "lng": 44.0,
+      "country": "ROU",
+      "region": "ROU_Wallachia"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "hun-HUN_Great_Plain_South-corn",
+    "name": "HUN_Great_Plain_South Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 20.0,
+      "lng": 46.5,
+      "country": "HUN",
+      "region": "HUN_Great_Plain_South"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "rou-ROU_Banat-corn",
+    "name": "ROU_Banat Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 21.5,
+      "lng": 45.5,
+      "country": "ROU",
+      "region": "ROU_Banat"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "rou-ROU_Transylvania-wheat",
+    "name": "ROU_Transylvania Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 24.0,
+      "lng": 46.5,
+      "country": "ROU",
+      "region": "ROU_Transylvania"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "hun-HUN_Great_Plain_North-wheat",
+    "name": "HUN_Great_Plain_North Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 21.0,
+      "lng": 47.5,
+      "country": "HUN",
+      "region": "HUN_Great_Plain_North"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "esp-ESP_Castilla_Leon-wheat",
+    "name": "ESP_Castilla_Leon Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": -4.0,
+      "lng": 41.5,
+      "country": "ESP",
+      "region": "ESP_Castilla_Leon"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ita-ITA_Po_Valley_West-corn",
+    "name": "ITA_Po_Valley_West Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 8.5,
+      "lng": 45.0,
+      "country": "ITA",
+      "region": "ITA_Po_Valley_West"
+    },
+    "risk": 0.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "esp-ESP_Aragon-wheat",
+    "name": "ESP_Aragon Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": -0.5,
+      "lng": 41.5,
+      "country": "ESP",
+      "region": "ESP_Aragon"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "esp-ESP_Andalusia-wheat",
+    "name": "ESP_Andalusia Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": -5.0,
+      "lng": 37.5,
+      "country": "ESP",
+      "region": "ESP_Andalusia"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ita-ITA_Emilia_Romagna-wheat",
+    "name": "ITA_Emilia_Romagna Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 11.0,
+      "lng": 44.5,
+      "country": "ITA",
+      "region": "ITA_Emilia_Romagna"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "gbr-GBR_Yorkshire-wheat",
+    "name": "GBR_Yorkshire Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": -1.0,
+      "lng": 54.0,
+      "country": "GBR",
+      "region": "GBR_Yorkshire"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "ita-ITA_Puglia-wheat",
+    "name": "ITA_Puglia Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 16.5,
+      "lng": 41.0,
+      "country": "ITA",
+      "region": "ITA_Puglia"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "gbr-GBR_Lincolnshire-wheat",
+    "name": "GBR_Lincolnshire Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": -0.2,
+      "lng": 53.0,
+      "country": "GBR",
+      "region": "GBR_Lincolnshire"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "gbr-GBR_East_Anglia-wheat",
+    "name": "GBR_East_Anglia Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 1.0,
+      "lng": 52.5,
+      "country": "GBR",
+      "region": "GBR_East_Anglia"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "cze-CZE_South_Moravia-corn",
+    "name": "CZE_South_Moravia Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 16.5,
+      "lng": 49.0,
+      "country": "CZE",
+      "region": "CZE_South_Moravia"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "cze-CZE_Central_Bohemia-wheat",
+    "name": "CZE_Central_Bohemia Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 14.5,
+      "lng": 50.0,
+      "country": "CZE",
+      "region": "CZE_Central_Bohemia"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "srb-SRB_Central_Serbia-wheat",
+    "name": "SRB_Central_Serbia Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 21.0,
+      "lng": 44.0,
+      "country": "SRB",
+      "region": "SRB_Central_Serbia"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bgr-BGR_Danubian_Plain-wheat",
+    "name": "BGR_Danubian_Plain Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 25.5,
+      "lng": 43.5,
+      "country": "BGR",
+      "region": "BGR_Danubian_Plain"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "bgr-BGR_Thrace-corn",
+    "name": "BGR_Thrace Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 25.0,
+      "lng": 42.0,
+      "country": "BGR",
+      "region": "BGR_Thrace"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "srb-SRB_Vojvodina-corn",
+    "name": "SRB_Vojvodina Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 19.8,
+      "lng": 45.3,
+      "country": "SRB",
+      "region": "SRB_Vojvodina"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "grc-GRC_Central_Macedonia-corn",
+    "name": "GRC_Central_Macedonia Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 23.0,
+      "lng": 40.5,
+      "country": "GRC",
+      "region": "GRC_Central_Macedonia"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "dnk-DNK_Jutland-wheat",
+    "name": "DNK_Jutland Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 9.5,
+      "lng": 56.0,
+      "country": "DNK",
+      "region": "DNK_Jutland"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "swe-SWE_Skane-wheat",
+    "name": "SWE_Skane Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 13.5,
+      "lng": 55.8,
+      "country": "SWE",
+      "region": "SWE_Skane"
+    },
+    "risk": 0.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "fin-FIN_Varsinais_Suomi-wheat",
+    "name": "FIN_Varsinais_Suomi Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 22.5,
+      "lng": 60.5,
+      "country": "FIN",
+      "region": "FIN_Varsinais_Suomi"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "dnk-DNK_Zealand-wheat",
+    "name": "DNK_Zealand Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 12.0,
+      "lng": 55.5,
+      "country": "DNK",
+      "region": "DNK_Zealand"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "aut-AUT_Burgenland-corn",
+    "name": "AUT_Burgenland Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 16.5,
+      "lng": 47.5,
+      "country": "AUT",
+      "region": "AUT_Burgenland"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "swe-SWE_Ostergotland-wheat",
+    "name": "SWE_Ostergotland Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 15.6,
+      "lng": 58.4,
+      "country": "SWE",
+      "region": "SWE_Ostergotland"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "aut-AUT_Lower_Austria-wheat",
+    "name": "AUT_Lower_Austria Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 15.8,
+      "lng": 48.3,
+      "country": "AUT",
+      "region": "AUT_Lower_Austria"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "nld-NLD_Flevoland-wheat",
+    "name": "NLD_Flevoland Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 5.5,
+      "lng": 52.5,
+      "country": "NLD",
+      "region": "NLD_Flevoland"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bel-BEL_Wallonia-wheat",
+    "name": "BEL_Wallonia Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 4.5,
+      "lng": 50.5,
+      "country": "BEL",
+      "region": "BEL_Wallonia"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "tur-TUR_Marmara-wheat",
+    "name": "TUR_Marmara Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 29.0,
+      "lng": 40.5,
+      "country": "TUR",
+      "region": "TUR_Marmara"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bel-BEL_Flanders-wheat",
+    "name": "BEL_Flanders Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 3.5,
+      "lng": 51.0,
+      "country": "BEL",
+      "region": "BEL_Flanders"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "tur-TUR_Central_Anatolia-wheat",
+    "name": "TUR_Central_Anatolia Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 32.5,
+      "lng": 39.0,
+      "country": "TUR",
+      "region": "TUR_Central_Anatolia"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "tur-TUR_Aegean-corn",
+    "name": "TUR_Aegean Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 27.5,
+      "lng": 38.5,
+      "country": "TUR",
+      "region": "TUR_Aegean"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "irn-IRN_Fars-wheat",
+    "name": "IRN_Fars Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 52.5,
+      "lng": 29.5,
+      "country": "IRN",
+      "region": "IRN_Fars"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "irn-IRN_East_Azerbaijan-wheat",
+    "name": "IRN_East_Azerbaijan Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 46.0,
+      "lng": 38.0,
+      "country": "IRN",
+      "region": "IRN_East_Azerbaijan"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "pak-PAK_Punjab_Rice-rice",
+    "name": "PAK_Punjab_Rice Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 74.5,
+      "lng": 31.5,
+      "country": "PAK",
+      "region": "PAK_Punjab_Rice"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "pak-PAK_Punjab_North-wheat",
+    "name": "PAK_Punjab_North Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 74.0,
+      "lng": 32.0,
+      "country": "PAK",
+      "region": "PAK_Punjab_North"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "pak-PAK_Punjab_South-wheat",
+    "name": "PAK_Punjab_South Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 71.5,
+      "lng": 30.0,
+      "country": "PAK",
+      "region": "PAK_Punjab_South"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "kaz-KAZ_Kostanay-wheat",
+    "name": "KAZ_Kostanay Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 63.5,
+      "lng": 52.5,
+      "country": "KAZ",
+      "region": "KAZ_Kostanay"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "uzb-UZB_Samarkand-wheat",
+    "name": "UZB_Samarkand Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 66.96,
+      "lng": 39.65,
+      "country": "UZB",
+      "region": "UZB_Samarkand"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "bgd-BGD_Rangpur-rice",
+    "name": "BGD_Rangpur Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 89.25,
+      "lng": 25.75,
+      "country": "BGD",
+      "region": "BGD_Rangpur"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "bgd-BGD_Khulna-rice",
+    "name": "BGD_Khulna Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 89.55,
+      "lng": 22.82,
+      "country": "BGD",
+      "region": "BGD_Khulna"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "npl-NPL_Terai_East-rice",
+    "name": "NPL_Terai_East Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 87.0,
+      "lng": 26.5,
+      "country": "NPL",
+      "region": "NPL_Terai_East"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "npl-NPL_Terai_West-wheat",
+    "name": "NPL_Terai_West Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 82.0,
+      "lng": 28.0,
+      "country": "NPL",
+      "region": "NPL_Terai_West"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "lka-LKA_North_Central-rice",
+    "name": "LKA_North_Central Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 80.5,
+      "lng": 8.35,
+      "country": "LKA",
+      "region": "LKA_North_Central"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "lka-LKA_Eastern-rice",
+    "name": "LKA_Eastern Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 81.69,
+      "lng": 7.73,
+      "country": "LKA",
+      "region": "LKA_Eastern"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "pry-PRY_Caaguazu-soy",
+    "name": "PRY_Caaguazu Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -56.0,
+      "lng": -25.5,
+      "country": "PRY",
+      "region": "PRY_Caaguazu"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "pry-PRY_Alto_Parana-soy",
+    "name": "PRY_Alto_Parana Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -55.0,
+      "lng": -25.5,
+      "country": "PRY",
+      "region": "PRY_Alto_Parana"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "pry-PRY_Canindeyu-soy",
+    "name": "PRY_Canindeyu Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -55.5,
+      "lng": -24.0,
+      "country": "PRY",
+      "region": "PRY_Canindeyu"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "pry-PRY_Itapua-soy",
+    "name": "PRY_Itapua Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -55.5,
+      "lng": -27.0,
+      "country": "PRY",
+      "region": "PRY_Itapua"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ury-URY_Soriano-soy",
+    "name": "URY_Soriano Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -57.5,
+      "lng": -33.5,
+      "country": "URY",
+      "region": "URY_Soriano"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ury-URY_Paysandu-soy",
+    "name": "URY_Paysandu Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -58.0,
+      "lng": -32.3,
+      "country": "URY",
+      "region": "URY_Paysandu"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ury-URY_Rio_Negro-soy",
+    "name": "URY_Rio_Negro Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -57.5,
+      "lng": -33.0,
+      "country": "URY",
+      "region": "URY_Rio_Negro"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "col-COL_Tolima-rice",
+    "name": "COL_Tolima Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": -75.0,
+      "lng": 4.0,
+      "country": "COL",
+      "region": "COL_Tolima"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "col-COL_Meta-rice",
+    "name": "COL_Meta Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": -73.0,
+      "lng": 4.0,
+      "country": "COL",
+      "region": "COL_Meta"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "col-COL_Cordoba-corn",
+    "name": "COL_Cordoba Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -75.5,
+      "lng": 8.5,
+      "country": "COL",
+      "region": "COL_Cordoba"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "bol-BOL_Beni-soy",
+    "name": "BOL_Beni Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -65.0,
+      "lng": -14.8,
+      "country": "BOL",
+      "region": "BOL_Beni"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ven-VEN_Portuguesa-corn",
+    "name": "VEN_Portuguesa Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": -69.5,
+      "lng": 9.0,
+      "country": "VEN",
+      "region": "VEN_Portuguesa"
+    },
+    "risk": 0.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ecu-ECU_Los_Rios-rice",
+    "name": "ECU_Los_Rios Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": -79.5,
+      "lng": -1.5,
+      "country": "ECU",
+      "region": "ECU_Los_Rios"
+    },
+    "risk": 0.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "ecu-ECU_Guayas-rice",
+    "name": "ECU_Guayas Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": -79.9,
+      "lng": -2.0,
+      "country": "ECU",
+      "region": "ECU_Guayas"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "chl-CHL_OHiggins-wheat",
+    "name": "CHL_OHiggins Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": -71.0,
+      "lng": -34.5,
+      "country": "CHL",
+      "region": "CHL_OHiggins"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ven-VEN_Guarico-rice",
+    "name": "VEN_Guarico Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": -67.5,
+      "lng": 8.75,
+      "country": "VEN",
+      "region": "VEN_Guarico"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "chl-CHL_Maule-wheat",
+    "name": "CHL_Maule Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": -71.5,
+      "lng": -35.5,
+      "country": "CHL",
+      "region": "CHL_Maule"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "chl-CHL_Biobio-wheat",
+    "name": "CHL_Biobio Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": -72.5,
+      "lng": -37.0,
+      "country": "CHL",
+      "region": "CHL_Biobio"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "cub-CUB_Pinar_del_Rio-rice",
+    "name": "CUB_Pinar_del_Rio Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": -83.7,
+      "lng": 22.4,
+      "country": "CUB",
+      "region": "CUB_Pinar_del_Rio"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "nga-NGA_Niger-rice",
+    "name": "NGA_Niger Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 6.0,
+      "lng": 10.0,
+      "country": "NGA",
+      "region": "NGA_Niger"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "nga-NGA_Kebbi-rice",
+    "name": "NGA_Kebbi Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 4.2,
+      "lng": 12.5,
+      "country": "NGA",
+      "region": "NGA_Kebbi"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "nga-NGA_Plateau-corn",
+    "name": "NGA_Plateau Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 9.8,
+      "lng": 9.2,
+      "country": "NGA",
+      "region": "NGA_Plateau"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "nga-NGA_Nassarawa-corn",
+    "name": "NGA_Nassarawa Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 8.0,
+      "lng": 8.5,
+      "country": "NGA",
+      "region": "NGA_Nassarawa"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "nga-NGA_Bauchi-sorghum",
+    "name": "NGA_Bauchi Sorghum",
+    "type": "agricultural",
+    "crop": "Sorghum",
+    "location": {
+      "lat": 9.8,
+      "lng": 10.3,
+      "country": "NGA",
+      "region": "NGA_Bauchi"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "nga-NGA_Adamawa-corn",
+    "name": "NGA_Adamawa Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 12.5,
+      "lng": 9.3,
+      "country": "NGA",
+      "region": "NGA_Adamawa"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "nga-NGA_Borno-millet",
+    "name": "NGA_Borno Millet",
+    "type": "agricultural",
+    "crop": "Millet",
+    "location": {
+      "lat": 13.2,
+      "lng": 11.8,
+      "country": "NGA",
+      "region": "NGA_Borno"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "nga-NGA_Yobe-millet",
+    "name": "NGA_Yobe Millet",
+    "type": "agricultural",
+    "crop": "Millet",
+    "location": {
+      "lat": 11.5,
+      "lng": 12.0,
+      "country": "NGA",
+      "region": "NGA_Yobe"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "zaf-ZAF_Free_State_Central-corn",
+    "name": "ZAF_Free_State_Central Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 26.8,
+      "lng": -29.1,
+      "country": "ZAF",
+      "region": "ZAF_Free_State_Central"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "zaf-ZAF_Mpumalanga_East-corn",
+    "name": "ZAF_Mpumalanga_East Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 31.0,
+      "lng": -25.8,
+      "country": "ZAF",
+      "region": "ZAF_Mpumalanga_East"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "zaf-ZAF_KwaZulu_Natal_North-corn",
+    "name": "ZAF_KwaZulu_Natal_North Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 30.5,
+      "lng": -28.0,
+      "country": "ZAF",
+      "region": "ZAF_KwaZulu_Natal_North"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "zaf-ZAF_North_West_Central-corn",
+    "name": "ZAF_North_West_Central Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 25.5,
+      "lng": -26.0,
+      "country": "ZAF",
+      "region": "ZAF_North_West_Central"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "zaf-ZAF_Western_Cape_Overberg-wheat",
+    "name": "ZAF_Western_Cape_Overberg Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 19.5,
+      "lng": -34.3,
+      "country": "ZAF",
+      "region": "ZAF_Western_Cape_Overberg"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "zaf-ZAF_Western_Cape_Swartland-wheat",
+    "name": "ZAF_Western_Cape_Swartland Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 18.7,
+      "lng": -33.5,
+      "country": "ZAF",
+      "region": "ZAF_Western_Cape_Swartland"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "pak-PAK_Punjab_Lahore-wheat",
+    "name": "PAK_Punjab_Lahore Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 74.3,
+      "lng": 31.5,
+      "country": "PAK",
+      "region": "PAK_Punjab_Lahore"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "zaf-ZAF_Eastern_Cape-corn",
+    "name": "ZAF_Eastern_Cape Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 26.5,
+      "lng": -32.0,
+      "country": "ZAF",
+      "region": "ZAF_Eastern_Cape"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "pak-PAK_Punjab_Sahiwal-wheat",
+    "name": "PAK_Punjab_Sahiwal Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 73.1,
+      "lng": 30.7,
+      "country": "PAK",
+      "region": "PAK_Punjab_Sahiwal"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "pak-PAK_Punjab_Gujranwala-rice",
+    "name": "PAK_Punjab_Gujranwala Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 74.2,
+      "lng": 32.2,
+      "country": "PAK",
+      "region": "PAK_Punjab_Gujranwala"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "tur-TUR_Central_Anatolia_Ankara-wheat",
+    "name": "TUR_Central_Anatolia_Ankara Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 32.9,
+      "lng": 39.9,
+      "country": "TUR",
+      "region": "TUR_Central_Anatolia_Ankara"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "tur-TUR_Central_Anatolia_Aksaray-wheat",
+    "name": "TUR_Central_Anatolia_Aksaray Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 34.0,
+      "lng": 38.4,
+      "country": "TUR",
+      "region": "TUR_Central_Anatolia_Aksaray"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "tur-TUR_Thrace_Edirne-wheat",
+    "name": "TUR_Thrace_Edirne Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 26.6,
+      "lng": 41.7,
+      "country": "TUR",
+      "region": "TUR_Thrace_Edirne"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "deu-DEU_Bayern_South-wheat",
+    "name": "DEU_Bayern_South Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 11.6,
+      "lng": 48.1,
+      "country": "DEU",
+      "region": "DEU_Bayern_South"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "deu-DEU_Bayern_North-wheat",
+    "name": "DEU_Bayern_North Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 11.0,
+      "lng": 49.5,
+      "country": "DEU",
+      "region": "DEU_Bayern_North"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "tur-TUR_Black_Sea_Samsun-corn",
+    "name": "TUR_Black_Sea_Samsun Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 36.3,
+      "lng": 41.3,
+      "country": "TUR",
+      "region": "TUR_Black_Sea_Samsun"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "deu-DEU_Baden_Wurttemberg-wheat",
+    "name": "DEU_Baden_Wurttemberg Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 9.2,
+      "lng": 48.8,
+      "country": "DEU",
+      "region": "DEU_Baden_Wurttemberg"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "deu-DEU_Niedersachsen_West-wheat",
+    "name": "DEU_Niedersachsen_West Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 8.0,
+      "lng": 52.5,
+      "country": "DEU",
+      "region": "DEU_Niedersachsen_West"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "deu-DEU_Sachsen_Anhalt-wheat",
+    "name": "DEU_Sachsen_Anhalt Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 11.5,
+      "lng": 52.0,
+      "country": "DEU",
+      "region": "DEU_Sachsen_Anhalt"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "deu-DEU_Niedersachsen_East-wheat",
+    "name": "DEU_Niedersachsen_East Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 10.0,
+      "lng": 52.3,
+      "country": "DEU",
+      "region": "DEU_Niedersachsen_East"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "deu-DEU_Thuringen-wheat",
+    "name": "DEU_Thuringen Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 11.0,
+      "lng": 50.9,
+      "country": "DEU",
+      "region": "DEU_Thuringen"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "deu-DEU_Mecklenburg_Vorpommern-wheat",
+    "name": "DEU_Mecklenburg_Vorpommern Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 12.4,
+      "lng": 53.6,
+      "country": "DEU",
+      "region": "DEU_Mecklenburg_Vorpommern"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "egy-EGY_Beheira-wheat",
+    "name": "EGY_Beheira Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 30.4,
+      "lng": 30.8,
+      "country": "EGY",
+      "region": "EGY_Beheira"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "deu-DEU_Sachsen-wheat",
+    "name": "DEU_Sachsen Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 13.4,
+      "lng": 51.0,
+      "country": "DEU",
+      "region": "DEU_Sachsen"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "egy-EGY_Kafr_El_Sheikh-rice",
+    "name": "EGY_Kafr_El_Sheikh Rice",
+    "type": "agricultural",
+    "crop": "Rice",
+    "location": {
+      "lat": 31.0,
+      "lng": 31.3,
+      "country": "EGY",
+      "region": "EGY_Kafr_El_Sheikh"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "egy-EGY_Gharbia-wheat",
+    "name": "EGY_Gharbia Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 31.0,
+      "lng": 30.9,
+      "country": "EGY",
+      "region": "EGY_Gharbia"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "egy-EGY_Assiut-wheat",
+    "name": "EGY_Assiut Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 31.2,
+      "lng": 27.2,
+      "country": "EGY",
+      "region": "EGY_Assiut"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "egy-EGY_Beni_Suef-wheat",
+    "name": "EGY_Beni_Suef Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 31.1,
+      "lng": 29.1,
+      "country": "EGY",
+      "region": "EGY_Beni_Suef"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "egy-EGY_Sohag-wheat",
+    "name": "EGY_Sohag Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 31.7,
+      "lng": 26.6,
+      "country": "EGY",
+      "region": "EGY_Sohag"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "eth-ETH_Oromia_Bale-wheat",
+    "name": "ETH_Oromia_Bale Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 40.0,
+      "lng": 7.0,
+      "country": "ETH",
+      "region": "ETH_Oromia_Bale"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "eth-ETH_Oromia_West_Shewa-wheat",
+    "name": "ETH_Oromia_West_Shewa Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 38.0,
+      "lng": 9.0,
+      "country": "ETH",
+      "region": "ETH_Oromia_West_Shewa"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "eth-ETH_Oromia_Arsi-wheat",
+    "name": "ETH_Oromia_Arsi Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 39.5,
+      "lng": 7.5,
+      "country": "ETH",
+      "region": "ETH_Oromia_Arsi"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "eth-ETH_Oromia_East_Shewa-wheat",
+    "name": "ETH_Oromia_East_Shewa Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 39.0,
+      "lng": 8.5,
+      "country": "ETH",
+      "region": "ETH_Oromia_East_Shewa"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "egy-EGY_Luxor-wheat",
+    "name": "EGY_Luxor Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 32.6,
+      "lng": 25.7,
+      "country": "EGY",
+      "region": "EGY_Luxor"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "eth-ETH_SNNPR_Sidama-corn",
+    "name": "ETH_SNNPR_Sidama Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 38.5,
+      "lng": 6.8,
+      "country": "ETH",
+      "region": "ETH_SNNPR_Sidama"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "eth-ETH_Amhara_East_Gojjam-wheat",
+    "name": "ETH_Amhara_East_Gojjam Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 37.5,
+      "lng": 10.5,
+      "country": "ETH",
+      "region": "ETH_Amhara_East_Gojjam"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "eth-ETH_Amhara_North_Shewa-wheat",
+    "name": "ETH_Amhara_North_Shewa Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 39.5,
+      "lng": 9.7,
+      "country": "ETH",
+      "region": "ETH_Amhara_North_Shewa"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "eth-ETH_Oromia_Jimma-corn",
+    "name": "ETH_Oromia_Jimma Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 36.8,
+      "lng": 7.7,
+      "country": "ETH",
+      "region": "ETH_Oromia_Jimma"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "eth-ETH_SNNPR_Hadiya-corn",
+    "name": "ETH_SNNPR_Hadiya Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 37.8,
+      "lng": 7.5,
+      "country": "ETH",
+      "region": "ETH_SNNPR_Hadiya"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "eth-ETH_Oromia_Illubabor-corn",
+    "name": "ETH_Oromia_Illubabor Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 35.5,
+      "lng": 8.3,
+      "country": "ETH",
+      "region": "ETH_Oromia_Illubabor"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ken-KEN_Trans_Nzoia-corn",
+    "name": "KEN_Trans_Nzoia Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 35.0,
+      "lng": 1.0,
+      "country": "KEN",
+      "region": "KEN_Trans_Nzoia"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ken-KEN_Uasin_Gishu-wheat",
+    "name": "KEN_Uasin_Gishu Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 35.3,
+      "lng": 0.5,
+      "country": "KEN",
+      "region": "KEN_Uasin_Gishu"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ken-KEN_Nakuru-wheat",
+    "name": "KEN_Nakuru Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 36.1,
+      "lng": -0.3,
+      "country": "KEN",
+      "region": "KEN_Nakuru"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ken-KEN_Nyandarua-wheat",
+    "name": "KEN_Nyandarua Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 36.5,
+      "lng": -0.2,
+      "country": "KEN",
+      "region": "KEN_Nyandarua"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ken-KEN_Narok-wheat",
+    "name": "KEN_Narok Wheat",
+    "type": "agricultural",
+    "crop": "Wheat",
+    "location": {
+      "lat": 35.9,
+      "lng": -1.1,
+      "country": "KEN",
+      "region": "KEN_Narok"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ken-KEN_Kakamega-corn",
+    "name": "KEN_Kakamega Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 34.8,
+      "lng": 0.3,
+      "country": "KEN",
+      "region": "KEN_Kakamega"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ken-KEN_Bungoma-corn",
+    "name": "KEN_Bungoma Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 34.6,
+      "lng": 0.6,
+      "country": "KEN",
+      "region": "KEN_Bungoma"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ken-KEN_Kericho-corn",
+    "name": "KEN_Kericho Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 35.3,
+      "lng": -0.4,
+      "country": "KEN",
+      "region": "KEN_Kericho"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ken-KEN_Bomet-corn",
+    "name": "KEN_Bomet Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 35.3,
+      "lng": -0.8,
+      "country": "KEN",
+      "region": "KEN_Bomet"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ken-KEN_Nyamira-corn",
+    "name": "KEN_Nyamira Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 34.9,
+      "lng": -0.6,
+      "country": "KEN",
+      "region": "KEN_Nyamira"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "ken-KEN_Kisii-corn",
+    "name": "KEN_Kisii Corn",
+    "type": "agricultural",
+    "crop": "Corn",
+    "location": {
+      "lat": 34.8,
+      "lng": -0.7,
+      "country": "KEN",
+      "region": "KEN_Kisii"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_RS_Santa_Rosa-soy",
+    "name": "BRA_RS_Santa_Rosa Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -54.5,
+      "lng": -27.9,
+      "country": "BRA",
+      "region": "BRA_RS_Santa_Rosa"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_RS_Ijui-soy",
+    "name": "BRA_RS_Ijui Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -53.9,
+      "lng": -28.4,
+      "country": "BRA",
+      "region": "BRA_RS_Ijui"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_RS_Cruz_Alta-soy",
+    "name": "BRA_RS_Cruz_Alta Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -53.6,
+      "lng": -28.6,
+      "country": "BRA",
+      "region": "BRA_RS_Cruz_Alta"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_RS_Erechim-soy",
+    "name": "BRA_RS_Erechim Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -52.3,
+      "lng": -27.6,
+      "country": "BRA",
+      "region": "BRA_RS_Erechim"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_PR_Toledo-soy",
+    "name": "BRA_PR_Toledo Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -53.7,
+      "lng": -24.7,
+      "country": "BRA",
+      "region": "BRA_PR_Toledo"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_PR_Cascavel-soy",
+    "name": "BRA_PR_Cascavel Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -53.5,
+      "lng": -24.9,
+      "country": "BRA",
+      "region": "BRA_PR_Cascavel"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_MT_Primavera-soy",
+    "name": "BRA_MT_Primavera Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -54.3,
+      "lng": -15.5,
+      "country": "BRA",
+      "region": "BRA_MT_Primavera"
+    },
+    "risk": 0.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_MT_Campo_Novo-soy",
+    "name": "BRA_MT_Campo_Novo Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -59.8,
+      "lng": -13.7,
+      "country": "BRA",
+      "region": "BRA_MT_Campo_Novo"
+    },
+    "risk": 0.0,
+    "confidence": 79,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_PR_Maringa-soy",
+    "name": "BRA_PR_Maringa Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -51.9,
+      "lng": -23.4,
+      "country": "BRA",
+      "region": "BRA_PR_Maringa"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_MT_Nova_Mutum-soy",
+    "name": "BRA_MT_Nova_Mutum Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -56.1,
+      "lng": -13.8,
+      "country": "BRA",
+      "region": "BRA_MT_Nova_Mutum"
+    },
+    "risk": 0.0,
+    "confidence": 82,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_MT_Tangara-soy",
+    "name": "BRA_MT_Tangara Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -57.5,
+      "lng": -14.6,
+      "country": "BRA",
+      "region": "BRA_MT_Tangara"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_GO_Itumbiara-soy",
+    "name": "BRA_GO_Itumbiara Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -49.2,
+      "lng": -18.4,
+      "country": "BRA",
+      "region": "BRA_GO_Itumbiara"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_GO_Jatai-soy",
+    "name": "BRA_GO_Jatai Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -51.7,
+      "lng": -17.9,
+      "country": "BRA",
+      "region": "BRA_GO_Jatai"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_MS_Dourados-soy",
+    "name": "BRA_MS_Dourados Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -54.8,
+      "lng": -22.2,
+      "country": "BRA",
+      "region": "BRA_MS_Dourados"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_BA_Barreiras-soy",
+    "name": "BRA_BA_Barreiras Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -45.0,
+      "lng": -12.1,
+      "country": "BRA",
+      "region": "BRA_BA_Barreiras"
+    },
+    "risk": 0.0,
+    "confidence": 85,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_MS_Ponta_Pora-soy",
+    "name": "BRA_MS_Ponta_Pora Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -55.7,
+      "lng": -22.5,
+      "country": "BRA",
+      "region": "BRA_MS_Ponta_Pora"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_MS_Maracaju-soy",
+    "name": "BRA_MS_Maracaju Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -55.2,
+      "lng": -21.6,
+      "country": "BRA",
+      "region": "BRA_MS_Maracaju"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_MG_Uberaba-soy",
+    "name": "BRA_MG_Uberaba Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -47.9,
+      "lng": -19.7,
+      "country": "BRA",
+      "region": "BRA_MG_Uberaba"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "bra-BRA_MG_Patos-soy",
+    "name": "BRA_MG_Patos Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -46.5,
+      "lng": -18.6,
+      "country": "BRA",
+      "region": "BRA_MG_Patos"
+    },
+    "risk": 0.0,
+    "confidence": 88,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_BA_Rojas-soy",
+    "name": "ARG_BA_Rojas Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -60.7,
+      "lng": -34.2,
+      "country": "ARG",
+      "region": "ARG_BA_Rojas"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_ER_Gualeguay-soy",
+    "name": "ARG_ER_Gualeguay Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -59.3,
+      "lng": -33.1,
+      "country": "ARG",
+      "region": "ARG_ER_Gualeguay"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_ER_Nogoya-soy",
+    "name": "ARG_ER_Nogoya Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -59.8,
+      "lng": -32.4,
+      "country": "ARG",
+      "region": "ARG_ER_Nogoya"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  },
+  {
+    "id": "arg-ARG_SF_Castellanos-soy",
+    "name": "ARG_SF_Castellanos Soy",
+    "type": "agricultural",
+    "crop": "Soy",
+    "location": {
+      "lat": -61.5,
+      "lng": -31.3,
+      "country": "ARG",
+      "region": "ARG_SF_Castellanos"
+    },
+    "risk": 0.0,
+    "confidence": 91,
+    "dataSource": "model"
+  }
+]

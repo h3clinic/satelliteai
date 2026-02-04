@@ -1,0 +1,26 @@
+{
+  "methodology": "XGBoost classifier on Sentinel-2 NDVI time series",
+  "data_source": "Microsoft Planetary Computer (Sentinel-2 L2A)",
+  "time_period": "2020-2023",
+  "total_observations": 21347,
+  "total_predictions": 3087,
+  "countries": 84,
+  "crops": [
+    "sugarcane",
+    "cotton",
+    "millet",
+    "wheat",
+    "soy",
+    "groundnut",
+    "rice",
+    "sorghum",
+    "corn"
+  ],
+  "overall_stress_rate": "19.2%",
+  "model_accuracy": "99.8% (5-fold CV)",
+  "2023_statistics": {
+    "predictions": 742,
+    "high_risk_regions": 217,
+    "countries_analyzed": 84
+  }
+}

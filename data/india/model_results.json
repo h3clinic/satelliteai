@@ -1,0 +1,53 @@
+{
+  "country": "India",
+  "model": "LogisticRegression",
+  "loyo_auroc": NaN,
+  "loyo_auprc": 0.0,
+  "loso_auroc": 0.9122596153846154,
+  "n_samples": 108,
+  "n_stress": 4,
+  "n_states": 8,
+  "n_features": 28,
+  "top_features": [
+    [
+      "ndvi_spatial_std",
+      -0.5813696392314099
+    ],
+    [
+      "ndvi_min",
+      -0.466971141300612
+    ],
+    [
+      "wx_prectotcorr_min",
+      0.42299539143187315
+    ],
+    [
+      "wx_rh2m_anom",
+      0.3106987602330247
+    ],
+    [
+      "wx_rh2m_mean",
+      0.29686303039424794
+    ],
+    [
+      "wx_prectotcorr_anom",
+      0.2915098138454121
+    ],
+    [
+      "wx_prectotcorr_mean",
+      0.2600804962069181
+    ],
+    [
+      "wx_rh2m_min",
+      0.25796942938677964
+    ],
+    [
+      "ndvi_max",
+      -0.2549235958351249
+    ],
+    [
+      "ndvi_mean",
+      -0.23695583080861726
+    ]
+  ]
+}

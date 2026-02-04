@@ -1,0 +1,2162 @@
+[
+  {
+    "region_id": "BRA_MATOGROSSO",
+    "year": 2019,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 3206,
+    "baseline": 3108.8,
+    "anomaly_pct": 3.1,
+    "threshold": 10
+  },
+  {
+    "region_id": "BRA_MATOGROSSO",
+    "year": 2020,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 3289,
+    "baseline": 3177.0,
+    "anomaly_pct": 3.5,
+    "threshold": 10
+  },
+  {
+    "region_id": "BRA_MATOGROSSO",
+    "year": 2021,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 3351,
+    "baseline": 3229.0,
+    "anomaly_pct": 3.8,
+    "threshold": 10
+  },
+  {
+    "region_id": "BRA_MATOGROSSO",
+    "year": 2022,
+    "crop": "Soy",
+    "label": 1,
+    "actual_yield": 2990,
+    "baseline": 3325.2,
+    "anomaly_pct": -10.1,
+    "threshold": 10
+  },
+  {
+    "region_id": "BRA_MATOGROSSO",
+    "year": 2023,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 3450,
+    "baseline": 3244.4,
+    "anomaly_pct": 6.3,
+    "threshold": 10
+  },
+  {
+    "region_id": "BRA_MATOGROSSO",
+    "year": 2024,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 3380,
+    "baseline": 3257.2,
+    "anomaly_pct": 3.8,
+    "threshold": 10
+  },
+  {
+    "region_id": "BRA_PARANA",
+    "year": 2019,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 3206,
+    "baseline": 3108.8,
+    "anomaly_pct": 3.1,
+    "threshold": 10
+  },
+  {
+    "region_id": "BRA_PARANA",
+    "year": 2020,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 3289,
+    "baseline": 3177.0,
+    "anomaly_pct": 3.5,
+    "threshold": 10
+  },
+  {
+    "region_id": "BRA_PARANA",
+    "year": 2021,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 3351,
+    "baseline": 3229.0,
+    "anomaly_pct": 3.8,
+    "threshold": 10
+  },
+  {
+    "region_id": "BRA_PARANA",
+    "year": 2022,
+    "crop": "Soy",
+    "label": 1,
+    "actual_yield": 2990,
+    "baseline": 3325.2,
+    "anomaly_pct": -10.1,
+    "threshold": 10
+  },
+  {
+    "region_id": "BRA_PARANA",
+    "year": 2023,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 3450,
+    "baseline": 3244.4,
+    "anomaly_pct": 6.3,
+    "threshold": 10
+  },
+  {
+    "region_id": "BRA_PARANA",
+    "year": 2024,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 3380,
+    "baseline": 3257.2,
+    "anomaly_pct": 3.8,
+    "threshold": 10
+  },
+  {
+    "region_id": "BRA_RS_SOY",
+    "year": 2019,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 3206,
+    "baseline": 3108.8,
+    "anomaly_pct": 3.1,
+    "threshold": 12
+  },
+  {
+    "region_id": "BRA_RS_SOY",
+    "year": 2020,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 3289,
+    "baseline": 3177.0,
+    "anomaly_pct": 3.5,
+    "threshold": 12
+  },
+  {
+    "region_id": "BRA_RS_SOY",
+    "year": 2021,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 3351,
+    "baseline": 3229.0,
+    "anomaly_pct": 3.8,
+    "threshold": 12
+  },
+  {
+    "region_id": "BRA_RS_SOY",
+    "year": 2022,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 2990,
+    "baseline": 3325.2,
+    "anomaly_pct": -10.1,
+    "threshold": 12
+  },
+  {
+    "region_id": "BRA_RS_SOY",
+    "year": 2023,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 3450,
+    "baseline": 3244.4,
+    "anomaly_pct": 6.3,
+    "threshold": 12
+  },
+  {
+    "region_id": "BRA_RS_SOY",
+    "year": 2024,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 3380,
+    "baseline": 3257.2,
+    "anomaly_pct": 3.8,
+    "threshold": 12
+  },
+  {
+    "region_id": "ARG_PAMPA",
+    "year": 2019,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 3100,
+    "baseline": 2826.0,
+    "anomaly_pct": 9.7,
+    "threshold": 15
+  },
+  {
+    "region_id": "ARG_PAMPA",
+    "year": 2020,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 2900,
+    "baseline": 2890.0,
+    "anomaly_pct": 0.3,
+    "threshold": 15
+  },
+  {
+    "region_id": "ARG_PAMPA",
+    "year": 2021,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 2750,
+    "baseline": 2880.0,
+    "anomaly_pct": -4.5,
+    "threshold": 15
+  },
+  {
+    "region_id": "ARG_PAMPA",
+    "year": 2022,
+    "crop": "Soy",
+    "label": 1,
+    "actual_yield": 1450,
+    "baseline": 2828.0,
+    "anomaly_pct": -48.7,
+    "threshold": 15
+  },
+  {
+    "region_id": "ARG_PAMPA",
+    "year": 2023,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 2200,
+    "baseline": 2476.0,
+    "anomaly_pct": -11.1,
+    "threshold": 15
+  },
+  {
+    "region_id": "ARG_PAMPA",
+    "year": 2024,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 3100,
+    "baseline": 2480.0,
+    "anomaly_pct": 25.0,
+    "threshold": 15
+  },
+  {
+    "region_id": "ARG_CORDOBA",
+    "year": 2019,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 8200,
+    "baseline": 7160.0,
+    "anomaly_pct": 14.5,
+    "threshold": 12
+  },
+  {
+    "region_id": "ARG_CORDOBA",
+    "year": 2020,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 7500,
+    "baseline": 7360.0,
+    "anomaly_pct": 1.9,
+    "threshold": 12
+  },
+  {
+    "region_id": "ARG_CORDOBA",
+    "year": 2021,
+    "crop": "Corn",
+    "label": 1,
+    "actual_yield": 6200,
+    "baseline": 7500.0,
+    "anomaly_pct": -17.3,
+    "threshold": 12
+  },
+  {
+    "region_id": "ARG_CORDOBA",
+    "year": 2022,
+    "crop": "Corn",
+    "label": 1,
+    "actual_yield": 5100,
+    "baseline": 7360.0,
+    "anomaly_pct": -30.7,
+    "threshold": 12
+  },
+  {
+    "region_id": "ARG_CORDOBA",
+    "year": 2023,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 6800,
+    "baseline": 6820.0,
+    "anomaly_pct": -0.3,
+    "threshold": 12
+  },
+  {
+    "region_id": "ARG_CORDOBA",
+    "year": 2024,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 7400,
+    "baseline": 6760.0,
+    "anomaly_pct": 9.5,
+    "threshold": 12
+  },
+  {
+    "region_id": "UKR_SOUTH",
+    "year": 2019,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 4132,
+    "baseline": 3999.2,
+    "anomaly_pct": 3.3,
+    "threshold": 12
+  },
+  {
+    "region_id": "UKR_SOUTH",
+    "year": 2020,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3788,
+    "baseline": 4022.8,
+    "anomaly_pct": -5.8,
+    "threshold": 12
+  },
+  {
+    "region_id": "UKR_SOUTH",
+    "year": 2021,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 4426,
+    "baseline": 4004.0,
+    "anomaly_pct": 10.5,
+    "threshold": 12
+  },
+  {
+    "region_id": "UKR_SOUTH",
+    "year": 2022,
+    "crop": "Wheat",
+    "label": 1,
+    "actual_yield": 3200,
+    "baseline": 4042.8,
+    "anomaly_pct": -20.8,
+    "threshold": 12
+  },
+  {
+    "region_id": "UKR_SOUTH",
+    "year": 2023,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3400,
+    "baseline": 3860.0,
+    "anomaly_pct": -11.9,
+    "threshold": 12
+  },
+  {
+    "region_id": "UKR_SOUTH",
+    "year": 2024,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3600,
+    "baseline": 3789.2,
+    "anomaly_pct": -5.0,
+    "threshold": 12
+  },
+  {
+    "region_id": "UKR_CENTRAL",
+    "year": 2019,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 7200,
+    "baseline": 6364.0,
+    "anomaly_pct": 13.1,
+    "threshold": 15
+  },
+  {
+    "region_id": "UKR_CENTRAL",
+    "year": 2020,
+    "crop": "Corn",
+    "label": 1,
+    "actual_yield": 5450,
+    "baseline": 6578.0,
+    "anomaly_pct": -17.1,
+    "threshold": 15
+  },
+  {
+    "region_id": "UKR_CENTRAL",
+    "year": 2021,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 8020,
+    "baseline": 6526.0,
+    "anomaly_pct": 22.9,
+    "threshold": 15
+  },
+  {
+    "region_id": "UKR_CENTRAL",
+    "year": 2022,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 5800,
+    "baseline": 6808.0,
+    "anomaly_pct": -14.8,
+    "threshold": 15
+  },
+  {
+    "region_id": "UKR_CENTRAL",
+    "year": 2023,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 6200,
+    "baseline": 6862.0,
+    "anomaly_pct": -9.6,
+    "threshold": 15
+  },
+  {
+    "region_id": "UKR_CENTRAL",
+    "year": 2024,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 6500,
+    "baseline": 6534.0,
+    "anomaly_pct": -0.5,
+    "threshold": 15
+  },
+  {
+    "region_id": "FRA_BEAUCE",
+    "year": 2019,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 7619,
+    "baseline": 6893.2,
+    "anomaly_pct": 10.5,
+    "threshold": 10
+  },
+  {
+    "region_id": "FRA_BEAUCE",
+    "year": 2020,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 6760,
+    "baseline": 6944.0,
+    "anomaly_pct": -2.6,
+    "threshold": 10
+  },
+  {
+    "region_id": "FRA_BEAUCE",
+    "year": 2021,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 7152,
+    "baseline": 6783.8,
+    "anomaly_pct": 5.4,
+    "threshold": 10
+  },
+  {
+    "region_id": "FRA_BEAUCE",
+    "year": 2022,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 7044,
+    "baseline": 7141.4,
+    "anomaly_pct": -1.4,
+    "threshold": 10
+  },
+  {
+    "region_id": "FRA_BEAUCE",
+    "year": 2023,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 6700,
+    "baseline": 7098.0,
+    "anomaly_pct": -5.6,
+    "threshold": 10
+  },
+  {
+    "region_id": "FRA_BEAUCE",
+    "year": 2024,
+    "crop": "Wheat",
+    "label": 1,
+    "actual_yield": 6200,
+    "baseline": 7055.0,
+    "anomaly_pct": -12.1,
+    "threshold": 10
+  },
+  {
+    "region_id": "DEU_BAVARIA",
+    "year": 2019,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 7500,
+    "baseline": 7800.0,
+    "anomaly_pct": -3.8,
+    "threshold": 10
+  },
+  {
+    "region_id": "DEU_BAVARIA",
+    "year": 2020,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 7800,
+    "baseline": 7580.0,
+    "anomaly_pct": 2.9,
+    "threshold": 10
+  },
+  {
+    "region_id": "DEU_BAVARIA",
+    "year": 2021,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 7200,
+    "baseline": 7520.0,
+    "anomaly_pct": -4.3,
+    "threshold": 10
+  },
+  {
+    "region_id": "DEU_BAVARIA",
+    "year": 2022,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 7500,
+    "baseline": 7380.0,
+    "anomaly_pct": 1.6,
+    "threshold": 10
+  },
+  {
+    "region_id": "DEU_BAVARIA",
+    "year": 2023,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 7600,
+    "baseline": 7340.0,
+    "anomaly_pct": 3.5,
+    "threshold": 10
+  },
+  {
+    "region_id": "DEU_BAVARIA",
+    "year": 2024,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 7200,
+    "baseline": 7520.0,
+    "anomaly_pct": -4.3,
+    "threshold": 10
+  },
+  {
+    "region_id": "POL_CENTRAL",
+    "year": 2019,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 4500,
+    "baseline": 4300.0,
+    "anomaly_pct": 4.7,
+    "threshold": 12
+  },
+  {
+    "region_id": "POL_CENTRAL",
+    "year": 2020,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 4900,
+    "baseline": 4300.0,
+    "anomaly_pct": 14.0,
+    "threshold": 12
+  },
+  {
+    "region_id": "POL_CENTRAL",
+    "year": 2021,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 5200,
+    "baseline": 4460.0,
+    "anomaly_pct": 16.6,
+    "threshold": 12
+  },
+  {
+    "region_id": "POL_CENTRAL",
+    "year": 2022,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 5100,
+    "baseline": 4660.0,
+    "anomaly_pct": 9.4,
+    "threshold": 12
+  },
+  {
+    "region_id": "POL_CENTRAL",
+    "year": 2023,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 4800,
+    "baseline": 4720.0,
+    "anomaly_pct": 1.7,
+    "threshold": 12
+  },
+  {
+    "region_id": "POL_CENTRAL",
+    "year": 2024,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 4600,
+    "baseline": 4900.0,
+    "anomaly_pct": -6.1,
+    "threshold": 12
+  },
+  {
+    "region_id": "ROU_SOUTH",
+    "year": 2019,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 4300,
+    "baseline": 4140.0,
+    "anomaly_pct": 3.9,
+    "threshold": 15
+  },
+  {
+    "region_id": "ROU_SOUTH",
+    "year": 2020,
+    "crop": "Wheat",
+    "label": 1,
+    "actual_yield": 3400,
+    "baseline": 4240.0,
+    "anomaly_pct": -19.8,
+    "threshold": 15
+  },
+  {
+    "region_id": "ROU_SOUTH",
+    "year": 2021,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 5200,
+    "baseline": 4140.0,
+    "anomaly_pct": 25.6,
+    "threshold": 15
+  },
+  {
+    "region_id": "ROU_SOUTH",
+    "year": 2022,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 4100,
+    "baseline": 4440.0,
+    "anomaly_pct": -7.7,
+    "threshold": 15
+  },
+  {
+    "region_id": "ROU_SOUTH",
+    "year": 2023,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 4500,
+    "baseline": 4360.0,
+    "anomaly_pct": 3.2,
+    "threshold": 15
+  },
+  {
+    "region_id": "ROU_SOUTH",
+    "year": 2024,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 4200,
+    "baseline": 4300.0,
+    "anomaly_pct": -2.3,
+    "threshold": 15
+  },
+  {
+    "region_id": "RUS_KRASNODAR",
+    "year": 2019,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2700,
+    "baseline": 2686.0,
+    "anomaly_pct": 0.5,
+    "threshold": 12
+  },
+  {
+    "region_id": "RUS_KRASNODAR",
+    "year": 2020,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2870,
+    "baseline": 2724.0,
+    "anomaly_pct": 5.4,
+    "threshold": 12
+  },
+  {
+    "region_id": "RUS_KRASNODAR",
+    "year": 2021,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2650,
+    "baseline": 2822.0,
+    "anomaly_pct": -6.1,
+    "threshold": 12
+  },
+  {
+    "region_id": "RUS_KRASNODAR",
+    "year": 2022,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3250,
+    "baseline": 2816.0,
+    "anomaly_pct": 15.4,
+    "threshold": 12
+  },
+  {
+    "region_id": "RUS_KRASNODAR",
+    "year": 2023,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3100,
+    "baseline": 2838.0,
+    "anomaly_pct": 9.2,
+    "threshold": 12
+  },
+  {
+    "region_id": "RUS_KRASNODAR",
+    "year": 2024,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2900,
+    "baseline": 2914.0,
+    "anomaly_pct": -0.5,
+    "threshold": 12
+  },
+  {
+    "region_id": "RUS_ROSTOV",
+    "year": 2019,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2700,
+    "baseline": 2686.0,
+    "anomaly_pct": 0.5,
+    "threshold": 12
+  },
+  {
+    "region_id": "RUS_ROSTOV",
+    "year": 2020,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2870,
+    "baseline": 2724.0,
+    "anomaly_pct": 5.4,
+    "threshold": 12
+  },
+  {
+    "region_id": "RUS_ROSTOV",
+    "year": 2021,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2650,
+    "baseline": 2822.0,
+    "anomaly_pct": -6.1,
+    "threshold": 12
+  },
+  {
+    "region_id": "RUS_ROSTOV",
+    "year": 2022,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3250,
+    "baseline": 2816.0,
+    "anomaly_pct": 15.4,
+    "threshold": 12
+  },
+  {
+    "region_id": "RUS_ROSTOV",
+    "year": 2023,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3100,
+    "baseline": 2838.0,
+    "anomaly_pct": 9.2,
+    "threshold": 12
+  },
+  {
+    "region_id": "RUS_ROSTOV",
+    "year": 2024,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2900,
+    "baseline": 2914.0,
+    "anomaly_pct": -0.5,
+    "threshold": 12
+  },
+  {
+    "region_id": "IND_PUNJAB",
+    "year": 2019,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3507,
+    "baseline": 3105.4,
+    "anomaly_pct": 12.9,
+    "threshold": 10
+  },
+  {
+    "region_id": "IND_PUNJAB",
+    "year": 2020,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3484,
+    "baseline": 3200.0,
+    "anomaly_pct": 8.9,
+    "threshold": 10
+  },
+  {
+    "region_id": "IND_PUNJAB",
+    "year": 2021,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3508,
+    "baseline": 3322.4,
+    "anomaly_pct": 5.6,
+    "threshold": 10
+  },
+  {
+    "region_id": "IND_PUNJAB",
+    "year": 2022,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3100,
+    "baseline": 3417.2,
+    "anomaly_pct": -9.3,
+    "threshold": 10
+  },
+  {
+    "region_id": "IND_PUNJAB",
+    "year": 2023,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3450,
+    "baseline": 3394.0,
+    "anomaly_pct": 1.6,
+    "threshold": 10
+  },
+  {
+    "region_id": "IND_PUNJAB",
+    "year": 2024,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3300,
+    "baseline": 3409.8,
+    "anomaly_pct": -3.2,
+    "threshold": 10
+  },
+  {
+    "region_id": "IND_HARYANA",
+    "year": 2019,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3507,
+    "baseline": 3105.4,
+    "anomaly_pct": 12.9,
+    "threshold": 10
+  },
+  {
+    "region_id": "IND_HARYANA",
+    "year": 2020,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3484,
+    "baseline": 3200.0,
+    "anomaly_pct": 8.9,
+    "threshold": 10
+  },
+  {
+    "region_id": "IND_HARYANA",
+    "year": 2021,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3508,
+    "baseline": 3322.4,
+    "anomaly_pct": 5.6,
+    "threshold": 10
+  },
+  {
+    "region_id": "IND_HARYANA",
+    "year": 2022,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3100,
+    "baseline": 3417.2,
+    "anomaly_pct": -9.3,
+    "threshold": 10
+  },
+  {
+    "region_id": "IND_HARYANA",
+    "year": 2023,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3450,
+    "baseline": 3394.0,
+    "anomaly_pct": 1.6,
+    "threshold": 10
+  },
+  {
+    "region_id": "IND_HARYANA",
+    "year": 2024,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3300,
+    "baseline": 3409.8,
+    "anomaly_pct": -3.2,
+    "threshold": 10
+  },
+  {
+    "region_id": "IND_UP_RICE",
+    "year": 2019,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 2659,
+    "baseline": 2518.8,
+    "anomaly_pct": 5.6,
+    "threshold": 8
+  },
+  {
+    "region_id": "IND_UP_RICE",
+    "year": 2020,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 2712,
+    "baseline": 2572.6,
+    "anomaly_pct": 5.4,
+    "threshold": 8
+  },
+  {
+    "region_id": "IND_UP_RICE",
+    "year": 2021,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 2809,
+    "baseline": 2635.0,
+    "anomaly_pct": 6.6,
+    "threshold": 8
+  },
+  {
+    "region_id": "IND_UP_RICE",
+    "year": 2022,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 2750,
+    "baseline": 2680.8,
+    "anomaly_pct": 2.6,
+    "threshold": 8
+  },
+  {
+    "region_id": "IND_UP_RICE",
+    "year": 2023,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 2850,
+    "baseline": 2713.6,
+    "anomaly_pct": 5.0,
+    "threshold": 8
+  },
+  {
+    "region_id": "IND_UP_RICE",
+    "year": 2024,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 2900,
+    "baseline": 2756.0,
+    "anomaly_pct": 5.2,
+    "threshold": 8
+  },
+  {
+    "region_id": "IND_GUJARAT",
+    "year": 2019,
+    "crop": "Cotton",
+    "label": 0,
+    "actual_yield": 460,
+    "baseline": 502.0,
+    "anomaly_pct": -8.4,
+    "threshold": 15
+  },
+  {
+    "region_id": "IND_GUJARAT",
+    "year": 2020,
+    "crop": "Cotton",
+    "label": 0,
+    "actual_yield": 480,
+    "baseline": 492.0,
+    "anomaly_pct": -2.4,
+    "threshold": 15
+  },
+  {
+    "region_id": "IND_GUJARAT",
+    "year": 2021,
+    "crop": "Cotton",
+    "label": 0,
+    "actual_yield": 440,
+    "baseline": 492.0,
+    "anomaly_pct": -10.6,
+    "threshold": 15
+  },
+  {
+    "region_id": "IND_GUJARAT",
+    "year": 2022,
+    "crop": "Cotton",
+    "label": 0,
+    "actual_yield": 410,
+    "baseline": 478.0,
+    "anomaly_pct": -14.2,
+    "threshold": 15
+  },
+  {
+    "region_id": "IND_GUJARAT",
+    "year": 2023,
+    "crop": "Cotton",
+    "label": 0,
+    "actual_yield": 450,
+    "baseline": 448.0,
+    "anomaly_pct": 0.4,
+    "threshold": 15
+  },
+  {
+    "region_id": "IND_GUJARAT",
+    "year": 2024,
+    "crop": "Cotton",
+    "label": 0,
+    "actual_yield": 480,
+    "baseline": 448.0,
+    "anomaly_pct": 7.1,
+    "threshold": 15
+  },
+  {
+    "region_id": "CHN_HEILONGJIANG",
+    "year": 2019,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 1920,
+    "baseline": 1846.0,
+    "anomaly_pct": 4.0,
+    "threshold": 10
+  },
+  {
+    "region_id": "CHN_HEILONGJIANG",
+    "year": 2020,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 1980,
+    "baseline": 1870.0,
+    "anomaly_pct": 5.9,
+    "threshold": 10
+  },
+  {
+    "region_id": "CHN_HEILONGJIANG",
+    "year": 2021,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 1950,
+    "baseline": 1896.0,
+    "anomaly_pct": 2.8,
+    "threshold": 10
+  },
+  {
+    "region_id": "CHN_HEILONGJIANG",
+    "year": 2022,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 2050,
+    "baseline": 1922.0,
+    "anomaly_pct": 6.7,
+    "threshold": 10
+  },
+  {
+    "region_id": "CHN_HEILONGJIANG",
+    "year": 2023,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 2100,
+    "baseline": 1952.0,
+    "anomaly_pct": 7.6,
+    "threshold": 10
+  },
+  {
+    "region_id": "CHN_HEILONGJIANG",
+    "year": 2024,
+    "crop": "Soy",
+    "label": 0,
+    "actual_yield": 2080,
+    "baseline": 2000.0,
+    "anomaly_pct": 4.0,
+    "threshold": 10
+  },
+  {
+    "region_id": "CHN_HENAN",
+    "year": 2019,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 5600,
+    "baseline": 5300.0,
+    "anomaly_pct": 5.7,
+    "threshold": 8
+  },
+  {
+    "region_id": "CHN_HENAN",
+    "year": 2020,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 5700,
+    "baseline": 5400.0,
+    "anomaly_pct": 5.6,
+    "threshold": 8
+  },
+  {
+    "region_id": "CHN_HENAN",
+    "year": 2021,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 5800,
+    "baseline": 5500.0,
+    "anomaly_pct": 5.5,
+    "threshold": 8
+  },
+  {
+    "region_id": "CHN_HENAN",
+    "year": 2022,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 5400,
+    "baseline": 5600.0,
+    "anomaly_pct": -3.6,
+    "threshold": 8
+  },
+  {
+    "region_id": "CHN_HENAN",
+    "year": 2023,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 5900,
+    "baseline": 5600.0,
+    "anomaly_pct": 5.4,
+    "threshold": 8
+  },
+  {
+    "region_id": "CHN_HENAN",
+    "year": 2024,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 5700,
+    "baseline": 5680.0,
+    "anomaly_pct": 0.4,
+    "threshold": 8
+  },
+  {
+    "region_id": "CHN_JILIN",
+    "year": 2019,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 6200,
+    "baseline": 6300.0,
+    "anomaly_pct": -1.6,
+    "threshold": 10
+  },
+  {
+    "region_id": "CHN_JILIN",
+    "year": 2020,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 6600,
+    "baseline": 6300.0,
+    "anomaly_pct": 4.8,
+    "threshold": 10
+  },
+  {
+    "region_id": "CHN_JILIN",
+    "year": 2021,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 6800,
+    "baseline": 6360.0,
+    "anomaly_pct": 6.9,
+    "threshold": 10
+  },
+  {
+    "region_id": "CHN_JILIN",
+    "year": 2022,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 6400,
+    "baseline": 6500.0,
+    "anomaly_pct": -1.5,
+    "threshold": 10
+  },
+  {
+    "region_id": "CHN_JILIN",
+    "year": 2023,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 6700,
+    "baseline": 6500.0,
+    "anomaly_pct": 3.1,
+    "threshold": 10
+  },
+  {
+    "region_id": "CHN_JILIN",
+    "year": 2024,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 6600,
+    "baseline": 6540.0,
+    "anomaly_pct": 0.9,
+    "threshold": 10
+  },
+  {
+    "region_id": "VNM_MEKONG",
+    "year": 2019,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 5820,
+    "baseline": 5690.0,
+    "anomaly_pct": 2.3,
+    "threshold": 8
+  },
+  {
+    "region_id": "VNM_MEKONG",
+    "year": 2020,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 5900,
+    "baseline": 5704.0,
+    "anomaly_pct": 3.4,
+    "threshold": 8
+  },
+  {
+    "region_id": "VNM_MEKONG",
+    "year": 2021,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 5950,
+    "baseline": 5730.0,
+    "anomaly_pct": 3.8,
+    "threshold": 8
+  },
+  {
+    "region_id": "VNM_MEKONG",
+    "year": 2022,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 5600,
+    "baseline": 5804.0,
+    "anomaly_pct": -3.5,
+    "threshold": 8
+  },
+  {
+    "region_id": "VNM_MEKONG",
+    "year": 2023,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 5800,
+    "baseline": 5814.0,
+    "anomaly_pct": -0.2,
+    "threshold": 8
+  },
+  {
+    "region_id": "VNM_MEKONG",
+    "year": 2024,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 5700,
+    "baseline": 5814.0,
+    "anomaly_pct": -2.0,
+    "threshold": 8
+  },
+  {
+    "region_id": "THA_CENTRAL",
+    "year": 2019,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 2680,
+    "baseline": 2926.0,
+    "anomaly_pct": -8.4,
+    "threshold": 10
+  },
+  {
+    "region_id": "THA_CENTRAL",
+    "year": 2020,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 2900,
+    "baseline": 2872.0,
+    "anomaly_pct": 1.0,
+    "threshold": 10
+  },
+  {
+    "region_id": "THA_CENTRAL",
+    "year": 2021,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 2980,
+    "baseline": 2882.0,
+    "anomaly_pct": 3.4,
+    "threshold": 10
+  },
+  {
+    "region_id": "THA_CENTRAL",
+    "year": 2022,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 2700,
+    "baseline": 2902.0,
+    "anomaly_pct": -7.0,
+    "threshold": 10
+  },
+  {
+    "region_id": "THA_CENTRAL",
+    "year": 2023,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 2650,
+    "baseline": 2852.0,
+    "anomaly_pct": -7.1,
+    "threshold": 10
+  },
+  {
+    "region_id": "THA_CENTRAL",
+    "year": 2024,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 2600,
+    "baseline": 2782.0,
+    "anomaly_pct": -6.5,
+    "threshold": 10
+  },
+  {
+    "region_id": "PAK_PUNJAB",
+    "year": 2019,
+    "crop": "Cotton",
+    "label": 1,
+    "actual_yield": 520,
+    "baseline": 662.0,
+    "anomaly_pct": -21.5,
+    "threshold": 15
+  },
+  {
+    "region_id": "PAK_PUNJAB",
+    "year": 2020,
+    "crop": "Cotton",
+    "label": 1,
+    "actual_yield": 480,
+    "baseline": 622.0,
+    "anomaly_pct": -22.8,
+    "threshold": 15
+  },
+  {
+    "region_id": "PAK_PUNJAB",
+    "year": 2021,
+    "crop": "Cotton",
+    "label": 0,
+    "actual_yield": 510,
+    "baseline": 582.0,
+    "anomaly_pct": -12.4,
+    "threshold": 15
+  },
+  {
+    "region_id": "PAK_PUNJAB",
+    "year": 2022,
+    "crop": "Cotton",
+    "label": 1,
+    "actual_yield": 380,
+    "baseline": 556.0,
+    "anomaly_pct": -31.7,
+    "threshold": 15
+  },
+  {
+    "region_id": "PAK_PUNJAB",
+    "year": 2023,
+    "crop": "Cotton",
+    "label": 0,
+    "actual_yield": 520,
+    "baseline": 502.0,
+    "anomaly_pct": 3.6,
+    "threshold": 15
+  },
+  {
+    "region_id": "PAK_PUNJAB",
+    "year": 2024,
+    "crop": "Cotton",
+    "label": 0,
+    "actual_yield": 550,
+    "baseline": 482.0,
+    "anomaly_pct": 14.1,
+    "threshold": 15
+  },
+  {
+    "region_id": "BGD_RANGPUR",
+    "year": 2019,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 4880,
+    "baseline": 4654.0,
+    "anomaly_pct": 4.9,
+    "threshold": 8
+  },
+  {
+    "region_id": "BGD_RANGPUR",
+    "year": 2020,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 4790,
+    "baseline": 4718.0,
+    "anomaly_pct": 1.5,
+    "threshold": 8
+  },
+  {
+    "region_id": "BGD_RANGPUR",
+    "year": 2021,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 4850,
+    "baseline": 4752.0,
+    "anomaly_pct": 2.1,
+    "threshold": 8
+  },
+  {
+    "region_id": "BGD_RANGPUR",
+    "year": 2022,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 4500,
+    "baseline": 4782.0,
+    "anomaly_pct": -5.9,
+    "threshold": 8
+  },
+  {
+    "region_id": "BGD_RANGPUR",
+    "year": 2023,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 4700,
+    "baseline": 4756.0,
+    "anomaly_pct": -1.2,
+    "threshold": 8
+  },
+  {
+    "region_id": "BGD_RANGPUR",
+    "year": 2024,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 4800,
+    "baseline": 4744.0,
+    "anomaly_pct": 1.2,
+    "threshold": 8
+  },
+  {
+    "region_id": "IDN_JAVA",
+    "year": 2019,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 5100,
+    "baseline": 5204.0,
+    "anomaly_pct": -2.0,
+    "threshold": 8
+  },
+  {
+    "region_id": "IDN_JAVA",
+    "year": 2020,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 5100,
+    "baseline": 5198.0,
+    "anomaly_pct": -1.9,
+    "threshold": 8
+  },
+  {
+    "region_id": "IDN_JAVA",
+    "year": 2021,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 5250,
+    "baseline": 5150.0,
+    "anomaly_pct": 1.9,
+    "threshold": 8
+  },
+  {
+    "region_id": "IDN_JAVA",
+    "year": 2022,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 5300,
+    "baseline": 5160.0,
+    "anomaly_pct": 2.7,
+    "threshold": 8
+  },
+  {
+    "region_id": "IDN_JAVA",
+    "year": 2023,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 5100,
+    "baseline": 5190.0,
+    "anomaly_pct": -1.7,
+    "threshold": 8
+  },
+  {
+    "region_id": "IDN_JAVA",
+    "year": 2024,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 5200,
+    "baseline": 5170.0,
+    "anomaly_pct": 0.6,
+    "threshold": 8
+  },
+  {
+    "region_id": "MMR_AYEYARWADY",
+    "year": 2019,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 3880,
+    "baseline": 3910.0,
+    "anomaly_pct": -0.8,
+    "threshold": 10
+  },
+  {
+    "region_id": "MMR_AYEYARWADY",
+    "year": 2020,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 3920,
+    "baseline": 3906.0,
+    "anomaly_pct": 0.4,
+    "threshold": 10
+  },
+  {
+    "region_id": "MMR_AYEYARWADY",
+    "year": 2021,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 3700,
+    "baseline": 3900.0,
+    "anomaly_pct": -5.1,
+    "threshold": 10
+  },
+  {
+    "region_id": "MMR_AYEYARWADY",
+    "year": 2022,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 3600,
+    "baseline": 3870.0,
+    "anomaly_pct": -7.0,
+    "threshold": 10
+  },
+  {
+    "region_id": "MMR_AYEYARWADY",
+    "year": 2023,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 3750,
+    "baseline": 3810.0,
+    "anomaly_pct": -1.6,
+    "threshold": 10
+  },
+  {
+    "region_id": "MMR_AYEYARWADY",
+    "year": 2024,
+    "crop": "Rice",
+    "label": 0,
+    "actual_yield": 3800,
+    "baseline": 3770.0,
+    "anomaly_pct": 0.8,
+    "threshold": 10
+  },
+  {
+    "region_id": "NGA_NORTH",
+    "year": 2019,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 2050,
+    "baseline": 1950.0,
+    "anomaly_pct": 5.1,
+    "threshold": 12
+  },
+  {
+    "region_id": "NGA_NORTH",
+    "year": 2020,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 1900,
+    "baseline": 1960.0,
+    "anomaly_pct": -3.1,
+    "threshold": 12
+  },
+  {
+    "region_id": "NGA_NORTH",
+    "year": 2021,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 1850,
+    "baseline": 1950.0,
+    "anomaly_pct": -5.1,
+    "threshold": 12
+  },
+  {
+    "region_id": "NGA_NORTH",
+    "year": 2022,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 1800,
+    "baseline": 1960.0,
+    "anomaly_pct": -8.2,
+    "threshold": 12
+  },
+  {
+    "region_id": "NGA_NORTH",
+    "year": 2023,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 1950,
+    "baseline": 1940.0,
+    "anomaly_pct": 0.5,
+    "threshold": 12
+  },
+  {
+    "region_id": "NGA_NORTH",
+    "year": 2024,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 2000,
+    "baseline": 1910.0,
+    "anomaly_pct": 4.7,
+    "threshold": 12
+  },
+  {
+    "region_id": "EGY_NILE",
+    "year": 2019,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 6600,
+    "baseline": 6550.0,
+    "anomaly_pct": 0.8,
+    "threshold": 8
+  },
+  {
+    "region_id": "EGY_NILE",
+    "year": 2020,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 6450,
+    "baseline": 6570.0,
+    "anomaly_pct": -1.8,
+    "threshold": 8
+  },
+  {
+    "region_id": "EGY_NILE",
+    "year": 2021,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 6500,
+    "baseline": 6540.0,
+    "anomaly_pct": -0.6,
+    "threshold": 8
+  },
+  {
+    "region_id": "EGY_NILE",
+    "year": 2022,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 6300,
+    "baseline": 6500.0,
+    "anomaly_pct": -3.1,
+    "threshold": 8
+  },
+  {
+    "region_id": "EGY_NILE",
+    "year": 2023,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 6700,
+    "baseline": 6480.0,
+    "anomaly_pct": 3.4,
+    "threshold": 8
+  },
+  {
+    "region_id": "EGY_NILE",
+    "year": 2024,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 6500,
+    "baseline": 6510.0,
+    "anomaly_pct": -0.2,
+    "threshold": 8
+  },
+  {
+    "region_id": "ZAF_FREESTATE",
+    "year": 2019,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 5800,
+    "baseline": 5120.0,
+    "anomaly_pct": 13.3,
+    "threshold": 15
+  },
+  {
+    "region_id": "ZAF_FREESTATE",
+    "year": 2020,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 6500,
+    "baseline": 5320.0,
+    "anomaly_pct": 22.2,
+    "threshold": 15
+  },
+  {
+    "region_id": "ZAF_FREESTATE",
+    "year": 2021,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 6800,
+    "baseline": 5980.0,
+    "anomaly_pct": 13.7,
+    "threshold": 15
+  },
+  {
+    "region_id": "ZAF_FREESTATE",
+    "year": 2022,
+    "crop": "Corn",
+    "label": 1,
+    "actual_yield": 5000,
+    "baseline": 6240.0,
+    "anomaly_pct": -19.9,
+    "threshold": 15
+  },
+  {
+    "region_id": "ZAF_FREESTATE",
+    "year": 2023,
+    "crop": "Corn",
+    "label": 0,
+    "actual_yield": 5500,
+    "baseline": 6000.0,
+    "anomaly_pct": -8.3,
+    "threshold": 15
+  },
+  {
+    "region_id": "ZAF_FREESTATE",
+    "year": 2024,
+    "crop": "Corn",
+    "label": 1,
+    "actual_yield": 4800,
+    "baseline": 5920.0,
+    "anomaly_pct": -18.9,
+    "threshold": 15
+  },
+  {
+    "region_id": "KEN_RIFT",
+    "year": 2019,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2400,
+    "baseline": 2100.0,
+    "anomaly_pct": 14.3,
+    "threshold": 15
+  },
+  {
+    "region_id": "KEN_RIFT",
+    "year": 2020,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2200,
+    "baseline": 2140.0,
+    "anomaly_pct": 2.8,
+    "threshold": 15
+  },
+  {
+    "region_id": "KEN_RIFT",
+    "year": 2021,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2500,
+    "baseline": 2160.0,
+    "anomaly_pct": 15.7,
+    "threshold": 15
+  },
+  {
+    "region_id": "KEN_RIFT",
+    "year": 2022,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2100,
+    "baseline": 2200.0,
+    "anomaly_pct": -4.5,
+    "threshold": 15
+  },
+  {
+    "region_id": "KEN_RIFT",
+    "year": 2023,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2300,
+    "baseline": 2260.0,
+    "anomaly_pct": 1.8,
+    "threshold": 15
+  },
+  {
+    "region_id": "KEN_RIFT",
+    "year": 2024,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2200,
+    "baseline": 2300.0,
+    "anomaly_pct": -4.3,
+    "threshold": 15
+  },
+  {
+    "region_id": "AUS_NSW",
+    "year": 2019,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 1650,
+    "baseline": 1880.0,
+    "anomaly_pct": -12.2,
+    "threshold": 15
+  },
+  {
+    "region_id": "AUS_NSW",
+    "year": 2020,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2150,
+    "baseline": 1810.0,
+    "anomaly_pct": 18.8,
+    "threshold": 15
+  },
+  {
+    "region_id": "AUS_NSW",
+    "year": 2021,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2280,
+    "baseline": 1860.0,
+    "anomaly_pct": 22.6,
+    "threshold": 15
+  },
+  {
+    "region_id": "AUS_NSW",
+    "year": 2022,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2350,
+    "baseline": 1876.0,
+    "anomaly_pct": 25.3,
+    "threshold": 15
+  },
+  {
+    "region_id": "AUS_NSW",
+    "year": 2023,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 1850,
+    "baseline": 1986.0,
+    "anomaly_pct": -6.8,
+    "threshold": 15
+  },
+  {
+    "region_id": "AUS_NSW",
+    "year": 2024,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2100,
+    "baseline": 2056.0,
+    "anomaly_pct": 2.1,
+    "threshold": 15
+  },
+  {
+    "region_id": "AUS_WA",
+    "year": 2019,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 1650,
+    "baseline": 1880.0,
+    "anomaly_pct": -12.2,
+    "threshold": 15
+  },
+  {
+    "region_id": "AUS_WA",
+    "year": 2020,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2150,
+    "baseline": 1810.0,
+    "anomaly_pct": 18.8,
+    "threshold": 15
+  },
+  {
+    "region_id": "AUS_WA",
+    "year": 2021,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2280,
+    "baseline": 1860.0,
+    "anomaly_pct": 22.6,
+    "threshold": 15
+  },
+  {
+    "region_id": "AUS_WA",
+    "year": 2022,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2350,
+    "baseline": 1876.0,
+    "anomaly_pct": 25.3,
+    "threshold": 15
+  },
+  {
+    "region_id": "AUS_WA",
+    "year": 2023,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 1850,
+    "baseline": 1986.0,
+    "anomaly_pct": -6.8,
+    "threshold": 15
+  },
+  {
+    "region_id": "AUS_WA",
+    "year": 2024,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2100,
+    "baseline": 2056.0,
+    "anomaly_pct": 2.1,
+    "threshold": 15
+  },
+  {
+    "region_id": "CAN_SASK",
+    "year": 2019,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3200,
+    "baseline": 2990.0,
+    "anomaly_pct": 7.0,
+    "threshold": 12
+  },
+  {
+    "region_id": "CAN_SASK",
+    "year": 2020,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3400,
+    "baseline": 3050.0,
+    "anomaly_pct": 11.5,
+    "threshold": 12
+  },
+  {
+    "region_id": "CAN_SASK",
+    "year": 2021,
+    "crop": "Wheat",
+    "label": 1,
+    "actual_yield": 2100,
+    "baseline": 3170.0,
+    "anomaly_pct": -33.8,
+    "threshold": 12
+  },
+  {
+    "region_id": "CAN_SASK",
+    "year": 2022,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3500,
+    "baseline": 2950.0,
+    "anomaly_pct": 18.6,
+    "threshold": 12
+  },
+  {
+    "region_id": "CAN_SASK",
+    "year": 2023,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3300,
+    "baseline": 3060.0,
+    "anomaly_pct": 7.8,
+    "threshold": 12
+  },
+  {
+    "region_id": "CAN_SASK",
+    "year": 2024,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 3200,
+    "baseline": 3100.0,
+    "anomaly_pct": 3.2,
+    "threshold": 12
+  },
+  {
+    "region_id": "CAN_ALBERTA",
+    "year": 2019,
+    "crop": "Canola",
+    "label": 0,
+    "actual_yield": 2000,
+    "baseline": 2060.0,
+    "anomaly_pct": -2.9,
+    "threshold": 15
+  },
+  {
+    "region_id": "CAN_ALBERTA",
+    "year": 2020,
+    "crop": "Canola",
+    "label": 0,
+    "actual_yield": 2100,
+    "baseline": 2090.0,
+    "anomaly_pct": 0.5,
+    "threshold": 15
+  },
+  {
+    "region_id": "CAN_ALBERTA",
+    "year": 2021,
+    "crop": "Canola",
+    "label": 1,
+    "actual_yield": 1400,
+    "baseline": 2110.0,
+    "anomaly_pct": -33.6,
+    "threshold": 15
+  },
+  {
+    "region_id": "CAN_ALBERTA",
+    "year": 2022,
+    "crop": "Canola",
+    "label": 0,
+    "actual_yield": 2250,
+    "baseline": 1970.0,
+    "anomaly_pct": 14.2,
+    "threshold": 15
+  },
+  {
+    "region_id": "CAN_ALBERTA",
+    "year": 2023,
+    "crop": "Canola",
+    "label": 0,
+    "actual_yield": 2100,
+    "baseline": 1980.0,
+    "anomaly_pct": 6.1,
+    "threshold": 15
+  },
+  {
+    "region_id": "CAN_ALBERTA",
+    "year": 2024,
+    "crop": "Canola",
+    "label": 0,
+    "actual_yield": 2000,
+    "baseline": 1970.0,
+    "anomaly_pct": 1.5,
+    "threshold": 15
+  },
+  {
+    "region_id": "KAZ_NORTH",
+    "year": 2019,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 1150,
+    "baseline": 1310.0,
+    "anomaly_pct": -12.2,
+    "threshold": 15
+  },
+  {
+    "region_id": "KAZ_NORTH",
+    "year": 2020,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 1350,
+    "baseline": 1290.0,
+    "anomaly_pct": 4.7,
+    "threshold": 15
+  },
+  {
+    "region_id": "KAZ_NORTH",
+    "year": 2021,
+    "crop": "Wheat",
+    "label": 1,
+    "actual_yield": 1100,
+    "baseline": 1300.0,
+    "anomaly_pct": -15.4,
+    "threshold": 15
+  },
+  {
+    "region_id": "KAZ_NORTH",
+    "year": 2022,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 1400,
+    "baseline": 1230.0,
+    "anomaly_pct": 13.8,
+    "threshold": 15
+  },
+  {
+    "region_id": "KAZ_NORTH",
+    "year": 2023,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 1250,
+    "baseline": 1240.0,
+    "anomaly_pct": 0.8,
+    "threshold": 15
+  },
+  {
+    "region_id": "KAZ_NORTH",
+    "year": 2024,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 1300,
+    "baseline": 1250.0,
+    "anomaly_pct": 4.0,
+    "threshold": 15
+  },
+  {
+    "region_id": "TUR_KONYA",
+    "year": 2019,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2950,
+    "baseline": 3000.0,
+    "anomaly_pct": -1.7,
+    "threshold": 12
+  },
+  {
+    "region_id": "TUR_KONYA",
+    "year": 2020,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2850,
+    "baseline": 3010.0,
+    "anomaly_pct": -5.3,
+    "threshold": 12
+  },
+  {
+    "region_id": "TUR_KONYA",
+    "year": 2021,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2900,
+    "baseline": 2960.0,
+    "anomaly_pct": -2.0,
+    "threshold": 12
+  },
+  {
+    "region_id": "TUR_KONYA",
+    "year": 2022,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2600,
+    "baseline": 2900.0,
+    "anomaly_pct": -10.3,
+    "threshold": 12
+  },
+  {
+    "region_id": "TUR_KONYA",
+    "year": 2023,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2750,
+    "baseline": 2820.0,
+    "anomaly_pct": -2.5,
+    "threshold": 12
+  },
+  {
+    "region_id": "TUR_KONYA",
+    "year": 2024,
+    "crop": "Wheat",
+    "label": 0,
+    "actual_yield": 2800,
+    "baseline": 2810.0,
+    "anomaly_pct": -0.4,
+    "threshold": 12
+  }
+]

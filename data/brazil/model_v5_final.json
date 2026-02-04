@@ -1,0 +1,104 @@
+{
+  "model": "LogisticRegression",
+  "loyo_auroc": 0.7431067431067431,
+  "loyo_auprc": 0.1665306150916096,
+  "loro_auroc": 0.8387478387478388,
+  "loso_auroc": 0.7475665748393021,
+  "n_samples": 366,
+  "n_stress": 33,
+  "n_features": 30,
+  "features": [
+    "ndvi_mean",
+    "ndvi_std",
+    "ndvi_min",
+    "ndvi_max",
+    "ndvi_range",
+    "ndvi_slope",
+    "ndvi_change",
+    "ndvi_cv",
+    "ndvi_stability",
+    "ndvi_spatial_std",
+    "wx_t2m_mean",
+    "wx_t2m_std",
+    "wx_t2m_min",
+    "wx_t2m_max",
+    "wx_t2m_anom",
+    "wx_prectotcorr_mean",
+    "wx_prectotcorr_std",
+    "wx_prectotcorr_min",
+    "wx_prectotcorr_max",
+    "wx_prectotcorr_anom",
+    "wx_rh2m_mean",
+    "wx_rh2m_std",
+    "wx_rh2m_min",
+    "wx_rh2m_max",
+    "wx_rh2m_anom",
+    "wx_ws2m_mean",
+    "wx_ws2m_std",
+    "wx_ws2m_min",
+    "wx_ws2m_max",
+    "wx_ws2m_anom"
+  ],
+  "top_features": [
+    [
+      "wx_t2m_anom",
+      0.7809028444773113
+    ],
+    [
+      "wx_ws2m_min",
+      0.5891968681811673
+    ],
+    [
+      "wx_rh2m_std",
+      -0.5503999935458199
+    ],
+    [
+      "wx_ws2m_mean",
+      0.450165674261481
+    ],
+    [
+      "wx_rh2m_max",
+      -0.3848463749163191
+    ],
+    [
+      "wx_prectotcorr_std",
+      0.35797804533940186
+    ],
+    [
+      "wx_t2m_min",
+      -0.3348177211652424
+    ],
+    [
+      "wx_ws2m_max",
+      0.2813881143706812
+    ],
+    [
+      "wx_rh2m_anom",
+      -0.27966010717146195
+    ],
+    [
+      "wx_ws2m_anom",
+      -0.2606958944083057
+    ],
+    [
+      "ndvi_min",
+      -0.23805776512904736
+    ],
+    [
+      "ndvi_max",
+      -0.22352334787154646
+    ],
+    [
+      "wx_prectotcorr_max",
+      0.21165383195236986
+    ],
+    [
+      "wx_rh2m_mean",
+      -0.20873174542894218
+    ],
+    [
+      "ndvi_cv",
+      -0.20232683532395312
+    ]
+  ]
+}

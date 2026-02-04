@@ -1,0 +1,70 @@
+{
+  "loyo_auroc": 0.7226317226317227,
+  "loro_auroc": 0.8408408408408409,
+  "n_samples": 366,
+  "n_stress": 33,
+  "n_features": 19,
+  "features": [
+    "sat_ndvi_mean",
+    "sat_ndvi_std",
+    "sat_ndvi_min",
+    "sat_ndvi_max",
+    "sat_ndvi_range",
+    "sat_ndvi_slope",
+    "sat_ndvi_change",
+    "wx_t2m_mean",
+    "wx_t2m_std",
+    "wx_t2m_anom",
+    "wx_prectotcorr_mean",
+    "wx_prectotcorr_std",
+    "wx_prectotcorr_anom",
+    "wx_rh2m_mean",
+    "wx_rh2m_std",
+    "wx_rh2m_anom",
+    "wx_ws2m_mean",
+    "wx_ws2m_std",
+    "wx_ws2m_anom"
+  ],
+  "top_features": [
+    [
+      "wx_rh2m_std",
+      -0.8330279838190845
+    ],
+    [
+      "wx_ws2m_mean",
+      0.8222431698574079
+    ],
+    [
+      "wx_prectotcorr_anom",
+      0.6219372731953227
+    ],
+    [
+      "wx_rh2m_mean",
+      -0.5340506692723479
+    ],
+    [
+      "wx_t2m_anom",
+      0.4919610849914825
+    ],
+    [
+      "wx_t2m_mean",
+      -0.48792522687611933
+    ],
+    [
+      "wx_prectotcorr_mean",
+      -0.42174145909036015
+    ],
+    [
+      "sat_ndvi_slope",
+      0.3528497050958744
+    ],
+    [
+      "wx_t2m_std",
+      0.3275873199245927
+    ],
+    [
+      "wx_prectotcorr_std",
+      0.27339258076272654
+    ]
+  ]
+}

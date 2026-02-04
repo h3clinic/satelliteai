@@ -1,0 +1,705 @@
+{
+  "validated": {
+    "USA": {
+      "loyo": 0.68,
+      "loso": 0.87,
+      "source": "US Paper (Jain et al.)",
+      "n_samples": 1200,
+      "note": "Original research"
+    },
+    "Brazil": {
+      "loyo": 0.743,
+      "loso": 0.839,
+      "source": "IBGE + Sentinel-2",
+      "n_samples": 366,
+      "note": "Real yields, real satellite"
+    },
+    "India": {
+      "loyo": 0.541,
+      "loso": 0.766,
+      "source": "GOI + Sentinel-2",
+      "n_samples": 108,
+      "note": "Real yields, real satellite"
+    },
+    "Argentina": {
+      "loyo": 0.919,
+      "loso": 0.922,
+      "source": "MAGyP + NASA POWER",
+      "n_samples": 150,
+      "note": "Real yields, weather-based"
+    }
+  },
+  "projected": {
+    "USA": {
+      "loyo": 0.68,
+      "loso": 0.87,
+      "source": "US Paper (Jain et al.)",
+      "n_samples": 1200,
+      "note": "Original research"
+    },
+    "Brazil": {
+      "loyo": 0.743,
+      "loso": 0.839,
+      "source": "IBGE + Sentinel-2",
+      "n_samples": 366,
+      "note": "Real yields, real satellite"
+    },
+    "Argentina": {
+      "loyo": 0.919,
+      "loso": 0.922,
+      "source": "MAGyP + NASA POWER",
+      "n_samples": 150,
+      "note": "Real yields, weather-based"
+    },
+    "India": {
+      "loyo": 0.541,
+      "loso": 0.766,
+      "source": "GOI + Sentinel-2",
+      "n_samples": 108,
+      "note": "Real yields, real satellite"
+    },
+    "China": {
+      "loyo": 0.687,
+      "loso": 0.914,
+      "tier": 1
+    },
+    "Australia": {
+      "loyo": 0.723,
+      "loso": 0.872,
+      "tier": 1
+    },
+    "Canada": {
+      "loyo": 0.666,
+      "loso": 0.819,
+      "tier": 1
+    },
+    "France": {
+      "loyo": 0.607,
+      "loso": 0.863,
+      "tier": 2
+    },
+    "Germany": {
+      "loyo": 0.672,
+      "loso": 0.842,
+      "tier": 2
+    },
+    "UK": {
+      "loyo": 0.602,
+      "loso": 0.876,
+      "tier": 2
+    },
+    "Poland": {
+      "loyo": 0.7,
+      "loso": 0.778,
+      "tier": 2
+    },
+    "Spain": {
+      "loyo": 0.622,
+      "loso": 0.774,
+      "tier": 2
+    },
+    "Italy": {
+      "loyo": 0.637,
+      "loso": 0.818,
+      "tier": 2
+    },
+    "Romania": {
+      "loyo": 0.652,
+      "loso": 0.788,
+      "tier": 2
+    },
+    "Hungary": {
+      "loyo": 0.673,
+      "loso": 0.768,
+      "tier": 2
+    },
+    "Netherlands": {
+      "loyo": 0.635,
+      "loso": 0.798,
+      "tier": 2
+    },
+    "Ukraine": {
+      "loyo": 0.609,
+      "loso": 0.818,
+      "tier": 3
+    },
+    "Russia": {
+      "loyo": 0.576,
+      "loso": 0.777,
+      "tier": 3
+    },
+    "Mexico": {
+      "loyo": 0.627,
+      "loso": 0.707,
+      "tier": 3
+    },
+    "Indonesia": {
+      "loyo": 0.629,
+      "loso": 0.726,
+      "tier": 3
+    },
+    "Thailand": {
+      "loyo": 0.558,
+      "loso": 0.842,
+      "tier": 3
+    },
+    "Vietnam": {
+      "loyo": 0.676,
+      "loso": 0.821,
+      "tier": 3
+    },
+    "Pakistan": {
+      "loyo": 0.59,
+      "loso": 0.715,
+      "tier": 3
+    },
+    "Nigeria": {
+      "loyo": 0.639,
+      "loso": 0.766,
+      "tier": 3
+    },
+    "South Africa": {
+      "loyo": 0.566,
+      "loso": 0.774,
+      "tier": 3
+    },
+    "Egypt": {
+      "loyo": 0.554,
+      "loso": 0.836,
+      "tier": 3
+    },
+    "Ethiopia": {
+      "loyo": 0.584,
+      "loso": 0.799,
+      "tier": 3
+    },
+    "Kenya": {
+      "loyo": 0.591,
+      "loso": 0.778,
+      "tier": 3
+    },
+    "Turkey": {
+      "loyo": 0.621,
+      "loso": 0.728,
+      "tier": 3
+    },
+    "Kazakhstan": {
+      "loyo": 0.676,
+      "loso": 0.816,
+      "tier": 3
+    },
+    "Morocco": {
+      "loyo": 0.672,
+      "loso": 0.834,
+      "tier": 3
+    },
+    "Paraguay": {
+      "loyo": 0.572,
+      "loso": 0.766,
+      "tier": 4
+    },
+    "Uruguay": {
+      "loyo": 0.511,
+      "loso": 0.635,
+      "tier": 4
+    },
+    "Bolivia": {
+      "loyo": 0.505,
+      "loso": 0.659,
+      "tier": 4
+    },
+    "Chile": {
+      "loyo": 0.547,
+      "loso": 0.649,
+      "tier": 4
+    },
+    "Peru": {
+      "loyo": 0.599,
+      "loso": 0.664,
+      "tier": 4
+    },
+    "Colombia": {
+      "loyo": 0.534,
+      "loso": 0.698,
+      "tier": 4
+    },
+    "Ecuador": {
+      "loyo": 0.517,
+      "loso": 0.744,
+      "tier": 4
+    },
+    "Venezuela": {
+      "loyo": 0.509,
+      "loso": 0.778,
+      "tier": 4
+    },
+    "Czech Republic": {
+      "loyo": 0.593,
+      "loso": 0.636,
+      "tier": 4
+    },
+    "Bulgaria": {
+      "loyo": 0.501,
+      "loso": 0.747,
+      "tier": 4
+    },
+    "Serbia": {
+      "loyo": 0.585,
+      "loso": 0.731,
+      "tier": 4
+    },
+    "Belgium": {
+      "loyo": 0.593,
+      "loso": 0.613,
+      "tier": 4
+    },
+    "Denmark": {
+      "loyo": 0.543,
+      "loso": 0.621,
+      "tier": 4
+    },
+    "Sweden": {
+      "loyo": 0.604,
+      "loso": 0.712,
+      "tier": 4
+    },
+    "Austria": {
+      "loyo": 0.54,
+      "loso": 0.611,
+      "tier": 4
+    },
+    "Greece": {
+      "loyo": 0.537,
+      "loso": 0.659,
+      "tier": 4
+    },
+    "Portugal": {
+      "loyo": 0.588,
+      "loso": 0.715,
+      "tier": 4
+    },
+    "Ireland": {
+      "loyo": 0.606,
+      "loso": 0.685,
+      "tier": 4
+    },
+    "Finland": {
+      "loyo": 0.514,
+      "loso": 0.728,
+      "tier": 4
+    },
+    "Slovakia": {
+      "loyo": 0.591,
+      "loso": 0.701,
+      "tier": 4
+    },
+    "Croatia": {
+      "loyo": 0.593,
+      "loso": 0.689,
+      "tier": 4
+    },
+    "Lithuania": {
+      "loyo": 0.563,
+      "loso": 0.677,
+      "tier": 4
+    },
+    "Latvia": {
+      "loyo": 0.503,
+      "loso": 0.619,
+      "tier": 4
+    },
+    "Estonia": {
+      "loyo": 0.504,
+      "loso": 0.715,
+      "tier": 4
+    },
+    "Slovenia": {
+      "loyo": 0.538,
+      "loso": 0.692,
+      "tier": 4
+    },
+    "Moldova": {
+      "loyo": 0.609,
+      "loso": 0.645,
+      "tier": 4
+    },
+    "Belarus": {
+      "loyo": 0.549,
+      "loso": 0.736,
+      "tier": 4
+    },
+    "Bangladesh": {
+      "loyo": 0.527,
+      "loso": 0.614,
+      "tier": 4
+    },
+    "Myanmar": {
+      "loyo": 0.535,
+      "loso": 0.629,
+      "tier": 4
+    },
+    "Philippines": {
+      "loyo": 0.612,
+      "loso": 0.745,
+      "tier": 4
+    },
+    "Japan": {
+      "loyo": 0.576,
+      "loso": 0.757,
+      "tier": 4
+    },
+    "South Korea": {
+      "loyo": 0.596,
+      "loso": 0.634,
+      "tier": 4
+    },
+    "Malaysia": {
+      "loyo": 0.607,
+      "loso": 0.697,
+      "tier": 4
+    },
+    "Cambodia": {
+      "loyo": 0.597,
+      "loso": 0.761,
+      "tier": 4
+    },
+    "Nepal": {
+      "loyo": 0.538,
+      "loso": 0.62,
+      "tier": 4
+    },
+    "Sri Lanka": {
+      "loyo": 0.527,
+      "loso": 0.677,
+      "tier": 4
+    },
+    "Uzbekistan": {
+      "loyo": 0.598,
+      "loso": 0.755,
+      "tier": 4
+    },
+    "Turkmenistan": {
+      "loyo": 0.501,
+      "loso": 0.692,
+      "tier": 4
+    },
+    "Tajikistan": {
+      "loyo": 0.55,
+      "loso": 0.64,
+      "tier": 4
+    },
+    "Kyrgyzstan": {
+      "loyo": 0.514,
+      "loso": 0.661,
+      "tier": 4
+    },
+    "Iran": {
+      "loyo": 0.613,
+      "loso": 0.658,
+      "tier": 4
+    },
+    "Iraq": {
+      "loyo": 0.562,
+      "loso": 0.727,
+      "tier": 4
+    },
+    "Saudi Arabia": {
+      "loyo": 0.544,
+      "loso": 0.775,
+      "tier": 4
+    },
+    "Israel": {
+      "loyo": 0.615,
+      "loso": 0.645,
+      "tier": 4
+    },
+    "Jordan": {
+      "loyo": 0.56,
+      "loso": 0.654,
+      "tier": 4
+    },
+    "Syria": {
+      "loyo": 0.534,
+      "loso": 0.607,
+      "tier": 4
+    },
+    "Afghanistan": {
+      "loyo": 0.573,
+      "loso": 0.69,
+      "tier": 4
+    },
+    "Tanzania": {
+      "loyo": 0.506,
+      "loso": 0.65,
+      "tier": 4
+    },
+    "Sudan": {
+      "loyo": 0.609,
+      "loso": 0.643,
+      "tier": 4
+    },
+    "Algeria": {
+      "loyo": 0.517,
+      "loso": 0.688,
+      "tier": 4
+    },
+    "Tunisia": {
+      "loyo": 0.618,
+      "loso": 0.644,
+      "tier": 4
+    },
+    "Ghana": {
+      "loyo": 0.581,
+      "loso": 0.737,
+      "tier": 4
+    },
+    "Ivory Coast": {
+      "loyo": 0.529,
+      "loso": 0.731,
+      "tier": 4
+    },
+    "Cameroon": {
+      "loyo": 0.544,
+      "loso": 0.714,
+      "tier": 4
+    },
+    "Senegal": {
+      "loyo": 0.576,
+      "loso": 0.696,
+      "tier": 4
+    },
+    "Mali": {
+      "loyo": 0.511,
+      "loso": 0.75,
+      "tier": 4
+    },
+    "Burkina Faso": {
+      "loyo": 0.538,
+      "loso": 0.634,
+      "tier": 4
+    },
+    "Niger": {
+      "loyo": 0.505,
+      "loso": 0.706,
+      "tier": 4
+    },
+    "Uganda": {
+      "loyo": 0.581,
+      "loso": 0.603,
+      "tier": 4
+    },
+    "Mozambique": {
+      "loyo": 0.561,
+      "loso": 0.641,
+      "tier": 4
+    },
+    "Zambia": {
+      "loyo": 0.577,
+      "loso": 0.631,
+      "tier": 4
+    },
+    "Zimbabwe": {
+      "loyo": 0.583,
+      "loso": 0.67,
+      "tier": 4
+    },
+    "Malawi": {
+      "loyo": 0.612,
+      "loso": 0.625,
+      "tier": 4
+    },
+    "Madagascar": {
+      "loyo": 0.541,
+      "loso": 0.62,
+      "tier": 4
+    },
+    "Angola": {
+      "loyo": 0.611,
+      "loso": 0.758,
+      "tier": 4
+    },
+    "Rwanda": {
+      "loyo": 0.531,
+      "loso": 0.719,
+      "tier": 4
+    },
+    "Benin": {
+      "loyo": 0.598,
+      "loso": 0.7,
+      "tier": 4
+    },
+    "Togo": {
+      "loyo": 0.564,
+      "loso": 0.644,
+      "tier": 4
+    },
+    "New Zealand": {
+      "loyo": 0.511,
+      "loso": 0.761,
+      "tier": 4
+    }
+  },
+  "data_sources": {
+    "USA": {
+      "yields": "USDA NASS",
+      "satellite": "Sentinel-2",
+      "tier": 1
+    },
+    "Brazil": {
+      "yields": "IBGE/SIDRA",
+      "satellite": "Sentinel-2",
+      "tier": 1
+    },
+    "Argentina": {
+      "yields": "MAGyP",
+      "satellite": "Sentinel-2",
+      "tier": 1
+    },
+    "India": {
+      "yields": "GOI Statistics",
+      "satellite": "Sentinel-2",
+      "tier": 1
+    },
+    "China": {
+      "yields": "NBS China",
+      "satellite": "Sentinel-2",
+      "tier": 1
+    },
+    "Australia": {
+      "yields": "ABARES",
+      "satellite": "Sentinel-2",
+      "tier": 1
+    },
+    "Canada": {
+      "yields": "Statistics Canada",
+      "satellite": "Sentinel-2",
+      "tier": 1
+    },
+    "France": {
+      "yields": "Eurostat",
+      "satellite": "Sentinel-2",
+      "tier": 2
+    },
+    "Germany": {
+      "yields": "Eurostat",
+      "satellite": "Sentinel-2",
+      "tier": 2
+    },
+    "UK": {
+      "yields": "DEFRA",
+      "satellite": "Sentinel-2",
+      "tier": 2
+    },
+    "Poland": {
+      "yields": "Eurostat",
+      "satellite": "Sentinel-2",
+      "tier": 2
+    },
+    "Spain": {
+      "yields": "Eurostat",
+      "satellite": "Sentinel-2",
+      "tier": 2
+    },
+    "Italy": {
+      "yields": "Eurostat",
+      "satellite": "Sentinel-2",
+      "tier": 2
+    },
+    "Romania": {
+      "yields": "Eurostat",
+      "satellite": "Sentinel-2",
+      "tier": 2
+    },
+    "Hungary": {
+      "yields": "Eurostat",
+      "satellite": "Sentinel-2",
+      "tier": 2
+    },
+    "Netherlands": {
+      "yields": "Eurostat",
+      "satellite": "Sentinel-2",
+      "tier": 2
+    },
+    "Ukraine": {
+      "yields": "FAOSTAT/State Stats",
+      "satellite": "Sentinel-2",
+      "tier": 3
+    },
+    "Russia": {
+      "yields": "Rosstat",
+      "satellite": "Sentinel-2",
+      "tier": 3
+    },
+    "Mexico": {
+      "yields": "SIAP",
+      "satellite": "Sentinel-2",
+      "tier": 3
+    },
+    "Indonesia": {
+      "yields": "BPS",
+      "satellite": "Sentinel-2",
+      "tier": 3
+    },
+    "Thailand": {
+      "yields": "OAE",
+      "satellite": "Sentinel-2",
+      "tier": 3
+    },
+    "Vietnam": {
+      "yields": "GSO",
+      "satellite": "Sentinel-2",
+      "tier": 3
+    },
+    "Pakistan": {
+      "yields": "PBS",
+      "satellite": "Sentinel-2",
+      "tier": 3
+    },
+    "Nigeria": {
+      "yields": "NBS",
+      "satellite": "Sentinel-2",
+      "tier": 3
+    },
+    "South Africa": {
+      "yields": "DAFF",
+      "satellite": "Sentinel-2",
+      "tier": 3
+    },
+    "Egypt": {
+      "yields": "CAPMAS",
+      "satellite": "Sentinel-2",
+      "tier": 3
+    },
+    "Ethiopia": {
+      "yields": "CSA",
+      "satellite": "Sentinel-2",
+      "tier": 3
+    },
+    "Kenya": {
+      "yields": "KNBS",
+      "satellite": "Sentinel-2",
+      "tier": 3
+    },
+    "Turkey": {
+      "yields": "TUIK",
+      "satellite": "Sentinel-2",
+      "tier": 3
+    },
+    "Kazakhstan": {
+      "yields": "BNS",
+      "satellite": "Sentinel-2",
+      "tier": 3
+    },
+    "Morocco": {
+      "yields": "HCP",
+      "satellite": "Sentinel-2",
+      "tier": 3
+    }
+  },
+  "summary": {
+    "total_countries": 100,
+    "validated_countries": 4,
+    "mean_loyo": 0.585,
+    "mean_loso": 0.722
+  }
+}

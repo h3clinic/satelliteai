@@ -1,0 +1,11 @@
+{
+  "Australia": {
+    "n_samples": 70,
+    "n_stress": 20,
+    "stress_rate": 28.6,
+    "loyo_auroc": 0.8,
+    "loyo_std": 0.0,
+    "loyo_n_folds": 2,
+    "loyo_details": [
+      {
+        "year": 

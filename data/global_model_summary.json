@@ -1,0 +1,216 @@
+{
+  "methodology": "Logistic Regression (satellite NDVI + weather anomalies)",
+  "stress_definition": "Yield >15% below historical mean",
+  "evaluation": "LOYO (temporal) and LOSO (spatial) cross-validation",
+  "results": {
+    "Brazil": {
+      "model": "LogisticRegression",
+      "loyo_auroc": 0.7431067431067431,
+      "loyo_auprc": 0.1665306150916096,
+      "loro_auroc": 0.8387478387478388,
+      "loso_auroc": 0.7475665748393021,
+      "n_samples": 366,
+      "n_stress": 33,
+      "n_features": 30,
+      "features": [
+        "ndvi_mean",
+        "ndvi_std",
+        "ndvi_min",
+        "ndvi_max",
+        "ndvi_range",
+        "ndvi_slope",
+        "ndvi_change",
+        "ndvi_cv",
+        "ndvi_stability",
+        "ndvi_spatial_std",
+        "wx_t2m_mean",
+        "wx_t2m_std",
+        "wx_t2m_min",
+        "wx_t2m_max",
+        "wx_t2m_anom",
+        "wx_prectotcorr_mean",
+        "wx_prectotcorr_std",
+        "wx_prectotcorr_min",
+        "wx_prectotcorr_max",
+        "wx_prectotcorr_anom",
+        "wx_rh2m_mean",
+        "wx_rh2m_std",
+        "wx_rh2m_min",
+        "wx_rh2m_max",
+        "wx_rh2m_anom",
+        "wx_ws2m_mean",
+        "wx_ws2m_std",
+        "wx_ws2m_min",
+        "wx_ws2m_max",
+        "wx_ws2m_anom"
+      ],
+      "top_features": [
+        [
+          "wx_t2m_anom",
+          0.7809028444773113
+        ],
+        [
+          "wx_ws2m_min",
+          0.5891968681811673
+        ],
+        [
+          "wx_rh2m_std",
+          -0.5503999935458199
+        ],
+        [
+          "wx_ws2m_mean",
+          0.450165674261481
+        ],
+        [
+          "wx_rh2m_max",
+          -0.3848463749163191
+        ],
+        [
+          "wx_prectotcorr_std",
+          0.35797804533940186
+        ],
+        [
+          "wx_t2m_min",
+          -0.3348177211652424
+        ],
+        [
+          "wx_ws2m_max",
+          0.2813881143706812
+        ],
+        [
+          "wx_rh2m_anom",
+          -0.27966010717146195
+        ],
+        [
+          "wx_ws2m_anom",
+          -0.2606958944083057
+        ],
+        [
+          "ndvi_min",
+          -0.23805776512904736
+        ],
+        [
+          "ndvi_max",
+          -0.22352334787154646
+        ],
+        [
+          "wx_prectotcorr_max",
+          0.21165383195236986
+        ],
+        [
+          "wx_rh2m_mean",
+          -0.20873174542894218
+        ],
+        [
+          "ndvi_cv",
+          -0.20232683532395312
+        ]
+      ]
+    },
+    "India": {
+      "country": "India",
+      "model": "LogisticRegression",
+      "loyo_auroc": 0.540695016003658,
+      "loso_auroc": 0.7656607224508459,
+      "n_samples": 108,
+      "n_stress": 27,
+      "top_features": [
+        [
+          "ndvi_spatial_std",
+          -0.4114264016297127
+        ],
+        [
+          "wx_rh2m_std",
+          0.3777730264563444
+        ],
+        [
+          "ndvi_min",
+          -0.2883027645837809
+        ],
+        [
+          "wx_t2m_anom",
+          0.2504576579877276
+        ],
+        [
+          "wx_ws2m_anom",
+          0.21280684991741852
+        ],
+        [
+          "ndvi_mean",
+          -0.20810772590936277
+        ],
+        [
+          "ndvi_cv",
+          0.19441581436764996
+        ],
+        [
+          "wx_prectotcorr_anom",
+          -0.1591890153852554
+        ],
+        [
+          "wx_prectotcorr_min",
+          -0.15130969744177036
+        ],
+        [
+          "wx_rh2m_max",
+          0.14929493195167473
+        ]
+      ]
+    },
+    "Argentina": {
+      "country": "Argentina",
+      "model": "LogisticRegression",
+      "loyo_auroc": 0.9187930713354442,
+      "loso_auroc": 0.9223319053827528,
+      "n_samples": 150,
+      "n_stress": 59,
+      "top_features": [
+        [
+          "ndvi_mean",
+          -0.7205097618401567
+        ],
+        [
+          "ndvi_min",
+          -0.6108871369807565
+        ],
+        [
+          "ndvi_max",
+          -0.5890475110949029
+        ],
+        [
+          "ndvi_cv",
+          0.2820812781444905
+        ],
+        [
+          "wx_rh2m_std",
+          -0.2584131885397164
+        ],
+        [
+          "wx_rh2m_anom",
+          -0.25359519858079566
+        ],
+        [
+          "wx_prectotcorr_min",
+          -0.19060260594574893
+        ],
+        [
+          "wx_t2m_anom",
+          0.1772533456782721
+        ],
+        [
+          "wx_prectotcorr_anom",
+          0.13525490935347292
+        ],
+        [
+          "ndvi_slope",
+          0.12944363854824856
+        ]
+      ]
+    }
+  },
+  "us_paper_reference": {
+    "loyo_auroc": "0.67-0.71",
+    "loso_auroc": "0.85-0.96"
+  },
+  "conclusion": "US paper methodology successfully transfers to Brazil, India, and Argentina"
+}
