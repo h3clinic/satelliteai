@@ -342,7 +342,7 @@ def generate_all_labels(output_file: str):
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="Generate global yield labels")
-    parser.add_argument("--output", default="~/data/agrisentinel/data/global_satellite/yield_labels.json",
+    parser.add_argument("--output", default="~/data/satelliteai/data/global_satellite/yield_labels.json",
                        help="Output file")
     args = parser.parse_args()
     

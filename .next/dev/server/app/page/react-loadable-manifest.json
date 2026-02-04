@@ -1,0 +1,10 @@
+{
+  "[project]/src/components/GlobalMap.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/GlobalMap.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/src_d1f7540e._.js",
+      "static/chunks/node_modules_maplibre-gl_dist_maplibre-gl_e7d43c05.js",
+      "static/chunks/src_components_GlobalMap_tsx_e90e89f5._.js"
+    ]
+  }
+}

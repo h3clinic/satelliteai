@@ -305,14 +305,14 @@ if __name__ == '__main__':
     ts_content, farms = generate_realfarms_ts()
     
     # Save to file
-    output_path = Path(os.path.expanduser('~/data/agrisentinel/src/lib/realFarms.ts'))
+    output_path = Path(os.path.expanduser('~/data/satelliteai/src/lib/realFarms.ts'))
     output_path.write_text(ts_content)
     
     print(f"✓ Generated {len(farms)} monitoring points")
     print(f"✓ Saved to {output_path}")
     
     # Also copy to app folder
-    app_path = Path(os.path.expanduser('~/data/agrisentinel/app/lib/realFarms.ts'))
+    app_path = Path(os.path.expanduser('~/data/satelliteai/app/lib/realFarms.ts'))
     if app_path.parent.exists():
         app_path.write_text(ts_content)
         print(f"✓ Copied to {app_path}")

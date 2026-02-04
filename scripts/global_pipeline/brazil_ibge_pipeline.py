@@ -452,7 +452,7 @@ def download_brazil_data(
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="Download Brazil IBGE PAM data")
-    parser.add_argument("--output-dir", default=os.path.expanduser("~/data/agrisentinel/data/brazil"),
+    parser.add_argument("--output-dir", default=os.path.expanduser("~/data/satelliteai/data/brazil"),
                        help="Output directory")
     parser.add_argument("--crops", nargs="+", default=["soy", "corn"],
                        help="Crops to download")
