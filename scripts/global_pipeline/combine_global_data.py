@@ -168,10 +168,10 @@ def create_training_labels(
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="Combine global yield data")
-    parser.add_argument("--brazil", default=os.path.expanduser("~/data/agrisentinel/data/brazil/brazil_subnational_yields.jsonl"))
-    parser.add_argument("--india", default=os.path.expanduser("~/data/agrisentinel/data/india/india_subnational_yields.jsonl"))
+    parser.add_argument("--brazil", default=os.path.expanduser("~/data/satelliteai/data/brazil/brazil_subnational_yields.jsonl"))
+    parser.add_argument("--india", default=os.path.expanduser("~/data/satelliteai/data/india/india_subnational_yields.jsonl"))
     parser.add_argument("--usa", default=None)
-    parser.add_argument("--output-dir", default=os.path.expanduser("~/data/agrisentinel/data/global"))
+    parser.add_argument("--output-dir", default=os.path.expanduser("~/data/satelliteai/data/global"))
     
     args = parser.parse_args()
     

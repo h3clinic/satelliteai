@@ -1,0 +1,12 @@
+[00:00:01.526] Server  LOG     ✓ Ready in 1349ms
+[00:00:08.299] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:08.763] Browser WARN    Unable to load glyph range 0, 0-255. Rendering codepoint U+0031 locally instead. Error: AJAXError:  (404): https://demotiles.maplibre.org/font/Open Sans Bold/0-255.pbf
+[00:00:08.763] Browser WARN    Unable to load glyph range 0, 0-255. Rendering codepoint U+0032 locally instead. Error: AJAXError:  (404): https://demotiles.maplibre.org/font/Open Sans Bold/0-255.pbf
+[00:00:08.763] Browser WARN    Unable to load glyph range 0, 0-255. Rendering codepoint U+0033 locally instead. Error: AJAXError:  (404): https://demotiles.maplibre.org/font/Open Sans Bold/0-255.pbf
+[00:00:08.763] Browser WARN    Unable to load glyph range 0, 0-255. Rendering codepoint U+0034 locally instead. Error: AJAXError:  (404): https://demotiles.maplibre.org/font/Open Sans Bold/0-255.pbf
+[00:00:08.763] Browser WARN    Unable to load glyph range 0, 0-255. Rendering codepoint U+0035 locally instead. Error: AJAXError:  (404): https://demotiles.maplibre.org/font/Open Sans Bold/0-255.pbf
+[00:00:08.763] Browser WARN    Unable to load glyph range 0, 0-255. Rendering codepoint U+0036 locally instead. Error: AJAXError:  (404): https://demotiles.maplibre.org/font/Open Sans Bold/0-255.pbf
+[00:00:08.763] Browser WARN    Unable to load glyph range 0, 0-255. Rendering codepoint U+0037 locally instead. Error: AJAXError:  (404): https://demotiles.maplibre.org/font/Open Sans Bold/0-255.pbf
+[00:00:08.763] Browser WARN    Unable to load glyph range 0, 0-255. Rendering codepoint U+0039 locally instead. Error: AJAXError:  (404): https://demotiles.maplibre.org/font/Open Sans Bold/0-255.pbf
+[00:00:08.763] Browser WARN    Unable to load glyph range 0, 0-255. Rendering codepoint U+0038 locally instead. Error: AJAXError:  (404): https://demotiles.maplibre.org/font/Open Sans Bold/0-255.pbf
+[00:00:08.763] Browser WARN    Unable to load glyph range 0, 0-255. Rendering codepoint U+0030 locally instead. Error: AJAXError:  (404): https://demotiles.maplibre.org/font/Open Sans Bold/0-255.pbf

@@ -1,0 +1,8 @@
+(globalThis.TURBOPACK_CHUNK_LISTS || (globalThis.TURBOPACK_CHUNK_LISTS = [])).push({
+    script: typeof document === "object" ? document.currentScript : undefined,
+    chunks: [
+  "static/chunks/src_d1f7540e._.js",
+  "static/chunks/node_modules_maplibre-gl_dist_maplibre-gl_e7d43c05.js"
+],
+    source: "dynamic"
+});
